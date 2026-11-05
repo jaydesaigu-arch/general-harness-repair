@@ -10,5 +10,11 @@
   "python_sources_parse": true,
   "primary_auto_and_review_counts_recomputed": true,
   "private_input_reconstruction_hash_verified": true,
-  "publication_pdf_sha256": "d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0"
+  "publication_pdf_sha256": "b309b37f15a896f7b8f79a3e96052e33051be3e9ac975d96e8674cba4705a48b",
+  "s1_correction": {
+    "checked_at_utc": "2026-11-05T05:32:24.584966+00:00",
+    "all_18_pages_pixel_compared": true,
+    "only_page_2_authorized_paragraph_changed": true,
+    "reference_5_unchanged": true
+  }
 }

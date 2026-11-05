@@ -1,12 +1,14 @@
 {
-  "artifact_version": "1.0.1",
+  "artifact_version": "1.0.2",
   "github": "https://github.com/jaydesaigu-arch/general-harness-repair",
   "huggingface": "https://huggingface.co/datasets/DesaiJayM/general-harness-repair",
   "paper_license": "CC BY 4.0",
   "code_documentation_new_annotations_license": "Apache-2.0",
   "arxiv_status": "Draft awaiting subject endorsement; not submitted or accepted",
   "arxiv_identifier": null,
-  "primary_pdf_unchanged": true,
+  "primary_pdf_unchanged": false,
   "gpqa_answers_withheld": true,
-  "updated_at_utc": "2026-11-05T05:14:04.275278+00:00"
+  "updated_at_utc": "2026-11-05T05:32:24.584966+00:00",
+  "scientific_results_unchanged": true,
+  "update_note": "Restored explicit s1 title attribution in Section 2.2; reference [5] retained. No experiment, source, answer or score changes."
 }

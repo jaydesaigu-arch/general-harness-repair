@@ -4,5 +4,5 @@ Copyright 2026 Jay Desai, Gujarat University.
 This paper is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 https://creativecommons.org/licenses/by/4.0/
 
-Applies to A_General_Harness_Approach_Final.pdf, SHA-256 d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0.
+Applies to A_General_Harness_Approach_Final.pdf, SHA-256 b309b37f15a896f7b8f79a3e96052e33051be3e9ac975d96e8674cba4705a48b.
 Author approval recorded 5 November 2026. Third-party attributions and rights remain applicable.

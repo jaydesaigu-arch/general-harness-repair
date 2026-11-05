@@ -1,6 +1,6 @@
 {
   "original_pdf_sha256": "cc7492bcee3a535926822efb70a1f1c97cc8b75df4bd233f8483381440dccdc5",
-  "published_pdf_sha256": "d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0",
+  "published_pdf_sha256": "b309b37f15a896f7b8f79a3e96052e33051be3e9ac975d96e8674cba4705a48b",
   "pages": 18,
   "changed_page": 10,
   "changed_rectangle": [
@@ -85,5 +85,98 @@
       "page": 18,
       "unchanged_outside_authorized_paragraph": true
     }
-  ]
+  ],
+  "previous_gpqa_corrected_pdf_sha256": "d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0",
+  "s1_attribution_restoration": {
+    "previous_pdf_sha256": "d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0",
+    "published_pdf_sha256": "b309b37f15a896f7b8f79a3e96052e33051be3e9ac975d96e8674cba4705a48b",
+    "pages": 18,
+    "changed_page": 2,
+    "changed_rectangle": [
+      72.02400207519531,
+      377.453369140625,
+      541.0520629882812,
+      457.9746398925781
+    ],
+    "old_paragraph": "Budget forcing is established prior work. Muennighoff et al. describe forced termination or extension of thinking , together with supervised fine-tuning [5]. This study applies the termination direction to existing checkpoints without additional training. The study does not claim to have invented stopping a reasoning channel. The contribution is an auditable empirical comparison: a generic transferred policy, full-suite source freezes, multiple named grading views, retained regressions, and a distinction between answer delivery and semantic correctness.",
+    "new_paragraph": "Budget forcing is established prior work. In s1: Simple test-time scaling, Muennighoff et al. describe forced termination or extension of thinking, together with supervised fine-tuning [5]. This study applies the termination direction to existing checkpoints without additional training. The study does not claim to have invented stopping a reasoning channel. The contribution is an auditable empirical comparison: a generic transferred policy, full-suite source freezes, multiple named grading views, retained regressions, and a distinction between answer delivery and semantic correctness.",
+    "new_line_count": 6,
+    "reference_5_unchanged": true,
+    "pixel_checks": [
+      {
+        "page": 1,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 2,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 3,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 4,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 5,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 6,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 7,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 8,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 9,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 10,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 11,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 12,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 13,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 14,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 15,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 16,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 17,
+        "unchanged_outside_authorized_paragraph": true
+      },
+      {
+        "page": 18,
+        "unchanged_outside_authorized_paragraph": true
+      }
+    ],
+    "source_verified": "https://arxiv.org/abs/2501.19393",
+    "checked_at_utc": "2026-11-05T05:31:46.618532+00:00"
+  }
 }
