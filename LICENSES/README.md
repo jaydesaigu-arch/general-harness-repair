@@ -3,7 +3,7 @@
 Copyright 2026 Jay Desai for original project contributions.
 
 - **Original project code, documentation and newly authored annotations:** Apache License 2.0, in the repository root `LICENSE`.
-- **Paper:** Copyright 2026 Jay Desai. Public distribution of this PDF was explicitly authorized by the author. No additional Creative Commons reuse license is asserted pending the author's arXiv license choice. The code license does not apply to the paper. Attribution: Jay Desai, Gujarat University, *A general harness repair approach to AI Model improvement* (2026).
+- **Paper:** Copyright 2026 Jay Desai. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/ , explicitly approved by the author. See `paper/LICENSE.txt`. The code license does not apply to the paper. Attribution: Jay Desai, Gujarat University, *A general harness repair approach to AI Model improvement* (2026).
 - **HumanEval material:** OpenAI MIT License, preserved in `OpenAI-HumanEval-MIT.txt`.
 - **EvalPlus:** Apache-2.0 with the additional upstream MIT notice for HumanEval-derived evaluator code, preserved in `EvalPlus-Apache-2.0.txt`.
 - **MATH material and derived MATH500 inputs/references:** upstream MIT License, preserved in `MATH-MIT.txt`.

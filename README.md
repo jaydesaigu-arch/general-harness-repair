@@ -122,6 +122,6 @@ These commands validate retained files and recompute counts from saved verdicts.
 
 - GitHub: https://github.com/jaydesaigu-arch/general-harness-repair
 - Hugging Face evidence dataset: https://huggingface.co/datasets/DesaiJayM/general-harness-repair
-- arXiv: submission status is recorded separately; no acceptance or public identifier is claimed before arXiv issues one.
+- arXiv: the draft is awaiting subject endorsement; it has not been submitted or accepted, and no public arXiv identifier has been issued.
 
-A [complete artifact download](https://github.com/jaydesaigu-arch/general-harness-repair/releases/tag/v1.0.0) is provided with the release. Use `CITATION.cff`. Original project code, documentation and new annotations are Apache-2.0. The paper is distributed here with the author's publication authorization; its additional reuse license awaits the author's arXiv license choice. Third-party model/code/data licenses and attribution remain applicable; see [license scope](LICENSES/README.md) and [notices](NOTICE.md).
+A [complete artifact download](https://github.com/jaydesaigu-arch/general-harness-repair/releases/tag/v1.0.1) is provided with the release. Use `CITATION.cff`. Original project code, documentation and new annotations are Apache-2.0. The paper is licensed CC BY 4.0, as approved by the author. Third-party model/code/data licenses and attribution remain applicable; see [license scope](LICENSES/README.md) and [notices](NOTICE.md).
