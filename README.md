@@ -1,7 +1,7 @@
 ---
 license: other
 license_name: mixed-source-research-artifacts
-license_link: LICENSES/README.md
+license_link: https://github.com/jaydesaigu-arch/general-harness-repair/blob/main/LICENSES/README.md
 language:
 - en
 tags:
