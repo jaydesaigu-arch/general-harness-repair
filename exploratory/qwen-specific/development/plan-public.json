@@ -1,0 +1,56 @@
+{
+  "frozen_at_utc": "2026-11-05T01:45:13.280817+00:00",
+  "stage": "Exploratory Qwen-specific development, not held-out evaluation",
+  "prior_baseline": "work/qwen38-27b, complete862 and previously reviewed",
+  "diagnosis": {
+    "code_baseline_failures": 14,
+    "code_failure_truncated": 8,
+    "math_baseline_failures": 24,
+    "math_failure_truncated": 19,
+    "gpqa_baseline_failures": 63,
+    "gpqa_failure_truncated": 59,
+    "other_failures": "Some semantic program/science errors and scorer/specification disagreements; do not force these to pass or feed fixes/keys to solver."
+  },
+  "hypotheses": [
+    {
+      "id": "native_effort_budget_mismatch",
+      "evidence": "Pinned xhigh template injects instructions to validate assumptions and alternatives; many failures consume their full limited reasoning allowance. Pinned native low/medium controls permit a general budget-based effort policy.",
+      "candidate": "low when output budget<=4096, medium when budget<=8192, xhigh otherwise. Applied using only numeric budget; no benchmark or problem lookup."
+    },
+    {
+      "id": "native_final_separator",
+      "evidence": "Pinned native template closes generated reasoning with </think> followed by two newlines; previous forced handoff used one newline.",
+      "candidate": "Use exact native </think> newline newline at the same cutoff, charge native token count inside existing ceiling."
+    }
+  ],
+  "arms": [
+    "legacy_transfer",
+    "qwen_native_v2"
+  ],
+  "same_user_prompts": "Both development arms use existing prompt_after, including generic math instruction; only native effort and native forced separator differ. No extra problem hints.",
+  "sample": {
+    "humaneval_plus": {
+      "total": 24,
+      "baseline_failures": 14,
+      "passing_controls": 10
+    },
+    "math500": {
+      "total": 32,
+      "baseline_failures": 24,
+      "passing_controls": 8
+    },
+    "gpqa_diamond": {
+      "total": 40,
+      "baseline_failures": 32,
+      "passing_controls": 8
+    }
+  },
+  "sample_selection": "SHA256 deterministic ranking of original baseline-failure IDs and passing controls; failure-enriched development sample, not a representative score estimate. No new candidate outcomes used in selection.",
+  "selection_rule": "Prefer native_v2 for full frozen evaluation if aggregate primary-score net across the96 items is positive and no benchmark drops by more than one item relative to the fresh legacy development arm. Otherwise inspect structural evidence and report lack of positive support; do not silently expand candidate search.",
+  "scoring": "Same frozen original primary code/math/GPQA graders, all denominators retained. Development automatic scores do not replace full final evaluation.",
+  "no_weights_or_solver_reference_access": true,
+  "development_hard_gpu_lifetime_seconds": 6300,
+  "development_total_allocation_limit_usd": 4.7,
+  "final_full_pair": "Fresh full862 original baseline then fresh862 chosen combined repair, frozen after development; same checkpoint, budgets and graders.",
+  "entire_new_round_limit_usd": 25
+}

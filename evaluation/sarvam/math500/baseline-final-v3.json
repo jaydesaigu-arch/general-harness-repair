@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "math500/457",
+    "answer": "0",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/342",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/427",
+    "answer": "29",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/258",
+    "answer": "16",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/406",
+    "answer": "0",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/420",
+    "answer": "(16/49, 48/49, 24/49)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": false
+  },
+  {
+    "id": "math500/203",
+    "answer": "12",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/459",
+    "answer": "18.90",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/310",
+    "answer": "49",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/148",
+    "answer": "11",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/473",
+    "answer": "7",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/034",
+    "answer": "-125",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/047",
+    "answer": "5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/424",
+    "answer": "600",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/276",
+    "answer": "11",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/071",
+    "answer": "2516_{8}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/002",
+    "answer": "14/3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/113",
+    "answer": "8000",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/234",
+    "answer": "34",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/445",
+    "answer": "15",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/104",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/472",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/431",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/274",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/217",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/291",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/181",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/059",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/338",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/133",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/173",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/343",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/032",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/413",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/061",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/250",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/294",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/398",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/019",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/264",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/329",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/370",
+    "answer": "-41",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/285",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/102",
+    "answer": "(a+5)(b+2)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/190",
+    "answer": "13/18",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/387",
+    "answer": "18",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/417",
+    "answer": "-2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/335",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/147",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/499",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/004",
+    "answer": "Evelyn",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/215",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/039",
+    "answer": "23",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/191",
+    "answer": "0",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/106",
+    "answer": "4/3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/404",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/248",
+    "answer": "\\begin{pmatrix} -1 & 0 \\\\ 0 & -1 \\end{pmatrix}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/263",
+    "answer": "15",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/392",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/393",
+    "answer": "3/4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/383",
+    "answer": "[-2, 7]",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/139",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/000",
+    "answer": "(3, \u03c0/2)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/031",
+    "answer": "11\\sqrt{2}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/224",
+    "answer": "9/256",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/330",
+    "answer": "1940",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/028",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/101",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/223",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/066",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/328",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/146",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/309",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/033",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/402",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/227",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/242",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/246",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/083",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/041",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/480",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/074",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/038",
+    "answer": "2000",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/425",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/082",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/155",
+    "answer": "1/4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/159",
+    "answer": "3.21",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/498",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/331",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/282",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/256",
+    "answer": "\\frac{8}{21}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/466",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/468",
+    "answer": "8",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/438",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/081",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/280",
+    "answer": "8",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/357",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/320",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/260",
+    "answer": "120",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/418",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/078",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/470",
+    "answer": "27648",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/068",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/407",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/268",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/322",
+    "answer": "-1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/134",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/015",
+    "answer": "6 - 5i",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/464",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/075",
+    "answer": "11/36",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/233",
+    "answer": "30",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/167",
+    "answer": "65",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/062",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/225",
+    "answer": "11",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/055",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/172",
+    "answer": "350",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/121",
+    "answer": "6",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/151",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/443",
+    "answer": "45",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/351",
+    "answer": "1/16",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/318",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/057",
+    "answer": "16",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/426",
+    "answer": "6\\sqrt{2}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/288",
+    "answer": "7",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/186",
+    "answer": "7",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/360",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/123",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/154",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/298",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/090",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/129",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/489",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/324",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/419",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/354",
+    "answer": "81",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/149",
+    "answer": "49",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/259",
+    "answer": "22",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/128",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/035",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/452",
+    "answer": "143",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/228",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/474",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/323",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/313",
+    "answer": "12\u03c0",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/482",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/454",
+    "answer": "y = 2x + 3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/125",
+    "answer": "-3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/436",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/269",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/116",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/359",
+    "answer": "6",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/009",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/350",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/089",
+    "answer": "21",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/093",
+    "answer": "33",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/389",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/236",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/122",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/044",
+    "answer": "1.25",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/346",
+    "answer": "66",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/043",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/262",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/442",
+    "answer": "256",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/198",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/143",
+    "answer": "3\\sqrt{5}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/421",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/388",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/221",
+    "answer": "900",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/199",
+    "answer": "17",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/003",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/241",
+    "answer": "17",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/290",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/026",
+    "answer": "144",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/049",
+    "answer": "83",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/020",
+    "answer": "6 + 9i",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/118",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/060",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/001",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/465",
+    "answer": "121",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/193",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/265",
+    "answer": "4005",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/058",
+    "answer": "9901",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/496",
+    "answer": "5/13",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/273",
+    "answer": "1250",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/137",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/110",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/401",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/339",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/255",
+    "answer": "E",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/029",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/451",
+    "answer": "639/40",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/084",
+    "answer": "-1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/216",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/018",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/349",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/444",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/428",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/332",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/494",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/295",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/192",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/037",
+    "answer": "72",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/386",
+    "answer": "11",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/372",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/157",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/095",
+    "answer": "-4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/176",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/124",
+    "answer": "11/2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/132",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/008",
+    "answer": "3\\sqrt{13}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/098",
+    "answer": "2k + 2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/017",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/120",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/373",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/448",
+    "answer": "44",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/272",
+    "answer": "1030",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/365",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/207",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/073",
+    "answer": "\\frac{3\\sqrt{3}}{4}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/107",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/315",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/184",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/065",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/287",
+    "answer": "36",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/220",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/440",
+    "answer": "14",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/492",
+    "answer": "y = -2x",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/174",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/377",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/316",
+    "answer": "12",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/254",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/187",
+    "answer": "7",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/014",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/450",
+    "answer": "64",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/266",
+    "answer": "33/100",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/293",
+    "answer": "(3/5, 8/3]",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/056",
+    "answer": "11",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/109",
+    "answer": "120",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/023",
+    "answer": "5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/333",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/166",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/115",
+    "answer": "1260",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/180",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/441",
+    "answer": "550",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/048",
+    "answer": "3/2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/013",
+    "answer": "5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/201",
+    "answer": "66",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/475",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/209",
+    "answer": "16",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/432",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/447",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/477",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/292",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/396",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/478",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/303",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/007",
+    "answer": "90",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/108",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/461",
+    "answer": "12",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/150",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/446",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/353",
+    "answer": "480",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/317",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/251",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/183",
+    "answer": "23",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/284",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/022",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/283",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/214",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/400",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/160",
+    "answer": "18",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/164",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/414",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/304",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/411",
+    "answer": "60",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/094",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/156",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/182",
+    "answer": "1251",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/368",
+    "answer": "31",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/416",
+    "answer": "1/8",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/238",
+    "answer": "-4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/385",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/337",
+    "answer": "6",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/178",
+    "answer": "60",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/050",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/479",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/405",
+    "answer": "60",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/495",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/051",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/099",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/040",
+    "answer": "12",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/165",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/449",
+    "answer": "47",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/130",
+    "answer": "13",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/240",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/208",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/036",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/206",
+    "answer": "(3/2, -13)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/483",
+    "answer": "8/15",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/486",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/410",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/010",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/158",
+    "answer": "2107",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/439",
+    "answer": "x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/277",
+    "answer": "\\sqrt{53}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/144",
+    "answer": "(15, -29)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/341",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/364",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/286",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/485",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/456",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/462",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/379",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/185",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/384",
+    "answer": "15x - 80",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/334",
+    "answer": "-120",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/471",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/422",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/205",
+    "answer": "\\begin{pmatrix} -2 \\\\ -14 \\\\ -7 \\end{pmatrix}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/493",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/355",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/281",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/087",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/229",
+    "answer": "90",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/362",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/069",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/348",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/006",
+    "answer": "27",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/257",
+    "answer": "864",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/453",
+    "answer": "10",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/196",
+    "answer": "1600",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/380",
+    "answer": "(0,9)\\cup(9,36)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/127",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/302",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/112",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/409",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/063",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/145",
+    "answer": "-2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/005",
+    "answer": "42",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/162",
+    "answer": "17/50",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/484",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/375",
+    "answer": "25",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/243",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/267",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/369",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/126",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/374",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/025",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/327",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/326",
+    "answer": "9/100",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/136",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/091",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/321",
+    "answer": "10",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/103",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/356",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/279",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/352",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/027",
+    "answer": "78",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/366",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/467",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/177",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/076",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/012",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/212",
+    "answer": "56",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/052",
+    "answer": "12",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/138",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/390",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/016",
+    "answer": "-50",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/437",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/382",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/200",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/153",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/481",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/367",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/011",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/296",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/423",
+    "answer": "1440",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/067",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/289",
+    "answer": "16",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/300",
+    "answer": "12",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/232",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/097",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/319",
+    "answer": "-128",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/244",
+    "answer": "8",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/412",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/395",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/131",
+    "answer": "8",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/345",
+    "answer": "1",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/491",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/079",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/195",
+    "answer": "24",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/085",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/434",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/194",
+    "answer": "1/4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/253",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/469",
+    "answer": "25",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/476",
+    "answer": "200",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/114",
+    "answer": "-5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/358",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/306",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/077",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/188",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/169",
+    "answer": "12",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/210",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/435",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/275",
+    "answer": "7",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/119",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/299",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/463",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/460",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/235",
+    "answer": "5/9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/072",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/211",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/070",
+    "answer": "40_9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/021",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/252",
+    "answer": "81",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/142",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/111",
+    "answer": "210",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/135",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/430",
+    "answer": "4.5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/455",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/429",
+    "answer": "50",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/325",
+    "answer": "4",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/046",
+    "answer": "6",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/311",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/100",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/381",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/222",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/378",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/312",
+    "answer": "(5, \u221e)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": false
+  },
+  {
+    "id": "math500/161",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/189",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/458",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/376",
+    "answer": "(8, -2)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/399",
+    "answer": "326.5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/261",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/170",
+    "answer": "1736",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/175",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/394",
+    "answer": "-3/8",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/301",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/247",
+    "answer": "10/11",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/092",
+    "answer": "448/15625",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/197",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/080",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/117",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/487",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/488",
+    "answer": "36",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/363",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/213",
+    "answer": "2",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/391",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/045",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/168",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/308",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/344",
+    "answer": "5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/361",
+    "answer": "16\\sqrt{3}",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/305",
+    "answer": "9/19",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/030",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/231",
+    "answer": "10",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/204",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/163",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/278",
+    "answer": "255",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/088",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/054",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/086",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/415",
+    "answer": "9",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/433",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/245",
+    "answer": "-13x + 3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/237",
+    "answer": "22",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/226",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/105",
+    "answer": "29",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/307",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/314",
+    "answer": "(2, 4)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/218",
+    "answer": "(-1,6)",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/340",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/270",
+    "answer": "10",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/152",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/397",
+    "answer": "23",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/249",
+    "answer": "17",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/271",
+    "answer": "333",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/053",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/171",
+    "answer": "13/15",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/490",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/297",
+    "answer": "103",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/239",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/371",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/403",
+    "answer": "3",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/096",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/202",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/497",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/408",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/230",
+    "answer": "16/5",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/347",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/024",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/064",
+    "answer": "35/64",
+    "extraction": "last_nonempty_answer_label_formatting_v3",
+    "correct": true
+  },
+  {
+    "id": "math500/336",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/042",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/179",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/219",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/140",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/141",
+    "answer": null,
+    "extraction": "missing",
+    "correct": false
+  }
+]

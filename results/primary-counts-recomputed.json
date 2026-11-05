@@ -1,0 +1,54 @@
+{
+  "sarvam": {
+    "humaneval_plus": {
+      "n": 164,
+      "baseline": 95,
+      "repaired": 146,
+      "net": 51,
+      "gains": 53,
+      "losses": 2
+    },
+    "math500": {
+      "n": 500,
+      "baseline": 372,
+      "repaired": 435,
+      "net": 63,
+      "gains": 84,
+      "losses": 21
+    },
+    "gpqa_diamond": {
+      "n": 198,
+      "baseline": 50,
+      "repaired": 109,
+      "net": 59,
+      "gains": 62,
+      "losses": 3
+    }
+  },
+  "qwen": {
+    "humaneval_plus": {
+      "n": 164,
+      "baseline": 150,
+      "repaired": 153,
+      "net": 3,
+      "gains": 6,
+      "losses": 3
+    },
+    "math500": {
+      "n": 500,
+      "baseline": 476,
+      "repaired": 487,
+      "net": 11,
+      "gains": 19,
+      "losses": 8
+    },
+    "gpqa_diamond": {
+      "n": 198,
+      "baseline": 135,
+      "repaired": 173,
+      "net": 38,
+      "gains": 38,
+      "losses": 0
+    }
+  }
+}

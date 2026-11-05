@@ -1,0 +1,7502 @@
+[
+  {
+    "id": "math500/020",
+    "truncated": false,
+    "new_tokens": 671,
+    "reference_first": {
+      "answer": "6 + 9i.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 6 + 9i",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/016",
+    "truncated": false,
+    "new_tokens": 729,
+    "reference_first": {
+      "answer": "-50.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** -50",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/038",
+    "truncated": false,
+    "new_tokens": 806,
+    "reference_first": {
+      "answer": "2000.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 2000",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/003",
+    "truncated": false,
+    "new_tokens": 844,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/030",
+    "truncated": false,
+    "new_tokens": 867,
+    "reference_first": {
+      "answer": "52_8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "$52_8$.",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/042",
+    "truncated": false,
+    "new_tokens": 974,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/000",
+    "truncated": false,
+    "new_tokens": 1034,
+    "reference_first": {
+      "answer": "(3, \u03c0/2).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(3, \u03c0/2)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/035",
+    "truncated": false,
+    "new_tokens": 1035,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/002",
+    "truncated": false,
+    "new_tokens": 1052,
+    "reference_first": {
+      "answer": "14/3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "14/3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/029",
+    "truncated": false,
+    "new_tokens": 1096,
+    "reference_first": {
+      "answer": "225.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "225",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/013",
+    "truncated": false,
+    "new_tokens": 1126,
+    "reference_first": {
+      "answer": "5\".",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/031",
+    "truncated": false,
+    "new_tokens": 1166,
+    "reference_first": {
+      "answer": "11 sqrt(2).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11\\sqrt{2}",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/005",
+    "truncated": false,
+    "new_tokens": 1182,
+    "reference_first": {
+      "answer": "42.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "42",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/027",
+    "truncated": false,
+    "new_tokens": 1229,
+    "reference_first": {
+      "answer": "$78.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "$78.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/047",
+    "truncated": false,
+    "new_tokens": 1265,
+    "reference_first": {
+      "answer": "5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/039",
+    "truncated": false,
+    "new_tokens": 1351,
+    "reference_first": {
+      "answer": "23.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "23",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/044",
+    "truncated": false,
+    "new_tokens": 1491,
+    "reference_first": {
+      "answer": "1.25.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1.25",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/048",
+    "truncated": false,
+    "new_tokens": 847,
+    "reference_first": {
+      "answer": "3/2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3/2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/034",
+    "truncated": false,
+    "new_tokens": 1661,
+    "reference_first": {
+      "answer": "-125.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-125",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/056",
+    "truncated": false,
+    "new_tokens": 666,
+    "reference_first": {
+      "answer": "11.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/007",
+    "truncated": false,
+    "new_tokens": 1743,
+    "reference_first": {
+      "answer": "90.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "90",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/006",
+    "truncated": false,
+    "new_tokens": 1781,
+    "reference_first": {
+      "answer": "27.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "27",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/053",
+    "truncated": false,
+    "new_tokens": 808,
+    "reference_first": {
+      "answer": "-\u03c0/6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-\u03c0/6.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/054",
+    "truncated": false,
+    "new_tokens": 758,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 0.15",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/033",
+    "truncated": false,
+    "new_tokens": 1809,
+    "reference_first": {
+      "answer": "243/625.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "243/625",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/059",
+    "truncated": false,
+    "new_tokens": 743,
+    "reference_first": {
+      "answer": "5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/008",
+    "truncated": false,
+    "new_tokens": 2010,
+    "reference_first": {
+      "answer": "3 sqrt(13). The problem says \"Express your answer in simplest radical form.\" So answer: $3\\sqrt{13}$.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "3\\sqrt{13}",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/004",
+    "truncated": false,
+    "new_tokens": 2080,
+    "reference_first": {
+      "answer": "Evelyn.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "Evelyn",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/052",
+    "truncated": false,
+    "new_tokens": 1302,
+    "reference_first": {
+      "answer": "12.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/058",
+    "truncated": false,
+    "new_tokens": 1204,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9901.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/065",
+    "truncated": false,
+    "new_tokens": 827,
+    "reference_first": {
+      "answer": "\"Answer: 1\".",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/051",
+    "truncated": false,
+    "new_tokens": 1626,
+    "reference_first": {
+      "answer": "x^5 - x^4 + x^3 - x^2 + x - 1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "x^5 - x^4 + x^3 - x^2 + x - 1.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/055",
+    "truncated": false,
+    "new_tokens": 1436,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/057",
+    "truncated": false,
+    "new_tokens": 1467,
+    "reference_first": {
+      "answer": "16.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "16",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/070",
+    "truncated": false,
+    "new_tokens": 811,
+    "reference_first": {
+      "answer": "40_9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "40_9.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/019",
+    "truncated": false,
+    "new_tokens": 2755,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/072",
+    "truncated": false,
+    "new_tokens": 1073,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/077",
+    "truncated": false,
+    "new_tokens": 626,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 4",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/073",
+    "truncated": false,
+    "new_tokens": 1085,
+    "reference_first": {
+      "answer": "\\(\\frac{3\\sqrt{3}}{4}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{3\\sqrt{3}}{4}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/067",
+    "truncated": false,
+    "new_tokens": 1552,
+    "reference_first": {
+      "answer": "10%.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10%",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/071",
+    "truncated": false,
+    "new_tokens": 1665,
+    "reference_first": {
+      "answer": "2516_8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 2516_8",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/086",
+    "truncated": false,
+    "new_tokens": 543,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "240**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/015",
+    "truncated": false,
+    "new_tokens": 3663,
+    "reference_first": {
+      "answer": "w = 6 - 5 i.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6 - 5i",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/081",
+    "truncated": false,
+    "new_tokens": 1214,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/046",
+    "truncated": false,
+    "new_tokens": 3860,
+    "reference_first": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/084",
+    "truncated": false,
+    "new_tokens": 1527,
+    "reference_first": {
+      "answer": "-1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/069",
+    "truncated": false,
+    "new_tokens": 2631,
+    "reference_first": {
+      "answer": "-1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/090",
+    "truncated": false,
+    "new_tokens": 847,
+    "reference_first": {
+      "answer": "3/2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 3/2",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/089",
+    "truncated": false,
+    "new_tokens": 1058,
+    "reference_first": {
+      "answer": "21.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "21",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/087",
+    "truncated": false,
+    "new_tokens": 1456,
+    "reference_first": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/068",
+    "truncated": false,
+    "new_tokens": 3314,
+    "reference_first": {
+      "answer": "46.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "46",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/091",
+    "truncated": false,
+    "new_tokens": 1578,
+    "reference_first": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/011",
+    "truncated": false,
+    "new_tokens": 5432,
+    "reference_first": {
+      "answer": "3/56.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3/56.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/093",
+    "truncated": false,
+    "new_tokens": 1080,
+    "reference_first": {
+      "answer": "c = 33.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "33.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/095",
+    "truncated": false,
+    "new_tokens": 1039,
+    "reference_first": {
+      "answer": "-4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/078",
+    "truncated": false,
+    "new_tokens": 3263,
+    "reference_first": {
+      "answer": "(-2, 1).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(-2, 1)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/098",
+    "truncated": false,
+    "new_tokens": 875,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2k + 2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/092",
+    "truncated": false,
+    "new_tokens": 2178,
+    "reference_first": {
+      "answer": "\\(\\frac{35 \\cdot (1/5)^4 \\cdot (4/5)^3}{1}\\) = \\(\\frac{448}{15625}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{448}{15625}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/097",
+    "truncated": false,
+    "new_tokens": 1492,
+    "reference_first": {
+      "answer": "east.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "east",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/102",
+    "truncated": false,
+    "new_tokens": 1129,
+    "reference_first": {
+      "answer": "$(a+5)(b+2)$.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "(a+5)(b+2).",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/099",
+    "truncated": false,
+    "new_tokens": 1863,
+    "reference_first": {
+      "answer": "$\\mathbf{v} = \\begin{pmatrix} -1/3 \\\\ 2/3 \\\\ 5/3 \\end{pmatrix}$.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "** \\(\\begin{pmatrix} -1/3 \\\\ 2/3 \\\\ 5/3 \\end{pmatrix}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/061",
+    "truncated": false,
+    "new_tokens": 6289,
+    "reference_first": {
+      "answer": "-256.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** -256",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/111",
+    "truncated": false,
+    "new_tokens": 564,
+    "reference_first": {
+      "answer": "210.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "210",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/116",
+    "truncated": false,
+    "new_tokens": 584,
+    "reference_first": {
+      "answer": "x = 2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/121",
+    "truncated": false,
+    "new_tokens": 647,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/122",
+    "truncated": false,
+    "new_tokens": 747,
+    "reference_first": {
+      "answer": "9 customers.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/107",
+    "truncated": false,
+    "new_tokens": 1293,
+    "reference_first": {
+      "answer": "9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/115",
+    "truncated": false,
+    "new_tokens": 932,
+    "reference_first": {
+      "answer": "1260.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1260",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/125",
+    "truncated": false,
+    "new_tokens": 992,
+    "reference_first": {
+      "answer": "-3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/113",
+    "truncated": false,
+    "new_tokens": 1079,
+    "reference_first": {
+      "answer": "8000.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8000",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/114",
+    "truncated": false,
+    "new_tokens": 1162,
+    "reference_first": {
+      "answer": "-5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/127",
+    "truncated": false,
+    "new_tokens": 1365,
+    "reference_first": {
+      "answer": "4210_5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4210_5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/130",
+    "truncated": false,
+    "new_tokens": 1108,
+    "reference_first": {
+      "answer": "13.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "13",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/124",
+    "truncated": false,
+    "new_tokens": 1631,
+    "reference_first": {
+      "answer": "11/2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11/2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/135",
+    "truncated": false,
+    "new_tokens": 1081,
+    "reference_first": {
+      "answer": "9 zeros.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/144",
+    "truncated": false,
+    "new_tokens": 573,
+    "reference_first": {
+      "answer": "(15, -29).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(15, -29)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/133",
+    "truncated": false,
+    "new_tokens": 1510,
+    "reference_first": {
+      "answer": "120 degrees.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "120",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/148",
+    "truncated": false,
+    "new_tokens": 572,
+    "reference_first": {
+      "answer": "x = 11.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/137",
+    "truncated": false,
+    "new_tokens": 1584,
+    "reference_first": {
+      "answer": "204_5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "204_5.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/140",
+    "truncated": false,
+    "new_tokens": 1346,
+    "reference_first": {
+      "answer": "13.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "13",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/143",
+    "truncated": false,
+    "new_tokens": 1420,
+    "reference_first": {
+      "answer": "3 sqrt(5).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3 sqrt(5)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/132",
+    "truncated": false,
+    "new_tokens": 2170,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/109",
+    "truncated": false,
+    "new_tokens": 3101,
+    "reference_first": {
+      "answer": "120\u00b0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "120",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/161",
+    "truncated": false,
+    "new_tokens": 660,
+    "reference_first": {
+      "answer": "followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/160",
+    "truncated": false,
+    "new_tokens": 934,
+    "reference_first": {
+      "answer": "18.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "18",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/118",
+    "truncated": false,
+    "new_tokens": 3483,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "81",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/162",
+    "truncated": false,
+    "new_tokens": 1002,
+    "reference_first": {
+      "answer": "17/50.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "17/50.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/129",
+    "truncated": false,
+    "new_tokens": 3642,
+    "reference_first": {
+      "answer": "3840/289.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3840/289.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/159",
+    "truncated": false,
+    "new_tokens": 1232,
+    "reference_first": {
+      "answer": "3.21.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3.21",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/112",
+    "truncated": false,
+    "new_tokens": 3713,
+    "reference_first": {
+      "answer": "13.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "13",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/167",
+    "truncated": false,
+    "new_tokens": 632,
+    "reference_first": {
+      "answer": "65 cubic units.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 65.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/158",
+    "truncated": false,
+    "new_tokens": 1477,
+    "reference_first": {
+      "answer": "2107.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 2107",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/145",
+    "truncated": false,
+    "new_tokens": 2655,
+    "reference_first": {
+      "answer": "-2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-2**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/149",
+    "truncated": false,
+    "new_tokens": 2522,
+    "reference_first": {
+      "answer": "49.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "49",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/171",
+    "truncated": false,
+    "new_tokens": 824,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{13}{15}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/172",
+    "truncated": false,
+    "new_tokens": 974,
+    "reference_first": {
+      "answer": "350.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "350",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/169",
+    "truncated": false,
+    "new_tokens": 1284,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/178",
+    "truncated": false,
+    "new_tokens": 733,
+    "reference_first": {
+      "answer": "60.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 60",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/147",
+    "truncated": false,
+    "new_tokens": 3932,
+    "reference_first": {
+      "answer": "16.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 16",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/182",
+    "truncated": false,
+    "new_tokens": 829,
+    "reference_first": {
+      "answer": "1251.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1251**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/175",
+    "truncated": false,
+    "new_tokens": 1907,
+    "reference_first": {
+      "answer": "3\". The problem says \"End your response with a line that starts with Answer: followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/180",
+    "truncated": false,
+    "new_tokens": 1419,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/191",
+    "truncated": false,
+    "new_tokens": 652,
+    "reference_first": {
+      "answer": "b = 0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "0",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/187",
+    "truncated": false,
+    "new_tokens": 1105,
+    "reference_first": {
+      "answer": "7.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "7",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/176",
+    "truncated": false,
+    "new_tokens": 3097,
+    "reference_first": {
+      "answer": "0.0000672.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "0.0000672",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/196",
+    "truncated": false,
+    "new_tokens": 654,
+    "reference_first": {
+      "answer": "1600.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1600.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/192",
+    "truncated": false,
+    "new_tokens": 1833,
+    "reference_first": {
+      "answer": "30.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "30",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/190",
+    "truncated": false,
+    "new_tokens": 2223,
+    "reference_first": {
+      "answer": "13/18.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "13/18",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/200",
+    "truncated": false,
+    "new_tokens": 970,
+    "reference_first": {
+      "answer": "40 daps.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "40",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/198",
+    "truncated": false,
+    "new_tokens": 1226,
+    "reference_first": {
+      "answer": "10080.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10080",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/206",
+    "truncated": false,
+    "new_tokens": 1137,
+    "reference_first": {
+      "answer": "(3/2, -13). But we need to output as ordered pair (m,b). So (3/2, -13). The final line: Answer: (3/2, -13). The problem says \"Enter the ordered pair (m,b).\" So answer is (3/2, -13). The final line: Answer: (3/2, -13). We'll produce step-by-step solution.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(3/2, -13)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/203",
+    "truncated": false,
+    "new_tokens": 1261,
+    "reference_first": {
+      "answer": "12.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/152",
+    "truncated": false,
+    "new_tokens": 6543,
+    "reference_first": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/207",
+    "truncated": false,
+    "new_tokens": 1107,
+    "reference_first": {
+      "answer": "28.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "28",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/205",
+    "truncated": false,
+    "new_tokens": 1797,
+    "reference_first": {
+      "answer": "(-2, -14, -7).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\begin{pmatrix} -2 \\\\ -14 \\\\ -7 \\end{pmatrix}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/211",
+    "truncated": false,
+    "new_tokens": 1042,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 5",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/208",
+    "truncated": false,
+    "new_tokens": 1341,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/218",
+    "truncated": false,
+    "new_tokens": 922,
+    "reference_first": {
+      "answer": "(-1, 6). The problem says: \"Express your answer as an ordered pair, (x,y).\" So answer: (-1,6). The final line must start with \"Answer:\" followed by the final result. So we need to output something like:",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(-1,6)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/173",
+    "truncated": false,
+    "new_tokens": 5776,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/215",
+    "truncated": false,
+    "new_tokens": 1293,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/216",
+    "truncated": false,
+    "new_tokens": 1350,
+    "reference_first": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 6",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/202",
+    "truncated": false,
+    "new_tokens": 2573,
+    "reference_first": {
+      "answer": "2/3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2/3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/225",
+    "truncated": false,
+    "new_tokens": 1026,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/227",
+    "truncated": false,
+    "new_tokens": 1137,
+    "reference_first": {
+      "answer": "C\". The problem says \"End your response with a line that starts with Answer: followed by your final result.\" So we need to output something like:",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "C",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/229",
+    "truncated": false,
+    "new_tokens": 943,
+    "reference_first": {
+      "answer": "90.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "90",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/170",
+    "truncated": false,
+    "new_tokens": 6928,
+    "reference_first": {
+      "answer": "1736.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1736",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/235",
+    "truncated": false,
+    "new_tokens": 928,
+    "reference_first": {
+      "answer": "5/9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5/9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/194",
+    "truncated": false,
+    "new_tokens": 4331,
+    "reference_first": {
+      "answer": "1/4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** \\(\\frac{1}{4}\\)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/231",
+    "truncated": false,
+    "new_tokens": 1799,
+    "reference_first": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/243",
+    "truncated": false,
+    "new_tokens": 1093,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/237",
+    "truncated": false,
+    "new_tokens": 1798,
+    "reference_first": {
+      "answer": "22.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "22.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/241",
+    "truncated": false,
+    "new_tokens": 1723,
+    "reference_first": {
+      "answer": "17.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "17",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/230",
+    "truncated": false,
+    "new_tokens": 2590,
+    "reference_first": {
+      "answer": "16/5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "16/5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/238",
+    "truncated": false,
+    "new_tokens": 2319,
+    "reference_first": {
+      "answer": "x = -4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/253",
+    "truncated": false,
+    "new_tokens": 928,
+    "reference_first": {
+      "answer": "1/8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1/8",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/252",
+    "truncated": false,
+    "new_tokens": 1428,
+    "reference_first": {
+      "answer": "81.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "81",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/256",
+    "truncated": false,
+    "new_tokens": 955,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 8/21",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/247",
+    "truncated": false,
+    "new_tokens": 2309,
+    "reference_first": {
+      "answer": "10/11.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 10/11.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/257",
+    "truncated": false,
+    "new_tokens": 1010,
+    "reference_first": {
+      "answer": "864.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "864",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/259",
+    "truncated": false,
+    "new_tokens": 886,
+    "reference_first": {
+      "answer": "22\". The final line must start with \"Answer:\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "22",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/258",
+    "truncated": false,
+    "new_tokens": 1605,
+    "reference_first": {
+      "answer": "16.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "16**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/265",
+    "truncated": false,
+    "new_tokens": 751,
+    "reference_first": {
+      "answer": "4005.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 4005",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/261",
+    "truncated": false,
+    "new_tokens": 1188,
+    "reference_first": {
+      "answer": "76.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "76.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/268",
+    "truncated": false,
+    "new_tokens": 957,
+    "reference_first": {
+      "answer": "followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/266",
+    "truncated": false,
+    "new_tokens": 1076,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "33/100",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/260",
+    "truncated": false,
+    "new_tokens": 1783,
+    "reference_first": {
+      "answer": "120.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "120",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/270",
+    "truncated": false,
+    "new_tokens": 1107,
+    "reference_first": {
+      "answer": "$10.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/263",
+    "truncated": false,
+    "new_tokens": 1639,
+    "reference_first": {
+      "answer": "15.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "15",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/275",
+    "truncated": false,
+    "new_tokens": 871,
+    "reference_first": {
+      "answer": "7\". The problem says \"End your response with a line that starts with Answer: followed by your final result.\" So we need to include that line at the end.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "7",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/269",
+    "truncated": false,
+    "new_tokens": 1708,
+    "reference_first": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/277",
+    "truncated": false,
+    "new_tokens": 1074,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\sqrt{53}",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/272",
+    "truncated": false,
+    "new_tokens": 1659,
+    "reference_first": {
+      "answer": "1030.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1030",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/278",
+    "truncated": false,
+    "new_tokens": 1429,
+    "reference_first": {
+      "answer": "255.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 255",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/283",
+    "truncated": false,
+    "new_tokens": 1141,
+    "reference_first": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/273",
+    "truncated": false,
+    "new_tokens": 2181,
+    "reference_first": {
+      "answer": "$1250.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "$1250",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/289",
+    "truncated": false,
+    "new_tokens": 1822,
+    "reference_first": {
+      "answer": "16.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 16",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/293",
+    "truncated": false,
+    "new_tokens": 1842,
+    "reference_first": {
+      "answer": "(3/5, 8/3].",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** (3/5, 8/3]",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/297",
+    "truncated": false,
+    "new_tokens": 1724,
+    "reference_first": {
+      "answer": "103.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 103",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/299",
+    "truncated": false,
+    "new_tokens": 1940,
+    "reference_first": {
+      "answer": "63.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "63",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/305",
+    "truncated": false,
+    "new_tokens": 1367,
+    "reference_first": {
+      "answer": "9/19.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9/19",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/288",
+    "truncated": false,
+    "new_tokens": 3011,
+    "reference_first": {
+      "answer": "7.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "7",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/304",
+    "truncated": false,
+    "new_tokens": 1824,
+    "reference_first": {
+      "answer": "9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/314",
+    "truncated": false,
+    "new_tokens": 1125,
+    "reference_first": {
+      "answer": "(2,4).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(2, 4)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/319",
+    "truncated": false,
+    "new_tokens": 861,
+    "reference_first": {
+      "answer": "-128.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-128",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/307",
+    "truncated": false,
+    "new_tokens": 1942,
+    "reference_first": {
+      "answer": "(-\u221e, 0].",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(-\u221e, 0]",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/310",
+    "truncated": false,
+    "new_tokens": 1630,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "49",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/294",
+    "truncated": false,
+    "new_tokens": 3150,
+    "reference_first": {
+      "answer": "58.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "58",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/322",
+    "truncated": false,
+    "new_tokens": 622,
+    "reference_first": {
+      "answer": "-1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/318",
+    "truncated": false,
+    "new_tokens": 1111,
+    "reference_first": {
+      "answer": "(11+9a)/20.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** (11+9a)/20",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/321",
+    "truncated": false,
+    "new_tokens": 1068,
+    "reference_first": {
+      "answer": "10 meters.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 10 meters.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/311",
+    "truncated": false,
+    "new_tokens": 1937,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/316",
+    "truncated": false,
+    "new_tokens": 1744,
+    "reference_first": {
+      "answer": "12.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/325",
+    "truncated": false,
+    "new_tokens": 907,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/298",
+    "truncated": false,
+    "new_tokens": 3924,
+    "reference_first": {
+      "answer": "(-18, -49, 96).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(-18, -49, 96)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/315",
+    "truncated": false,
+    "new_tokens": 2306,
+    "reference_first": {
+      "answer": "41.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "41",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/334",
+    "truncated": false,
+    "new_tokens": 1392,
+    "reference_first": {
+      "answer": "-120.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-120",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/342",
+    "truncated": false,
+    "new_tokens": 595,
+    "reference_first": {
+      "answer": "x = 2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/302",
+    "truncated": false,
+    "new_tokens": 4361,
+    "reference_first": {
+      "answer": "5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/326",
+    "truncated": false,
+    "new_tokens": 2214,
+    "reference_first": {
+      "answer": "9/100.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9/100.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/338",
+    "truncated": false,
+    "new_tokens": 1474,
+    "reference_first": {
+      "answer": "4343_6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4343_6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/345",
+    "truncated": false,
+    "new_tokens": 724,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/331",
+    "truncated": false,
+    "new_tokens": 2329,
+    "reference_first": {
+      "answer": "\\(\\frac{13}{6}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{13}{6}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/337",
+    "truncated": false,
+    "new_tokens": 1972,
+    "reference_first": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/348",
+    "truncated": false,
+    "new_tokens": 823,
+    "reference_first": {
+      "answer": "Answer: 4495.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4495.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/347",
+    "truncated": false,
+    "new_tokens": 988,
+    "reference_first": {
+      "answer": "6r^2 - 4r - 24.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6r^2 - 4r - 24.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/346",
+    "truncated": false,
+    "new_tokens": 1204,
+    "reference_first": {
+      "answer": "66.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "66.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/350",
+    "truncated": false,
+    "new_tokens": 1225,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/353",
+    "truncated": false,
+    "new_tokens": 1161,
+    "reference_first": {
+      "answer": "480.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "480",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/354",
+    "truncated": false,
+    "new_tokens": 1162,
+    "reference_first": {
+      "answer": "81.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "81",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/358",
+    "truncated": false,
+    "new_tokens": 1149,
+    "reference_first": {
+      "answer": "circle.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "circle",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/363",
+    "truncated": false,
+    "new_tokens": 1010,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/367",
+    "truncated": false,
+    "new_tokens": 874,
+    "reference_first": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/370",
+    "truncated": false,
+    "new_tokens": 797,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-41",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/357",
+    "truncated": false,
+    "new_tokens": 1866,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/368",
+    "truncated": false,
+    "new_tokens": 1259,
+    "reference_first": {
+      "answer": "31.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "31",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/374",
+    "truncated": false,
+    "new_tokens": 796,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/366",
+    "truncated": false,
+    "new_tokens": 1792,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/328",
+    "truncated": false,
+    "new_tokens": 5202,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/384",
+    "truncated": false,
+    "new_tokens": 779,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 15x - 80",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/387",
+    "truncated": false,
+    "new_tokens": 499,
+    "reference_first": {
+      "answer": "18.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 18",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/375",
+    "truncated": false,
+    "new_tokens": 1711,
+    "reference_first": {
+      "answer": "25.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "25.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/383",
+    "truncated": false,
+    "new_tokens": 1032,
+    "reference_first": {
+      "answer": "Answer: [-2, 7].",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "[-2, 7]",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/386",
+    "truncated": false,
+    "new_tokens": 944,
+    "reference_first": {
+      "answer": "11.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/359",
+    "truncated": false,
+    "new_tokens": 3317,
+    "reference_first": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/376",
+    "truncated": false,
+    "new_tokens": 1996,
+    "reference_first": {
+      "answer": "(8, -2).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(8, -2)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/378",
+    "truncated": false,
+    "new_tokens": 1827,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/361",
+    "truncated": false,
+    "new_tokens": 3327,
+    "reference_first": {
+      "answer": "16 sqrt(3).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "16\\sqrt{3}",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/395",
+    "truncated": false,
+    "new_tokens": 859,
+    "reference_first": {
+      "answer": "\" followed by the final result. So final line: Answer: 4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/397",
+    "truncated": false,
+    "new_tokens": 785,
+    "reference_first": {
+      "answer": "23.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "23.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/393",
+    "truncated": false,
+    "new_tokens": 1283,
+    "reference_first": {
+      "answer": "3/4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3/4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/399",
+    "truncated": false,
+    "new_tokens": 1021,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "326.5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/388",
+    "truncated": false,
+    "new_tokens": 2024,
+    "reference_first": {
+      "answer": "11/2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11/2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/389",
+    "truncated": false,
+    "new_tokens": 2112,
+    "reference_first": {
+      "answer": "sqrt(21)/5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{\\sqrt{21}}{5}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/351",
+    "truncated": false,
+    "new_tokens": 5497,
+    "reference_first": {
+      "answer": "\\(\\frac{1}{16}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** \\(\\frac{1}{16}\\)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/405",
+    "truncated": false,
+    "new_tokens": 1046,
+    "reference_first": {
+      "answer": "60.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "60",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/406",
+    "truncated": false,
+    "new_tokens": 1025,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "0",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/413",
+    "truncated": false,
+    "new_tokens": 784,
+    "reference_first": {
+      "answer": "5r^5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5r^5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/411",
+    "truncated": false,
+    "new_tokens": 961,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 60",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/390",
+    "truncated": false,
+    "new_tokens": 2710,
+    "reference_first": {
+      "answer": "12.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/407",
+    "truncated": false,
+    "new_tokens": 1250,
+    "reference_first": {
+      "answer": "9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/402",
+    "truncated": false,
+    "new_tokens": 2323,
+    "reference_first": {
+      "answer": "1 - 12i.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1 - 12i",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/410",
+    "truncated": false,
+    "new_tokens": 1572,
+    "reference_first": {
+      "answer": "Answer: 6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/417",
+    "truncated": false,
+    "new_tokens": 1262,
+    "reference_first": {
+      "answer": "-2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/391",
+    "truncated": false,
+    "new_tokens": 3177,
+    "reference_first": {
+      "answer": "0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "0",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/416",
+    "truncated": false,
+    "new_tokens": 1378,
+    "reference_first": {
+      "answer": "1/8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1/8.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/418",
+    "truncated": false,
+    "new_tokens": 1250,
+    "reference_first": {
+      "answer": "2 sqrt(5).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2\\sqrt{5}.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/420",
+    "truncated": false,
+    "new_tokens": 1521,
+    "reference_first": {
+      "answer": "(16/49, 48/49, 24/49).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** (16/49, 48/49, 24/49).",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/430",
+    "truncated": false,
+    "new_tokens": 697,
+    "reference_first": {
+      "answer": "followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 4.5",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/427",
+    "truncated": false,
+    "new_tokens": 1063,
+    "reference_first": {
+      "answer": "29.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "29",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/426",
+    "truncated": false,
+    "new_tokens": 1278,
+    "reference_first": {
+      "answer": "$6\\sqrt{2}$.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "$6\\sqrt{2}$",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/440",
+    "truncated": false,
+    "new_tokens": 643,
+    "reference_first": {
+      "answer": "14.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "14.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/398",
+    "truncated": false,
+    "new_tokens": 4124,
+    "reference_first": {
+      "answer": "Navin.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "Navin",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/442",
+    "truncated": false,
+    "new_tokens": 1043,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "256",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/443",
+    "truncated": false,
+    "new_tokens": 929,
+    "reference_first": {
+      "answer": "45.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 45",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/429",
+    "truncated": false,
+    "new_tokens": 2268,
+    "reference_first": {
+      "answer": "50.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "50",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/437",
+    "truncated": false,
+    "new_tokens": 1615,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/449",
+    "truncated": false,
+    "new_tokens": 570,
+    "reference_first": {
+      "answer": "47\". The problem says \"End your response with a line that starts with Answer: followed by your final result.\" So we need to include a line that starts with \"Answer: 47\". Also we need to solve step by step.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "47.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/419",
+    "truncated": false,
+    "new_tokens": 3298,
+    "reference_first": {
+      "answer": "$\\begin{pmatrix} -7 \\\\ 16 \\\\ 5 \\end{pmatrix}$.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "** \\(\\begin{pmatrix} -7 \\\\ 16 \\\\ 5 \\end{pmatrix}\\)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/433",
+    "truncated": false,
+    "new_tokens": 2491,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 0.35625",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/447",
+    "truncated": false,
+    "new_tokens": 1175,
+    "reference_first": {
+      "answer": "9 boys.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/436",
+    "truncated": false,
+    "new_tokens": 2341,
+    "reference_first": {
+      "answer": "n=4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/457",
+    "truncated": false,
+    "new_tokens": 598,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 0",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/446",
+    "truncated": false,
+    "new_tokens": 1582,
+    "reference_first": {
+      "answer": "n = 8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/439",
+    "truncated": false,
+    "new_tokens": 2466,
+    "reference_first": {
+      "answer": "x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "$x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1$",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/455",
+    "truncated": false,
+    "new_tokens": 891,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/453",
+    "truncated": false,
+    "new_tokens": 1100,
+    "reference_first": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/403",
+    "truncated": false,
+    "new_tokens": 5352,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/450",
+    "truncated": false,
+    "new_tokens": 1849,
+    "reference_first": {
+      "answer": "64.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "64",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/463",
+    "truncated": false,
+    "new_tokens": 1107,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/471",
+    "truncated": false,
+    "new_tokens": 752,
+    "reference_first": {
+      "answer": "84.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "84**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/468",
+    "truncated": false,
+    "new_tokens": 911,
+    "reference_first": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/469",
+    "truncated": false,
+    "new_tokens": 853,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "25",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/451",
+    "truncated": false,
+    "new_tokens": 2038,
+    "reference_first": {
+      "answer": "639/40 inches.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "639/40",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/452",
+    "truncated": false,
+    "new_tokens": 2113,
+    "reference_first": {
+      "answer": "143.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "143",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/472",
+    "truncated": false,
+    "new_tokens": 1050,
+    "reference_first": {
+      "answer": "$137\\frac{1}{2}$ miles.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "** $137\\frac{1}{2}$",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/461",
+    "truncated": false,
+    "new_tokens": 1694,
+    "reference_first": {
+      "answer": "12.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/474",
+    "truncated": false,
+    "new_tokens": 930,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 3.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/464",
+    "truncated": false,
+    "new_tokens": 1826,
+    "reference_first": {
+      "answer": "9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** Answer: 9.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/473",
+    "truncated": false,
+    "new_tokens": 1518,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "7",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/432",
+    "truncated": false,
+    "new_tokens": 4919,
+    "reference_first": {
+      "answer": "331\". The problem says: \"End your response with a line that starts with Answer: followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "331",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/454",
+    "truncated": false,
+    "new_tokens": 2902,
+    "reference_first": {
+      "answer": "y = 2x + 3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "y = 2x + 3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/456",
+    "truncated": false,
+    "new_tokens": 3048,
+    "reference_first": {
+      "answer": "-2, 1 (or 1, -2). Usually they'd want in increasing order? Not specified. Could be \"1, -2\". But typical answer format: \"1, -2\". However, they may want \"1,-2\". The problem says \"Enter all the integer roots, separated by commas.\" So we can list them in any order. Usually they'd want them in increasing order: -2, 1. But I'm not sure. Let's see typical AoPS or contest style: \"Enter all the integer roots, separated by commas.\" Usually they'd want them in increasing order. But not always. I'd give -2, 1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-2, 1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/487",
+    "truncated": false,
+    "new_tokens": 966,
+    "reference_first": {
+      "answer": "followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/488",
+    "truncated": false,
+    "new_tokens": 857,
+    "reference_first": {
+      "answer": "$36.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 36",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/476",
+    "truncated": false,
+    "new_tokens": 1645,
+    "reference_first": {
+      "answer": "200.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 200",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/470",
+    "truncated": false,
+    "new_tokens": 2691,
+    "reference_first": {
+      "answer": "27648.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "27648.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/001",
+    "truncated": false,
+    "new_tokens": 7436,
+    "reference_first": {
+      "answer": "p - q.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "p - q.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/017",
+    "truncated": false,
+    "new_tokens": 7367,
+    "reference_first": {
+      "answer": "\\(\\pi\\)",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\pi\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/010",
+    "truncated": false,
+    "new_tokens": 7577,
+    "reference_first": {
+      "answer": "** 2220.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2220.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/014",
+    "truncated": false,
+    "new_tokens": 7480,
+    "reference_first": {
+      "answer": "sqrt(51).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "sqrt(51)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/012",
+    "truncated": false,
+    "new_tokens": 7607,
+    "reference_first": {
+      "answer": "284.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "284.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/480",
+    "truncated": false,
+    "new_tokens": 2215,
+    "reference_first": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/009",
+    "truncated": false,
+    "new_tokens": 8004,
+    "reference_first": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/024",
+    "truncated": false,
+    "new_tokens": 7643,
+    "reference_first": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/028",
+    "truncated": false,
+    "new_tokens": 7381,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-2 + 7i",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/023",
+    "truncated": false,
+    "new_tokens": 7723,
+    "reference_first": {
+      "answer": "5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/032",
+    "truncated": false,
+    "new_tokens": 7417,
+    "reference_first": {
+      "answer": "**",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "720",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/040",
+    "truncated": false,
+    "new_tokens": 7274,
+    "reference_first": {
+      "answer": "12 cm.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12 cm.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/022",
+    "truncated": false,
+    "new_tokens": 7945,
+    "reference_first": {
+      "answer": "5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/049",
+    "truncated": false,
+    "new_tokens": 7388,
+    "reference_first": {
+      "answer": "83.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "83",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/018",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/037",
+    "truncated": false,
+    "new_tokens": 7561,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "72",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/026",
+    "truncated": false,
+    "new_tokens": 7776,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "144**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/041",
+    "truncated": false,
+    "new_tokens": 7548,
+    "reference_first": {
+      "answer": "** 17.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 17.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/045",
+    "truncated": false,
+    "new_tokens": 7500,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/496",
+    "truncated": false,
+    "new_tokens": 1707,
+    "reference_first": {
+      "answer": "5/13.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5/13.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/036",
+    "truncated": false,
+    "new_tokens": 7704,
+    "reference_first": {
+      "answer": "3, 5, 7.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 3, 5, 7.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/021",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "13535.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "13535.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/025",
+    "truncated": false,
+    "new_tokens": 8130,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1,-2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/076",
+    "truncated": false,
+    "new_tokens": 7299,
+    "reference_first": {
+      "answer": "** 0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 0.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/079",
+    "truncated": false,
+    "new_tokens": 7352,
+    "reference_first": {
+      "answer": "x = 2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/493",
+    "truncated": false,
+    "new_tokens": 2307,
+    "reference_first": {
+      "answer": "20.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "20",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/074",
+    "truncated": false,
+    "new_tokens": 7491,
+    "reference_first": {
+      "answer": "\\(\\cot x\\).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\cot x\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/066",
+    "truncated": false,
+    "new_tokens": 7516,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "x^3 + 3x - 6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/082",
+    "truncated": false,
+    "new_tokens": 7453,
+    "reference_first": {
+      "answer": "} \\frac{3}{2}",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{3}{2}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/050",
+    "truncated": false,
+    "new_tokens": 7852,
+    "reference_first": {
+      "answer": "203.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 203",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/062",
+    "truncated": false,
+    "new_tokens": 7685,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/075",
+    "truncated": false,
+    "new_tokens": 7620,
+    "reference_first": {
+      "answer": "11/36.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11/36",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/085",
+    "truncated": false,
+    "new_tokens": 7511,
+    "reference_first": {
+      "answer": "sqrt(5).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** sqrt(5)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/063",
+    "truncated": false,
+    "new_tokens": 7736,
+    "reference_first": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/060",
+    "truncated": false,
+    "new_tokens": 7893,
+    "reference_first": {
+      "answer": "(6,31,-1).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(6,31,-1)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/064",
+    "truncated": false,
+    "new_tokens": 7864,
+    "reference_first": {
+      "answer": "35/64.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "35/64",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/043",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/120",
+    "truncated": false,
+    "new_tokens": 7226,
+    "reference_first": {
+      "answer": "odd.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "odd.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/083",
+    "truncated": false,
+    "new_tokens": 7706,
+    "reference_first": {
+      "answer": "x = 2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/100",
+    "truncated": false,
+    "new_tokens": 7597,
+    "reference_first": {
+      "answer": "followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "145",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/106",
+    "truncated": false,
+    "new_tokens": 7449,
+    "reference_first": {
+      "answer": "y = 4/3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4/3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/105",
+    "truncated": false,
+    "new_tokens": 7496,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "29",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/080",
+    "truncated": false,
+    "new_tokens": 7907,
+    "reference_first": {
+      "answer": "501.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "501.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/117",
+    "truncated": false,
+    "new_tokens": 7530,
+    "reference_first": {
+      "answer": "x = 3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/128",
+    "truncated": false,
+    "new_tokens": 7381,
+    "reference_first": {
+      "answer": "4 miles.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4 miles.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/131",
+    "truncated": false,
+    "new_tokens": 7541,
+    "reference_first": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/134",
+    "truncated": false,
+    "new_tokens": 7540,
+    "reference_first": {
+      "answer": "16.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "16",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/141",
+    "truncated": false,
+    "new_tokens": 7427,
+    "reference_first": {
+      "answer": "** 2",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 2",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/146",
+    "truncated": false,
+    "new_tokens": 7436,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\frac{\\sqrt{3}}{3}.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/123",
+    "truncated": false,
+    "new_tokens": 7694,
+    "reference_first": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/088",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/138",
+    "truncated": false,
+    "new_tokens": 7671,
+    "reference_first": {
+      "answer": "\\(\\frac{1}{6}\\)",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{1}{6}\\)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/094",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/108",
+    "truncated": false,
+    "new_tokens": 7949,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/096",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/156",
+    "truncated": false,
+    "new_tokens": 7281,
+    "reference_first": {
+      "answer": "30.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "30.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/101",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "850",
+      "extraction": "final_boxed_fallback",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/142",
+    "truncated": false,
+    "new_tokens": 7631,
+    "reference_first": {
+      "answer": "** 28800.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "28800.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/103",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/153",
+    "truncated": false,
+    "new_tokens": 7423,
+    "reference_first": {
+      "answer": "} \\frac{2}{21}",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2/21",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/104",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "40.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "40\".",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/136",
+    "truncated": false,
+    "new_tokens": 7908,
+    "reference_first": {
+      "answer": "64.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "64.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/126",
+    "truncated": false,
+    "new_tokens": 7961,
+    "reference_first": {
+      "answer": "1 + 274 i.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1 + 274 i",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/157",
+    "truncated": false,
+    "new_tokens": 7450,
+    "reference_first": {
+      "answer": "6/5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 6/5",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/110",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/139",
+    "truncated": false,
+    "new_tokens": 7928,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 1",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/163",
+    "truncated": false,
+    "new_tokens": 7475,
+    "reference_first": {
+      "answer": "-35/9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-35/9.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/119",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/174",
+    "truncated": false,
+    "new_tokens": 7388,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/155",
+    "truncated": false,
+    "new_tokens": 7578,
+    "reference_first": {
+      "answer": "1/4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1/4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/185",
+    "truncated": false,
+    "new_tokens": 7323,
+    "reference_first": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/151",
+    "truncated": false,
+    "new_tokens": 7710,
+    "reference_first": {
+      "answer": "144.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "144",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/165",
+    "truncated": false,
+    "new_tokens": 7554,
+    "reference_first": {
+      "answer": "5/9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5/9.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/183",
+    "truncated": false,
+    "new_tokens": 7548,
+    "reference_first": {
+      "answer": "23.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 23",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/150",
+    "truncated": false,
+    "new_tokens": 7875,
+    "reference_first": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/181",
+    "truncated": false,
+    "new_tokens": 7612,
+    "reference_first": {
+      "answer": "sqrt(3)/3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** sqrt(3)/3",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/195",
+    "truncated": false,
+    "new_tokens": 7451,
+    "reference_first": {
+      "answer": "Answer: 24.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 24",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/199",
+    "truncated": false,
+    "new_tokens": 7456,
+    "reference_first": {
+      "answer": "17.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "17",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/186",
+    "truncated": false,
+    "new_tokens": 7572,
+    "reference_first": {
+      "answer": "7.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "7",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/209",
+    "truncated": false,
+    "new_tokens": 7474,
+    "reference_first": {
+      "answer": "16.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "16",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/210",
+    "truncated": false,
+    "new_tokens": 7437,
+    "reference_first": {
+      "answer": "10",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "10",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/212",
+    "truncated": false,
+    "new_tokens": 7473,
+    "reference_first": {
+      "answer": "+5 points. Each incorrect answer: -2 points. Unanswered: 0 points. He answered 80 questions (i.e., attempted 80). He scored 232 points. How many questions did he answer correctly?",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "56.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/220",
+    "truncated": false,
+    "new_tokens": 7314,
+    "reference_first": {
+      "answer": "16/27 gallons.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{16}{27}\\) gallons.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/184",
+    "truncated": false,
+    "new_tokens": 7830,
+    "reference_first": {
+      "answer": "(2,\u221e)",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(2,\u221e)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/177",
+    "truncated": false,
+    "new_tokens": 7872,
+    "reference_first": {
+      "answer": "30 degrees.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "30",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/179",
+    "truncated": false,
+    "new_tokens": 7900,
+    "reference_first": {
+      "answer": "5x - 7y + 11z + 4 = 0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5x - 7y + 11z + 4 = 0.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/193",
+    "truncated": false,
+    "new_tokens": 7796,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/221",
+    "truncated": false,
+    "new_tokens": 7467,
+    "reference_first": {
+      "answer": "900",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "900",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/188",
+    "truncated": false,
+    "new_tokens": 7835,
+    "reference_first": {
+      "answer": "6\".",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/154",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/164",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/223",
+    "truncated": false,
+    "new_tokens": 7522,
+    "reference_first": {
+      "answer": "14.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "14",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/166",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/197",
+    "truncated": false,
+    "new_tokens": 7916,
+    "reference_first": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "6",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/240",
+    "truncated": false,
+    "new_tokens": 7284,
+    "reference_first": {
+      "answer": "154.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "154",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/201",
+    "truncated": false,
+    "new_tokens": 7900,
+    "reference_first": {
+      "answer": "66.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "66.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/168",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/228",
+    "truncated": false,
+    "new_tokens": 7487,
+    "reference_first": {
+      "answer": "The region is the solid sphere of radius 6 centered at the origin.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** The region is the solid sphere of radius\u202f6 centered at the origin (its volume is \\(\\frac{4}{3}\\pi(6)^3=288\\pi\\)).",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/213",
+    "truncated": false,
+    "new_tokens": 7820,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/233",
+    "truncated": false,
+    "new_tokens": 7480,
+    "reference_first": {
+      "answer": "30.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 30",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/226",
+    "truncated": false,
+    "new_tokens": 7600,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/246",
+    "truncated": false,
+    "new_tokens": 7351,
+    "reference_first": {
+      "answer": "8 meals.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/224",
+    "truncated": false,
+    "new_tokens": 7750,
+    "reference_first": {
+      "answer": "9/256.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 9/256.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/189",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "160 m.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "160 m\".",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/262",
+    "truncated": false,
+    "new_tokens": 7397,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 4",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/204",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/255",
+    "truncated": false,
+    "new_tokens": 7458,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(E)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/234",
+    "truncated": false,
+    "new_tokens": 7660,
+    "reference_first": {
+      "answer": "34.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 34",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/242",
+    "truncated": false,
+    "new_tokens": 7580,
+    "reference_first": {
+      "answer": "**",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "32348",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/284",
+    "truncated": false,
+    "new_tokens": 7203,
+    "reference_first": {
+      "answer": "3 - 2\u221a2, 3 + 2\u221a2, -3 - 2\u221a2, -3 + 2\u221a2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-3 - 2\u221a2, -3 + 2\u221a2, 3 - 2\u221a2, 3 + 2\u221a2",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/251",
+    "truncated": false,
+    "new_tokens": 7526,
+    "reference_first": {
+      "answer": "540.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "540.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/250",
+    "truncated": false,
+    "new_tokens": 7543,
+    "reference_first": {
+      "answer": "13.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "13",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/254",
+    "truncated": false,
+    "new_tokens": 7560,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "28",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/214",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "110\".",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/267",
+    "truncated": false,
+    "new_tokens": 7557,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 180",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/217",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/219",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "<final result>\".",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1/2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/274",
+    "truncated": false,
+    "new_tokens": 7499,
+    "reference_first": {
+      "answer": "18+2\u03c0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "18+2\u03c0.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/276",
+    "truncated": false,
+    "new_tokens": 7497,
+    "reference_first": {
+      "answer": "11.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/244",
+    "truncated": false,
+    "new_tokens": 7773,
+    "reference_first": {
+      "answer": "8 sides.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/249",
+    "truncated": false,
+    "new_tokens": 7778,
+    "reference_first": {
+      "answer": "17.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "17",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/222",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/279",
+    "truncated": false,
+    "new_tokens": 7515,
+    "reference_first": {
+      "answer": "7\u03c0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(7\\pi\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/245",
+    "truncated": false,
+    "new_tokens": 7838,
+    "reference_first": {
+      "answer": "-13x + 3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-13x + 3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/280",
+    "truncated": false,
+    "new_tokens": 7537,
+    "reference_first": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 8",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/271",
+    "truncated": false,
+    "new_tokens": 7705,
+    "reference_first": {
+      "answer": "333.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "333",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/300",
+    "truncated": false,
+    "new_tokens": 7374,
+    "reference_first": {
+      "answer": "12.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/232",
+    "truncated": false,
+    "new_tokens": 8156,
+    "reference_first": {
+      "answer": "1997/2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1997/2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/236",
+    "truncated": false,
+    "new_tokens": 8114,
+    "reference_first": {
+      "answer": "** 12.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 12.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/264",
+    "truncated": false,
+    "new_tokens": 7892,
+    "reference_first": {
+      "answer": "4\\frac{0}{1}",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4\\frac{0}{1}",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/248",
+    "truncated": false,
+    "new_tokens": 8003,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\begin{pmatrix} -1 & 0 \\\\ 0 & -1 \\end{pmatrix}",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/282",
+    "truncated": false,
+    "new_tokens": 7669,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 129",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/281",
+    "truncated": false,
+    "new_tokens": 7712,
+    "reference_first": {
+      "answer": "** 36\u00b0",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 36\u00b0",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/239",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/313",
+    "truncated": false,
+    "new_tokens": 7445,
+    "reference_first": {
+      "answer": "12\u03c0 inches per second.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 12\u03c0 inches per second.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/312",
+    "truncated": false,
+    "new_tokens": 7481,
+    "reference_first": {
+      "answer": "(5, \u221e).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(5, \u221e)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/333",
+    "truncated": false,
+    "new_tokens": 7320,
+    "reference_first": {
+      "answer": "}3",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/291",
+    "truncated": false,
+    "new_tokens": 7704,
+    "reference_first": {
+      "answer": "63.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "63",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/329",
+    "truncated": false,
+    "new_tokens": 7419,
+    "reference_first": {
+      "answer": "4 inches per second.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 4 inches per second.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/295",
+    "truncated": false,
+    "new_tokens": 7696,
+    "reference_first": {
+      "answer": "11.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "11.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/287",
+    "truncated": false,
+    "new_tokens": 7795,
+    "reference_first": {
+      "answer": "36 seconds.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "36",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/320",
+    "truncated": false,
+    "new_tokens": 7539,
+    "reference_first": {
+      "answer": "-24/25.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-24/25.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/290",
+    "truncated": false,
+    "new_tokens": 7826,
+    "reference_first": {
+      "answer": "r = 4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/285",
+    "truncated": false,
+    "new_tokens": 7898,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "440",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/341",
+    "truncated": false,
+    "new_tokens": 7387,
+    "reference_first": {
+      "answer": "** -2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** -2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/330",
+    "truncated": false,
+    "new_tokens": 7550,
+    "reference_first": {
+      "answer": "1940.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1940",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/336",
+    "truncated": false,
+    "new_tokens": 7458,
+    "reference_first": {
+      "answer": "26000.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "26000",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/301",
+    "truncated": false,
+    "new_tokens": 7762,
+    "reference_first": {
+      "answer": "5.4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5.4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/343",
+    "truncated": false,
+    "new_tokens": 7401,
+    "reference_first": {
+      "answer": "58,500.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 58500",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/317",
+    "truncated": false,
+    "new_tokens": 7692,
+    "reference_first": {
+      "answer": "0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "0",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/323",
+    "truncated": false,
+    "new_tokens": 7706,
+    "reference_first": {
+      "answer": "\\(\\displaystyle \\frac13\\)",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\displaystyle \\frac13\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/286",
+    "truncated": false,
+    "new_tokens": 8026,
+    "reference_first": {
+      "answer": "\\(\\displaystyle \\frac{17}{21}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\displaystyle \\frac{17}{21}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/292",
+    "truncated": false,
+    "new_tokens": 7955,
+    "reference_first": {
+      "answer": "898.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "898.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/339",
+    "truncated": false,
+    "new_tokens": 7629,
+    "reference_first": {
+      "answer": "2k.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 2k",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/344",
+    "truncated": false,
+    "new_tokens": 7523,
+    "reference_first": {
+      "answer": "a = 5.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "5",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/335",
+    "truncated": false,
+    "new_tokens": 7666,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/360",
+    "truncated": false,
+    "new_tokens": 7466,
+    "reference_first": {
+      "answer": "\\(\\frac{7}{4}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\frac{7}{4}\\)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/372",
+    "truncated": false,
+    "new_tokens": 7390,
+    "reference_first": {
+      "answer": "90\u00b0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "90\u00b0",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/349",
+    "truncated": false,
+    "new_tokens": 7582,
+    "reference_first": {
+      "answer": "The number of ways to seat 8 people around a square table with 2 per side, up to rotation, is 8! / 4 = 5040. But that's if the arrangement is considered up to rotation and the two positions on a side are not ordered (i.e., the two people on a side are just a pair). But if the two positions on a side are ordered (i.e., left and right), then the number of distinct seatings up to rotation is 8! / 4 = 5040? Actually, 8! = 40320. Dividing by 4 gives 10080. Wait, 8! = 40320. Dividing by 4 gives 10080. So maybe the answer is 10080? But we need to check.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 10080.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/362",
+    "truncated": false,
+    "new_tokens": 7513,
+    "reference_first": {
+      "answer": "1/4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1/4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/369",
+    "truncated": false,
+    "new_tokens": 7466,
+    "reference_first": {
+      "answer": "21.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 21",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/356",
+    "truncated": false,
+    "new_tokens": 7606,
+    "reference_first": {
+      "answer": "$(-\\sqrt{3}, \\sqrt{3})$.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "** \\((-\\sqrt{3},\\sqrt{3})\\)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/364",
+    "truncated": false,
+    "new_tokens": 7598,
+    "reference_first": {
+      "answer": "(1, -16, -4, 43).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** (1, -16, -4, 43)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/296",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "(B).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(B)\" and not \"Answer: B\". The problem says \"Answer: followed by your final result.\" The final result is the equation (B). So we can output \"Answer: (B)\". That is fine.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/396",
+    "truncated": false,
+    "new_tokens": 7400,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/303",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/306",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/499",
+    "truncated": false,
+    "new_tokens": 5498,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 106",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/308",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/382",
+    "truncated": false,
+    "new_tokens": 7548,
+    "reference_first": {
+      "answer": "20000/\u03c0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "20000/\u03c0.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/309",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/365",
+    "truncated": false,
+    "new_tokens": 7716,
+    "reference_first": {
+      "answer": "8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 8",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/373",
+    "truncated": false,
+    "new_tokens": 7678,
+    "reference_first": {
+      "answer": "1 + 2i.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1+2i",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/380",
+    "truncated": false,
+    "new_tokens": 7643,
+    "reference_first": {
+      "answer": "(0, 9) \u222a (9, 36).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(0,9)\u222a(9,36)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/385",
+    "truncated": false,
+    "new_tokens": 7567,
+    "reference_first": {
+      "answer": "22.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "22",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/324",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/327",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "15\". The problem says: \"End your response with a line that starts with Answer: followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "15\". Possibly with no extra spaces? The problem says \"a line that starts with Answer: followed by your final result.\" So we can output \"Answer: 15\". Probably with a space after colon? Usually \"Answer: 15\". We'll output that.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/438",
+    "truncated": false,
+    "new_tokens": 7259,
+    "reference_first": {
+      "answer": "4.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "4",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/332",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/355",
+    "truncated": false,
+    "new_tokens": 8002,
+    "reference_first": {
+      "answer": "100.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "100**",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/394",
+    "truncated": false,
+    "new_tokens": 7699,
+    "reference_first": {
+      "answer": "-3/8.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-3/8",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/404",
+    "truncated": false,
+    "new_tokens": 7618,
+    "reference_first": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "3.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/441",
+    "truncated": false,
+    "new_tokens": 7407,
+    "reference_first": {
+      "answer": "550 gallons.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "550 gallons",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/377",
+    "truncated": false,
+    "new_tokens": 7888,
+    "reference_first": {
+      "answer": "6.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 6",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/340",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/424",
+    "truncated": false,
+    "new_tokens": 7527,
+    "reference_first": {
+      "answer": "x = 600.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "600",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/381",
+    "truncated": false,
+    "new_tokens": 7886,
+    "reference_first": {
+      "answer": "1/2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1/2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/408",
+    "truncated": false,
+    "new_tokens": 7736,
+    "reference_first": {
+      "answer": "\\(\\begin{pmatrix}\\frac15\\\\[2pt]-\\frac{18}{5}\\end{pmatrix}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\begin{pmatrix}\\frac15\\\\[2pt]-\\frac{18}{5}\\end{pmatrix}\\).",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/352",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/414",
+    "truncated": false,
+    "new_tokens": 7673,
+    "reference_first": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/415",
+    "truncated": false,
+    "new_tokens": 7682,
+    "reference_first": {
+      "answer": "9.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "9",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/479",
+    "truncated": false,
+    "new_tokens": 7344,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/434",
+    "truncated": false,
+    "new_tokens": 7606,
+    "reference_first": {
+      "answer": "32.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 32",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/435",
+    "truncated": false,
+    "new_tokens": 7601,
+    "reference_first": {
+      "answer": "(-\u221e, 2) \u222a (3, \u221e).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(-\u221e, 2) \u222a (3, \u221e)",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/467",
+    "truncated": false,
+    "new_tokens": 7413,
+    "reference_first": {
+      "answer": "15 cm\u00b2",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "15 cm\u00b2",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/371",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/409",
+    "truncated": false,
+    "new_tokens": 7877,
+    "reference_first": {
+      "answer": "2 sqrt(5). But we need to be careful: is there any other hyperbola that also passes through (4,7) with same asymptotes but different orientation? Let's examine.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2\\sqrt{5}",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/462",
+    "truncated": false,
+    "new_tokens": 7583,
+    "reference_first": {
+      "answer": "** 59",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 59",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/448",
+    "truncated": false,
+    "new_tokens": 7636,
+    "reference_first": {
+      "answer": "44.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "44",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/459",
+    "truncated": false,
+    "new_tokens": 7609,
+    "reference_first": {
+      "answer": "$18.90.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "$18.90",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/379",
+    "truncated": false,
+    "new_tokens": 8185,
+    "reference_first": {
+      "answer": "12th grade.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "12th grade",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/465",
+    "truncated": false,
+    "new_tokens": 7596,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 121",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/445",
+    "truncated": false,
+    "new_tokens": 7726,
+    "reference_first": {
+      "answer": "7",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "7",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/458",
+    "truncated": false,
+    "new_tokens": 7772,
+    "reference_first": {
+      "answer": "** 41.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 41.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/392",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/425",
+    "truncated": false,
+    "new_tokens": 7923,
+    "reference_first": {
+      "answer": "$3R^2$.",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "** 3R^2",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/423",
+    "truncated": false,
+    "new_tokens": 7947,
+    "reference_first": {
+      "answer": "\" followed by final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 1440",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/400",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/401",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/431",
+    "truncated": false,
+    "new_tokens": 7945,
+    "reference_first": {
+      "answer": "[\u03c0^2 / 8, (5/4) \u03c0^2].",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** [\u03c0\u00b2/8, (5/4)\u03c0\u00b2]",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/412",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/486",
+    "truncated": false,
+    "new_tokens": 7486,
+    "reference_first": {
+      "answer": "216",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "216",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/428",
+    "truncated": false,
+    "new_tokens": 8041,
+    "reference_first": {
+      "answer": "64.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "64",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/485",
+    "truncated": false,
+    "new_tokens": 7616,
+    "reference_first": {
+      "answer": "13.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "13.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/482",
+    "truncated": false,
+    "new_tokens": 7784,
+    "reference_first": {
+      "answer": "202.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "202",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/421",
+    "truncated": false,
+    "new_tokens": 8188,
+    "reference_first": {
+      "answer": "27\u201d is the required final line.)",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "27",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/422",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "** \\(\\displaystyle\\{\\sqrt[3]{4},\\ \\sqrt[3]{4}\\,\\omega,\\ \\sqrt[3]{4}\\,\\omega^{2}\\}\\)",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "\\(\\{\\sqrt[3]{4},\\",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/477",
+    "truncated": false,
+    "new_tokens": 7906,
+    "reference_first": {
+      "answer": "2.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 2",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/444",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/483",
+    "truncated": false,
+    "new_tokens": 7944,
+    "reference_first": {
+      "answer": "8/15",
+      "extraction": "answer_label",
+      "correct": true
+    },
+    "final_or_boxed": {
+      "answer": "** 8/15",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/466",
+    "truncated": false,
+    "new_tokens": 8064,
+    "reference_first": {
+      "answer": "8\u03c0.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "8\u03c0",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/491",
+    "truncated": false,
+    "new_tokens": 7418,
+    "reference_first": {
+      "answer": "64.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "** 64.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/460",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/475",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "29\". The problem says \"End your response with a line that starts with Answer: followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "29",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/478",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "2/1005.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "2/1005\".",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/481",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": null,
+      "extraction": "missing",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/492",
+    "truncated": false,
+    "new_tokens": 7433,
+    "reference_first": {
+      "answer": "y = -2x.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "y = -2x",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/484",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "followed by your final result.\"",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "10",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/489",
+    "truncated": false,
+    "new_tokens": 7781,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "15",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/490",
+    "truncated": false,
+    "new_tokens": 8084,
+    "reference_first": {
+      "answer": "16",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "16",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/495",
+    "truncated": false,
+    "new_tokens": 7535,
+    "reference_first": {
+      "answer": "(2, 12) \u222a (12, 102).",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "(2,12)\u222a(12,102)",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  },
+  {
+    "id": "math500/498",
+    "truncated": false,
+    "new_tokens": 7592,
+    "reference_first": {
+      "answer": "-1.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "-1.",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/494",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "1/4\".",
+      "extraction": "answer_label",
+      "correct": false
+    }
+  },
+  {
+    "id": "math500/497",
+    "truncated": true,
+    "new_tokens": 8192,
+    "reference_first": {
+      "answer": "\" followed by the final result.",
+      "extraction": "answer_label",
+      "correct": false
+    },
+    "final_or_boxed": {
+      "answer": "7/2",
+      "extraction": "answer_label",
+      "correct": true
+    }
+  }
+]

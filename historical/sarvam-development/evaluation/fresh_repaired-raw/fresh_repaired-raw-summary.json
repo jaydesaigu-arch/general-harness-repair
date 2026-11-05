@@ -1,0 +1,9 @@
+{
+  "name": "fresh_repaired-raw",
+  "n": 500,
+  "truncated": 64,
+  "scores": {
+    "reference_first": 52,
+    "final_or_boxed": 401
+  }
+}

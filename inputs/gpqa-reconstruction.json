@@ -1,0 +1,28 @@
+{
+  "n": 198,
+  "source": {
+    "provider": "OpenAI simple-evals official data URL",
+    "url": "https://openaipublic.blob.core.windows.net/simple-evals/gpqa_diamond.csv",
+    "hf_access_error_type": "GatedRepoError"
+  },
+  "csv_sha256": "41d1213cd7a4998605a26c2798500652572007161b3a92817ba46b35befcd305",
+  "question_projection_sha256": "02dbd2c5c8f020edfae9569f005650f6be2350ad40be19b19948ff157211680b",
+  "sources": {
+    "gpqa_eval.py": {
+      "sha256": "f746e411bdbd3ec8cd0738e30fc0989ac0d6b5a1b988a454633553b419b724d3",
+      "commit": "652c89d0ca9df547706735883097e9537d40dc47"
+    },
+    "common.py": {
+      "sha256": "84616c52821a30ae3f55f153a763153fd833cb41b547b09f547b46e6337f8f35",
+      "commit": "652c89d0ca9df547706735883097e9537d40dc47"
+    }
+  },
+  "permutation": "random.Random(0).sample(range(4),4) for each row, matching simple-evals n_repeats=1",
+  "template": "Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: $LETTER' (without quotes) where LETTER is one of ABCD. Think step by step before answering.\n\n{Question}\n\nA) {A}\nB) {B}\nC) {C}\nD) {D}",
+  "official_pattern": "(?i)Answer[ \\t]*:[ \\t]*\\$?([A-D])\\$?",
+  "duplicate_choice_row_indices": [
+    89,
+    126
+  ],
+  "duplicate_policy": "Preserve all official rows/options; first string-equal correct choice as in upstream simple-evals."
+}

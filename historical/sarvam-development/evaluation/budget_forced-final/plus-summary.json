@@ -1,0 +1,12 @@
+{
+  "stage": "plus",
+  "condition": "budget_forced-final",
+  "n": 164,
+  "passed": 149,
+  "splits": {
+    "all": {
+      "n": 164,
+      "passed": 149
+    }
+  }
+}

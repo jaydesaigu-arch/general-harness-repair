@@ -1,0 +1,54 @@
+{
+  "recorded_at_utc": "2026-11-04T17:52:22.490481+00:00",
+  "status": "Paired sensitivity, primary labels and automatic graders unchanged",
+  "cases": [
+    {
+      "condition": "baseline",
+      "id": "math500/284",
+      "completion_sha256": "6e20dff91cc3eb59f2a2517d43c0c3f4924b9f2b524c636e3cf1460118ab9d47",
+      "primary_reference_convention_label": 0,
+      "alternative_valid_branch_label": 1,
+      "reason": "Response explicitly uses arccot in (0,pi), yielding four roots; reference contains only the two positive roots associated with the other convention."
+    },
+    {
+      "condition": "combined_repaired",
+      "id": "math500/284",
+      "completion_sha256": "be0e67b585033d7b416da518291ae519dac75ee1c7263af3242117d18a6e1ffb",
+      "primary_reference_convention_label": 0,
+      "alternative_valid_branch_label": 1,
+      "reason": "Response explicitly uses arccot in (0,pi), yielding four roots; reference contains only the two positive roots associated with the other convention."
+    }
+  ],
+  "adjustment_to_each_primary_semantic_math_count": 1,
+  "adjustment_to_net_repair_gain": 0,
+  "proof": "Let t=atan(x). With arccot range(0,pi), arccot(1/x)=t for x>0 and t+pi for x<0. Thus lhs=2|x|/(1+x^2). The equation reduces to |x|^2-6|x|+1=0, giving all four roots. With the discontinuous reciprocal-arctangent convention only the two positive roots remain.",
+  "independent_numeric_checks": [
+    {
+      "x": -5.82842712474619,
+      "lhs_arccot_0_pi": 0.3333333333333334
+    },
+    {
+      "x": -0.1715728752538097,
+      "lhs_arccot_0_pi": 0.3333333333333329
+    },
+    {
+      "x": 0.1715728752538097,
+      "lhs_arccot_0_pi": 0.333333333333333
+    },
+    {
+      "x": 5.82842712474619,
+      "lhs_arccot_0_pi": 0.3333333333333333
+    }
+  ],
+  "primary_sources": [
+    {
+      "title": "Emory University inverse trigonometric functions: explicitly discusses alternative arccot ranges",
+      "url": "https://math.oxford.emory.edu/site/math111/inverseTrig/"
+    },
+    {
+      "title": "NIST DLMF4.23: reciprocal-arctangent principal branch and special values",
+      "url": "https://dlmf.nist.gov/4.23"
+    }
+  ],
+  "interpretation": "Do not call the four-root answer unconditionally mathematically wrong. Report reference-convention counts together with this legitimate-branch sensitivity. Neither interpretation changes the paired improvement."
+}

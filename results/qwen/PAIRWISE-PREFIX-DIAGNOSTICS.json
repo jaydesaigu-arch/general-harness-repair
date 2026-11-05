@@ -1,0 +1,73 @@
+{
+  "at_utc": "2026-11-04T19:25:26.812339+00:00",
+  "benchmarks": {
+    "humaneval_plus": {
+      "n": 164,
+      "same_rendered_prompt_count": 164,
+      "exact_full_output_token_sequence_count": 28,
+      "forced_transition_cases": 20,
+      "forced_transition_with_identical_pretransition_sampled_prefix": 0,
+      "common_output_prefix_tokens": {
+        "minimum": 10,
+        "median": 138,
+        "maximum": 612
+      }
+    },
+    "math500": {
+      "n": 500,
+      "same_rendered_prompt_count": 0,
+      "exact_full_output_token_sequence_count": 0,
+      "forced_transition_cases": 34,
+      "forced_transition_with_identical_pretransition_sampled_prefix": 0,
+      "common_output_prefix_tokens": {
+        "minimum": 2,
+        "median": 11,
+        "maximum": 143
+      }
+    },
+    "gpqa_diamond": {
+      "n": 198,
+      "same_rendered_prompt_count": 198,
+      "exact_full_output_token_sequence_count": 6,
+      "forced_transition_cases": 91,
+      "forced_transition_with_identical_pretransition_sampled_prefix": 0,
+      "common_output_prefix_tokens": {
+        "minimum": 3,
+        "median": 186,
+        "maximum": 1423
+      }
+    }
+  },
+  "sources": [
+    {
+      "path": "private-remote\\generations\\baseline-humaneval_plus.jsonl",
+      "sha256": "28c8048ac6d9acb55856d95ee681b16c47d7c7750c7e5626fd998b9f0c5a7730"
+    },
+    {
+      "path": "private-remote\\generations\\combined_repaired-humaneval_plus.jsonl",
+      "sha256": "bc87c1a633502546bff0409db4b259055c9a785b6ab01f4fcde1920a056b0dec"
+    },
+    {
+      "path": "private-remote\\generations\\baseline-math500.jsonl",
+      "sha256": "06185a306d179d5e189212f44dbcc3ed7a6d985483b63841c7c609fc4d92064b"
+    },
+    {
+      "path": "private-remote\\generations\\combined_repaired-math500.jsonl",
+      "sha256": "931280ee0d097f3abb8b7ce32bc763ed0d84c3b797117c1090f4e86087a4de91"
+    },
+    {
+      "path": "private-remote\\generations\\baseline-gpqa_diamond.jsonl",
+      "sha256": "9b22e02c25bd5231737c296474915504439f6cfe65f3f3e65e64bcecfe0ba546"
+    },
+    {
+      "path": "private-remote\\generations\\combined_repaired-gpqa_diamond.jsonl",
+      "sha256": "47d4d52e4cb170305d8c855599321cceafd19c564a4892a237da3aa66979aa6a"
+    }
+  ],
+  "interpretation": [
+    "These are descriptive output diagnostics, not additional model calls or grading changes.",
+    "A matching sampled prefix through the forced transition provides a direct within-response comparison up to that transition.",
+    "When prefixes differ before a forced transition, later differences cannot be attributed solely to that transition.",
+    "Mathematics also changes a disclosed generic instruction. Batched BF16 generation with a fixed seed is not a guarantee of bitwise-identical unforced trajectories; this study has no repeated-run variance estimate."
+  ]
+}

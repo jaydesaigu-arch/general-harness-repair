@@ -1,0 +1,363 @@
+{
+  "status": "FROZEN before Qwen scored inference",
+  "frozen_at_utc": "2026-11-04T12:01:06.006592+00:00",
+  "model": "Qwen/Qwen3.8-27B",
+  "revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+  "weights": "Original BF16 checkpoint; no quantization, adapters, training or edits. Text-only execution skips the unused vision encoder.",
+  "design": "Full fresh original-budget baseline862 and fresh combined_repaired862. Transfer existing generic repair before Qwen benchmark scores; no Qwen per-problem development.",
+  "tasks": {
+    "humaneval_plus": 164,
+    "math500": 500,
+    "gpqa_diamond": 198
+  },
+  "generation": {
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 20261108,
+    "max_context": 12288,
+    "max_num_seqs": 48,
+    "max_num_batched_tokens": 4096,
+    "code_output_ceiling": 4096,
+    "math_and_gpqa_output_ceiling": 8192,
+    "reserve": 1024,
+    "prefix_cache": false,
+    "eager": true,
+    "gpu_memory_utilization": 0.92,
+    "thinking": true,
+    "reasoning_effort": "xhigh",
+    "same_shuffled_question_order_both_arms": true,
+    "processing_batch_size": 48
+  },
+  "inference_runtime": {
+    "image": "vllm/vllm-openai:v0.26.0",
+    "vllm": "0.26.0",
+    "transformers": "5.8.1",
+    "hardware": "a100-large"
+  },
+  "matched_to_sarvam": "Same question-only projections, shared before/after instructions, task sets, output/context ceilings, greedy decoding, seed, concurrency ceiling, budget reserve, frozen code/math/science graders and review rubrics.",
+  "required_model_differences": "Qwen native chat template opens <think> in the input. Adapter preserves native thinking special tokens in literal decode and reconstructs logical channels with that input marker. Native stop and closing-token IDs come from pinned Qwen tokenizer. Compatible runtime replaces Sarvam-specific old runtime; unchanged within Qwen pair.",
+  "prompt_scope": "Code and GPQA prompts identical across arms; the same disclosed generic mathematics instruction change as Sarvam. Not a prompt-identical math policy comparison.",
+  "raw_view_definition": "raw_generated_text is literal decode of sampled plus forced output tokens, without an inserted opening token. completion is logical channel text: input-template <think> newline plus raw_generated_text. Existing graders receive that logical view consistently; final is parsed from it. The input marker is not counted as a newly generated token.",
+  "one_attempt": "One resulting completion per problem per arm; prefix/continuation together inside original ceiling; no correctness feedback, best-of-k, voting, retries or answer substitution.",
+  "primary_automatic": "HumanEval+ raw base AND expanded execution; MATH500 raw v3; GPQA official raw regex. Same frozen evaluator in both arms.",
+  "secondary_automatic": "Named final-channel variants and qualified GPQA final extractor, not substitutes for primary.",
+  "review": "Complete Codex static program/semantic resolved-value/selected-choice review, not independent human grading. GPQA choices frozen before expert-key comparison; no official overrides.",
+  "isolation": "GPU receives no reference answers, canonical solutions, hidden tests or scorer/reviewer feedback. Synthetic timing uses no benchmark items.",
+  "pilot": "Two 48-request synthetic batches of 512 forced-length tokens for compatibility/throughput only; excluded from scores and attempts. Throughput/cost determines whether full run fits declared budget, not accuracy.",
+  "spending": "Bounded GPU and isolated CPU allocations; conservative elapsed estimates include startup and ports. Refer to results for exact recorded cost estimates.",
+  "solver_files": {
+    "worker.py": "14507bcd1b5d380dd86c9313f8c1bcd8462b5433b852ca31a8d4c7dc7759d0b7",
+    "bootstrap_gpu.py": "b6bda425d1d5071bd05e6d4a4cd69f0c52390f80e3c8abaf0f9bc3a569616354",
+    "adapter.py": "ecf32416beb1e84a21b147a0ed66b98c49124f3b96a96bc92bfde0b939c09d53",
+    "budget_policy.py": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "harness.py": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "grade_gpqa.py": "06b2289801d0b22bda7c798dd0edd7a976c35e794575308f15d4c98a6fa008bf",
+    "questions.json": "732f96bca7bafc621e65092e3ea343a6b20fd3cf817308aefa1a5e36a6039bba"
+  },
+  "evaluator_files": {
+    "audit_gold_parse.py": "3f887ce613a3489be1ac684471ffe703730ce76be3eae790e8db796ac3be3f0a",
+    "common.py": "e483fd07966e52de731bbe272b968a4a166b84af432815406e370f0a6dc921ef",
+    "cpu_eval.py": "f7cbb46e889662afe3ee4c4ec347c323a1765f992a2de8f74063bbbad4c4bdf4",
+    "cpu_eval_original.py": "d168c963a1063703aaf01c5804c1854694a4795a3c62fdd9dd0ff4f49ac73167",
+    "math_grade.py": "682420c6bab77d1d71c554dd7e7a2a3f07d9de27b39b185e6563a3dab0bc3910",
+    "math_grade_v2.py": "4ce0b2899a5524635b66402eaf84de3288ff68b15788e77cee298665a5302dfc",
+    "math_grade_v3.py": "a21aa66f0ddfe5fe0428140490e6fd288d911d552f709d7febd977140ec2f4ab",
+    "patch_evalplus.py": "2ac55de72334f1e76ea464a0f5039f22665ecbfcab75ff4aca1a4bfb194d1b2b",
+    "root_positive.py": "b49e778c84c9ed5874d2dddd558decbc125d01a5b5586d565cf82155d271d35d",
+    "sanitize_dependencies_v2.py": "89d3d724e8e2261d932fa0b8c10f2930986a416f334ecc48b4533a290ca69613"
+  },
+  "synthetic_controls": {
+    "budget": [
+      {
+        "name": "open",
+        "passed": true
+      },
+      {
+        "name": "closed",
+        "passed": true
+      },
+      {
+        "name": "direct",
+        "passed": true
+      },
+      {
+        "name": "literal",
+        "passed": true
+      },
+      {
+        "name": "blank",
+        "passed": true
+      },
+      {
+        "name": "leading_space",
+        "passed": true
+      },
+      {
+        "name": "already_final",
+        "passed": true
+      },
+      {
+        "name": "same_total_budget",
+        "passed": true
+      },
+      {
+        "name": "not_based_on_later_truncation",
+        "passed": true
+      },
+      {
+        "name": "short_finished_response_unchanged",
+        "passed": true
+      },
+      {
+        "name": "already_closed_at_cut_unchanged",
+        "passed": true
+      },
+      {
+        "name": "both_budgets_accounted",
+        "passed": true
+      }
+    ],
+    "channels": [
+      {
+        "name": "direct",
+        "passed": true
+      },
+      {
+        "name": "reasoning",
+        "passed": true
+      },
+      {
+        "name": "empty_reasoning",
+        "passed": true
+      },
+      {
+        "name": "incomplete",
+        "passed": true
+      },
+      {
+        "name": "blank_final",
+        "passed": true
+      },
+      {
+        "name": "code_literal",
+        "passed": true
+      },
+      {
+        "name": "code_after_reasoning",
+        "passed": true
+      },
+      {
+        "name": "whitespace",
+        "passed": true
+      },
+      {
+        "name": "ambiguous",
+        "passed": true
+      }
+    ],
+    "gpqa": [
+      {
+        "name": "standard",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "case",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "math",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "bold",
+        "expected": "A",
+        "actual": "A",
+        "passed": true
+      },
+      {
+        "name": "parenthesized",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "final",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "words",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "bare",
+        "expected": "A",
+        "actual": "A",
+        "passed": true
+      },
+      {
+        "name": "bare_parens",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "boxed",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "reasoning",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "incomplete",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "empty",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "prose",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "ambiguous",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "invalid",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "revised",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "blanklabel",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "options",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "reasoning_only",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "description",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "multiple_channels",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "label_prose",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "letter_prefix_word",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "new_line_bold",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      }
+    ],
+    "qwen_adapter": [
+      {
+        "name": "prompt_open_no_closer",
+        "passed": true
+      },
+      {
+        "name": "prompt_open_closed",
+        "passed": true
+      },
+      {
+        "name": "generated_open",
+        "passed": true
+      },
+      {
+        "name": "direct",
+        "passed": true
+      },
+      {
+        "name": "code_literal",
+        "passed": true
+      },
+      {
+        "name": "open_prompt_final_view",
+        "passed": true
+      },
+      {
+        "name": "unclosed_prompt_empty_final",
+        "passed": true
+      },
+      {
+        "name": "not_double_counted_output_tokens",
+        "passed": true
+      }
+    ]
+  },
+  "sarvam_source_protocol_sha256": "b382530fbd7149e8fded6a5316dd2855f19eff505797fb957351c84ebdb42ee3",
+  "publication": "No publication now; GPQA questions/options/keys/traces/selected letters remain private.",
+  "compatibility_amendment": {
+    "time_utc": "2026-11-04T12:07:53.185491+00:00",
+    "prior_protocol_sha256": "1606814e6b5c28e18890128c6f4c5dd8e186f036f560e7560d80142a42b7cd50",
+    "change": "Explicit return_dict=False for Transformers5 chat-template tokenization; older Transformers returned list by default, newer returns BatchEncoding. Canonical rendered input and tokens unchanged; no benchmark response or score existed."
+  },
+  "funding_runtime_amendment": {
+    "time_utc": "2026-11-04T12:18:55.441813+00:00",
+    "prior_protocol_sha256": "f09bb016832e92e77abb7889657a257db069463368f3b84a992c2a0248495dcf",
+    "pilot_warm_tokens_per_second": 557.5691900411218,
+    "max_output_full_pair_projection_hours": 7.003352055814532,
+    "change": "Allocation lifetime raised from4h to8h after measured synthetic throughput and confirmed funding. Model, sampling, prompts, token ceilings, policy and graders unchanged; no benchmark response/score exists."
+  },
+  "public_copy_provenance": {
+    "original_protocol_sha256": "43b2403ae1b331ad485df8c43d115852d27331ffea6d6dad9fa3df245991e6af",
+    "difference": "Funding and live balance statements omitted; experimental settings and solver/evaluator hashes preserved."
+  }
+}

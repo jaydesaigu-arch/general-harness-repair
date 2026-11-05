@@ -1,0 +1,1162 @@
+[
+  {
+    "task_id": "HumanEval/28",
+    "status": "pass",
+    "seconds": 0.044112443923950195,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/45",
+    "status": "pass",
+    "seconds": 0.04405999183654785,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/14",
+    "status": "pass",
+    "seconds": 0.04267549514770508,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/7",
+    "status": "pass",
+    "seconds": 0.04054617881774902,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/35",
+    "status": "pass",
+    "seconds": 0.039961814880371094,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/34",
+    "status": "pass",
+    "seconds": 0.04090309143066406,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/8",
+    "status": "pass",
+    "seconds": 0.038053274154663086,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/29",
+    "status": "pass",
+    "seconds": 0.03959941864013672,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/4",
+    "status": "pass",
+    "seconds": 0.03356528282165527,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/18",
+    "status": "pass",
+    "seconds": 0.038700103759765625,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/30",
+    "status": "pass",
+    "seconds": 0.03740334510803223,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/5",
+    "status": "pass",
+    "seconds": 0.03681182861328125,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/23",
+    "status": "pass",
+    "seconds": 0.037545204162597656,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/12",
+    "status": "pass",
+    "seconds": 0.03796076774597168,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/25",
+    "status": "pass",
+    "seconds": 0.04226374626159668,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/26",
+    "status": "pass",
+    "seconds": 0.04072928428649902,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/53",
+    "status": "pass",
+    "seconds": 0.039170265197753906,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/16",
+    "status": "pass",
+    "seconds": 0.037224531173706055,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/43",
+    "status": "pass",
+    "seconds": 0.0373072624206543,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/24",
+    "status": "pass",
+    "seconds": 0.041368722915649414,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/2",
+    "status": "pass",
+    "seconds": 0.0380711555480957,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/0",
+    "status": "pass",
+    "seconds": 0.034887075424194336,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/9",
+    "status": "pass",
+    "seconds": 0.03759312629699707,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/11",
+    "status": "pass",
+    "seconds": 0.03782391548156738,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/48",
+    "status": "pass",
+    "seconds": 0.0407872200012207,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/13",
+    "status": "pass",
+    "seconds": 0.04084968566894531,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/52",
+    "status": "pass",
+    "seconds": 0.038305044174194336,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/42",
+    "status": "pass",
+    "seconds": 0.03804922103881836,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/60",
+    "status": "pass",
+    "seconds": 0.03740382194519043,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/51",
+    "status": "pass",
+    "seconds": 0.04122591018676758,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/56",
+    "status": "pass",
+    "seconds": 0.03779721260070801,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/49",
+    "status": "pass",
+    "seconds": 0.03365612030029297,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/6",
+    "status": "pass",
+    "seconds": 0.03743338584899902,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/36",
+    "status": "pass",
+    "seconds": 0.05452132225036621,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/66",
+    "status": "pass",
+    "seconds": 0.04044628143310547,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/58",
+    "status": "pass",
+    "seconds": 0.03883934020996094,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/61",
+    "status": "pass",
+    "seconds": 0.03493165969848633,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/68",
+    "status": "pass",
+    "seconds": 0.04334592819213867,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/38",
+    "status": "pass",
+    "seconds": 0.04314303398132324,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/72",
+    "status": "pass",
+    "seconds": 0.03957867622375488,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/69",
+    "status": "pass",
+    "seconds": 0.0383603572845459,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/67",
+    "status": "pass",
+    "seconds": 0.04378342628479004,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/64",
+    "status": "pass",
+    "seconds": 0.04298090934753418,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/71",
+    "status": "pass",
+    "seconds": 0.045087575912475586,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/50",
+    "status": "pass",
+    "seconds": 0.04402971267700195,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/63",
+    "status": "pass",
+    "seconds": 0.04007101058959961,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/74",
+    "status": "pass",
+    "seconds": 0.03775906562805176,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/79",
+    "status": "pass",
+    "seconds": 0.047431230545043945,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/82",
+    "status": "pass",
+    "seconds": 0.04645967483520508,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/85",
+    "status": "pass",
+    "seconds": 0.04334878921508789,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/62",
+    "status": "fail",
+    "seconds": 0.04268813133239746,
+    "first_failed_input_index": 4,
+    "first_failed_input_repr": "[[1]]",
+    "reference_output_repr": "[]",
+    "feedback": "For input arguments [[1]], the expected output is []."
+  },
+  {
+    "task_id": "HumanEval/104",
+    "status": "pass",
+    "seconds": 0.04262852668762207,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/97",
+    "status": "pass",
+    "seconds": 0.043161630630493164,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/98",
+    "status": "pass",
+    "seconds": 0.0442047119140625,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/80",
+    "status": "pass",
+    "seconds": 0.03872418403625488,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/90",
+    "status": "pass",
+    "seconds": 0.04385542869567871,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/84",
+    "status": "pass",
+    "seconds": 0.04430437088012695,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/102",
+    "status": "pass",
+    "seconds": 0.04107809066772461,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/121",
+    "status": "pass",
+    "seconds": 0.040112972259521484,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/87",
+    "status": "pass",
+    "seconds": 0.04512166976928711,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/122",
+    "status": "pass",
+    "seconds": 0.044577836990356445,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/120",
+    "status": "pass",
+    "seconds": 0.04514789581298828,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/128",
+    "status": "pass",
+    "seconds": 0.04460954666137695,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/133",
+    "status": "pass",
+    "seconds": 0.0460810661315918,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/135",
+    "status": "pass",
+    "seconds": 0.04591488838195801,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/131",
+    "status": "pass",
+    "seconds": 0.04479217529296875,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/150",
+    "status": "pass",
+    "seconds": 0.04389786720275879,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/152",
+    "status": "pass",
+    "seconds": 0.040038347244262695,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/139",
+    "status": "pass",
+    "seconds": 0.036684274673461914,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/143",
+    "status": "pass",
+    "seconds": 0.0401153564453125,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/162",
+    "status": "pass",
+    "seconds": 0.03754591941833496,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/144",
+    "status": "pass",
+    "seconds": 0.05848526954650879,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/149",
+    "status": "pass",
+    "seconds": 0.05748701095581055,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/155",
+    "status": "pass",
+    "seconds": 0.04670548439025879,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/157",
+    "status": "pass",
+    "seconds": 0.04338479042053223,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/159",
+    "status": "pass",
+    "seconds": 0.04023170471191406,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/156",
+    "status": "pass",
+    "seconds": 0.03786730766296387,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/153",
+    "status": "pass",
+    "seconds": 0.04495429992675781,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/3",
+    "status": "pass",
+    "seconds": 0.04430675506591797,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/15",
+    "status": "pass",
+    "seconds": 0.04853057861328125,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/1",
+    "status": "pass",
+    "seconds": 0.04009246826171875,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/10",
+    "status": "pass",
+    "seconds": 0.03976154327392578,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/17",
+    "status": "pass",
+    "seconds": 0.04125714302062988,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/20",
+    "status": "fail",
+    "seconds": 0.04305577278137207,
+    "first_failed_input_index": 1,
+    "first_failed_input_repr": "[[1.0, 2.0, 5.9, 4.0, 5.0]]",
+    "reference_output_repr": "(5.0, 5.9)",
+    "feedback": "For input arguments [[1.0, 2.0, 5.9, 4.0, 5.0]], the expected output is (5.0, 5.9)."
+  },
+  {
+    "task_id": "HumanEval/19",
+    "status": "pass",
+    "seconds": 0.04215574264526367,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/27",
+    "status": "pass",
+    "seconds": 0.04209542274475098,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/22",
+    "status": "pass",
+    "seconds": 0.044059038162231445,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/21",
+    "status": "pass",
+    "seconds": 0.03861379623413086,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/31",
+    "status": "pass",
+    "seconds": 0.03953266143798828,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/37",
+    "status": "pass",
+    "seconds": 0.03552699089050293,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/33",
+    "status": "pass",
+    "seconds": 0.040038108825683594,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/39",
+    "status": "pass",
+    "seconds": 0.0383150577545166,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/47",
+    "status": "pass",
+    "seconds": 0.03991293907165527,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/41",
+    "status": "pass",
+    "seconds": 0.038098812103271484,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/40",
+    "status": "pass",
+    "seconds": 0.03658318519592285,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/55",
+    "status": "pass",
+    "seconds": 0.04034113883972168,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/70",
+    "status": "pass",
+    "seconds": 0.037832021713256836,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/54",
+    "status": "pass",
+    "seconds": 0.038434505462646484,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/57",
+    "status": "pass",
+    "seconds": 0.038890838623046875,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/44",
+    "status": "pass",
+    "seconds": 0.03877758979797363,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/46",
+    "status": "pass",
+    "seconds": 0.044088125228881836,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/59",
+    "status": "pass",
+    "seconds": 0.04305005073547363,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/65",
+    "status": "pass",
+    "seconds": 0.03712725639343262,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/32",
+    "status": "pass",
+    "seconds": 0.046739816665649414,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/73",
+    "status": "pass",
+    "seconds": 0.04328584671020508,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/77",
+    "status": "pass",
+    "seconds": 0.03358292579650879,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/75",
+    "status": "pass",
+    "seconds": 0.03876972198486328,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/83",
+    "status": "pass",
+    "seconds": 0.03418684005737305,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/78",
+    "status": "pass",
+    "seconds": 0.03715848922729492,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/92",
+    "status": "pass",
+    "seconds": 0.041467905044555664,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/89",
+    "status": "pass",
+    "seconds": 0.04206037521362305,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/86",
+    "status": "pass",
+    "seconds": 0.03754472732543945,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/91",
+    "status": "pass",
+    "seconds": 0.03728747367858887,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/88",
+    "status": "pass",
+    "seconds": 0.0392148494720459,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/100",
+    "status": "pass",
+    "seconds": 0.0427861213684082,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/81",
+    "status": "pass",
+    "seconds": 0.06376314163208008,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/101",
+    "status": "pass",
+    "seconds": 0.037106990814208984,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/95",
+    "status": "pass",
+    "seconds": 0.04940533638000488,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/106",
+    "status": "pass",
+    "seconds": 0.04628467559814453,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/96",
+    "status": "pass",
+    "seconds": 0.04814863204956055,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/112",
+    "status": "pass",
+    "seconds": 0.0446622371673584,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/76",
+    "status": "pass",
+    "seconds": 0.05526590347290039,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/103",
+    "status": "pass",
+    "seconds": 0.053940773010253906,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/99",
+    "status": "pass",
+    "seconds": 0.04383730888366699,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/107",
+    "status": "pass",
+    "seconds": 0.04398036003112793,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/108",
+    "status": "pass",
+    "seconds": 0.05694270133972168,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/94",
+    "status": "pass",
+    "seconds": 0.055854082107543945,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/123",
+    "status": "pass",
+    "seconds": 0.042670488357543945,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/105",
+    "status": "pass",
+    "seconds": 0.041266679763793945,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/111",
+    "status": "pass",
+    "seconds": 0.04165363311767578,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/110",
+    "status": "pass",
+    "seconds": 0.0404970645904541,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/114",
+    "status": "pass",
+    "seconds": 0.03861546516418457,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/113",
+    "status": "pass",
+    "seconds": 0.03518247604370117,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/117",
+    "status": "pass",
+    "seconds": 0.043871164321899414,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/118",
+    "status": "pass",
+    "seconds": 0.04379677772521973,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/109",
+    "status": "pass",
+    "seconds": 0.04174160957336426,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/116",
+    "status": "pass",
+    "seconds": 0.040604352951049805,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/115",
+    "status": "pass",
+    "seconds": 0.047153472900390625,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/93",
+    "status": "pass",
+    "seconds": 0.04727792739868164,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/119",
+    "status": "pass",
+    "seconds": 0.043487548828125,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/138",
+    "status": "pass",
+    "seconds": 0.043732643127441406,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/125",
+    "status": "pass",
+    "seconds": 0.04426145553588867,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/136",
+    "status": "pass",
+    "seconds": 0.043532371520996094,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/126",
+    "status": "pass",
+    "seconds": 0.04830026626586914,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/140",
+    "status": "pass",
+    "seconds": 0.04799699783325195,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/142",
+    "status": "fail",
+    "seconds": 0.044411659240722656,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/127",
+    "status": "pass",
+    "seconds": 0.044405460357666016,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/134",
+    "status": "fail",
+    "seconds": 0.042764902114868164,
+    "first_failed_input_index": 3,
+    "first_failed_input_repr": "['A']",
+    "reference_output_repr": "True",
+    "feedback": "For input arguments ['A'], the expected output is True."
+  },
+  {
+    "task_id": "HumanEval/124",
+    "status": "pass",
+    "seconds": 0.04239630699157715,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/137",
+    "status": "pass",
+    "seconds": 0.04514765739440918,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/146",
+    "status": "pass",
+    "seconds": 0.04443502426147461,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/145",
+    "status": "fail",
+    "seconds": 0.044193267822265625,
+    "first_failed_input_index": 0,
+    "first_failed_input_repr": "[[1, 11, -1, -11, -12]]",
+    "reference_output_repr": "[-1, -11, 1, -12, 11]",
+    "feedback": "For input arguments [[1, 11, -1, -11, -12]], the expected output is [-1, -11, 1, -12, 11]."
+  },
+  {
+    "task_id": "HumanEval/141",
+    "status": "pass",
+    "seconds": 0.04473996162414551,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/151",
+    "status": "pass",
+    "seconds": 0.043985605239868164,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/158",
+    "status": "pass",
+    "seconds": 0.043073177337646484,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/163",
+    "status": "fail",
+    "seconds": 0.046718597412109375,
+    "first_failed_input_index": 0,
+    "first_failed_input_repr": "[2, 10]",
+    "reference_output_repr": "[2, 4, 6, 8]",
+    "feedback": "For input arguments [2, 10], the expected output is [2, 4, 6, 8]."
+  },
+  {
+    "task_id": "HumanEval/154",
+    "status": "pass",
+    "seconds": 0.0568995475769043,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/130",
+    "status": "fail",
+    "seconds": 0.0558321475982666,
+    "first_failed_input_index": 0,
+    "first_failed_input_repr": "[3]",
+    "reference_output_repr": "[1, 3, 2.0, 8.0]",
+    "feedback": "For input arguments [3], the expected output is [1, 3, 2.0, 8.0]."
+  },
+  {
+    "task_id": "HumanEval/148",
+    "status": "pass",
+    "seconds": 0.03995060920715332,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/160",
+    "status": "pass",
+    "seconds": 0.0390324592590332,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/161",
+    "status": "pass",
+    "seconds": 0.03896450996398926,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/129",
+    "status": "fail",
+    "seconds": 0.0392308235168457,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/132",
+    "status": "fail",
+    "seconds": 0.04283595085144043,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  },
+  {
+    "task_id": "HumanEval/147",
+    "status": "fail",
+    "seconds": 0.03963327407836914,
+    "first_failed_input_index": null,
+    "feedback": "The program failed to execute or exceeded the evaluator time limit."
+  }
+]

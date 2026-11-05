@@ -1,0 +1,13 @@
+[
+  {
+    "time_utc": "2026-11-04T14:55:17.314141+00:00",
+    "id": "HumanEval/94",
+    "condition": "baseline",
+    "correction_kind": "Rationale arithmetic typo; label unchanged",
+    "original_digit_sum_in_note": 103,
+    "correct_digit_sum": 100,
+    "proof": "sum of decimal digits of318665857834031151167461 equals100; composite factors399165290221 and798330580441 and all twelve Miller-Rabin passes independently verified. Expected result for[2,n] remains2.",
+    "label_before": "0",
+    "label_after": "0"
+  }
+]

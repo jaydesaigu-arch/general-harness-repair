@@ -1,0 +1,61 @@
+{
+  "model": "Qwen/Qwen3.8-27B",
+  "revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+  "stage": "Final bounded Qwen delimiter-only development refinement",
+  "frozen_at_utc": "2026-11-05T02:47:30.562558+00:00",
+  "development_plan_sha256": "4cf6af59be2ca3ab23ba496098ed672966e36c3b2ae4d32e1b283c08369c7628",
+  "arms": [
+    "qwen_native_v3"
+  ],
+  "n_per_arm": 96,
+  "solver_files": {
+    "worker.py": "e4bef130b3455024060631a8f3daad60b61a56c57b89f9e64717ea2ef38aa3ce",
+    "bootstrap_gpu.py": "b6bda425d1d5071bd05e6d4a4cd69f0c52390f80e3c8abaf0f9bc3a569616354",
+    "budget_policy.py": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "harness.py": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "grade_gpqa.py": "06b2289801d0b22bda7c798dd0edd7a976c35e794575308f15d4c98a6fa008bf",
+    "adapter.py": "ecf32416beb1e84a21b147a0ed66b98c49124f3b96a96bc92bfde0b939c09d53",
+    "native_policy.py": "e01043b8b37fd3183751d959d47913583c01db91ffd43783492c6c0a711b1730",
+    "questions.json": "bbb7e810c8de9ae81f2c4aa85a1f3122b117a3b3fc134e1fa55050ce074b1a5b"
+  },
+  "generation": {
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 20261108,
+    "max_context": 12288,
+    "max_num_seqs": 48,
+    "max_num_batched_tokens": 4096,
+    "code_output_ceiling": 4096,
+    "math_and_gpqa_output_ceiling": 8192,
+    "reserve": 1024,
+    "prefix_cache": false,
+    "eager": true,
+    "gpu_memory_utilization": 0.92,
+    "thinking": true,
+    "reasoning_effort": "xhigh",
+    "same_shuffled_question_order_both_arms": true,
+    "processing_batch_size": 48,
+    "candidate_effort": "xhigh at every output budget",
+    "candidate_forced_text": "</think>\n\n",
+    "legacy_effort": "xhigh"
+  },
+  "grader_files_sha256": {
+    "audit_gold_parse.py": "3f887ce613a3489be1ac684471ffe703730ce76be3eae790e8db796ac3be3f0a",
+    "common.py": "e483fd07966e52de731bbe272b968a4a166b84af432815406e370f0a6dc921ef",
+    "cpu_eval.py": "f7cbb46e889662afe3ee4c4ec347c323a1765f992a2de8f74063bbbad4c4bdf4",
+    "cpu_eval_original.py": "d168c963a1063703aaf01c5804c1854694a4795a3c62fdd9dd0ff4f49ac73167",
+    "math_grade.py": "682420c6bab77d1d71c554dd7e7a2a3f07d9de27b39b185e6563a3dab0bc3910",
+    "math_grade_v2.py": "4ce0b2899a5524635b66402eaf84de3288ff68b15788e77cee298665a5302dfc",
+    "math_grade_v3.py": "a21aa66f0ddfe5fe0428140490e6fd288d911d552f709d7febd977140ec2f4ab",
+    "patch_evalplus.py": "2ac55de72334f1e76ea464a0f5039f22665ecbfcab75ff4aca1a4bfb194d1b2b",
+    "root_positive.py": "b49e778c84c9ed5874d2dddd558decbc125d01a5b5586d565cf82155d271d35d",
+    "sanitize_dependencies_v2.py": "89d3d724e8e2261d932fa0b8c10f2930986a416f334ecc48b4533a290ca69613"
+  },
+  "solver_no_references_or_hidden_tests": true,
+  "development_gpu_maximum_usd": 1.8826,
+  "development_allocation_total_limit_usd": 1.8977,
+  "public_copy_provenance": {
+    "original_protocol_sha256": "798789ac73b5ab9000d57361cf2828e974521942ce0c1e32a2825675a3bc4e0e",
+    "difference": "Funding and live balance statements omitted; experimental settings and solver/evaluator hashes preserved."
+  }
+}

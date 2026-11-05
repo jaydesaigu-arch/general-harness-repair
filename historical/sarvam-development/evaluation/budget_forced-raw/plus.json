@@ -1,0 +1,1010 @@
+[
+  {
+    "task_id": "HumanEval/0",
+    "status": "pass",
+    "seconds": 0.062486886978149414,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/2",
+    "status": "pass",
+    "seconds": 0.05592942237854004,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/4",
+    "status": "pass",
+    "seconds": 0.06383514404296875,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/5",
+    "status": "pass",
+    "seconds": 0.048142194747924805,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/6",
+    "status": "pass",
+    "seconds": 0.0436711311340332,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/7",
+    "status": "pass",
+    "seconds": 0.045439720153808594,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/8",
+    "status": "pass",
+    "seconds": 0.06834053993225098,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/9",
+    "status": "pass",
+    "seconds": 0.06548953056335449,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/11",
+    "status": "pass",
+    "seconds": 0.06130504608154297,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/12",
+    "status": "pass",
+    "seconds": 0.07119917869567871,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/13",
+    "status": "pass",
+    "seconds": 0.052865028381347656,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/14",
+    "status": "pass",
+    "seconds": 0.06649327278137207,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/16",
+    "status": "pass",
+    "seconds": 0.05833601951599121,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/18",
+    "status": "pass",
+    "seconds": 0.05457639694213867,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/23",
+    "status": "pass",
+    "seconds": 0.05316591262817383,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/24",
+    "status": "pass",
+    "seconds": 0.04764866828918457,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/25",
+    "status": "pass",
+    "seconds": 0.08089971542358398,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/26",
+    "status": "pass",
+    "seconds": 0.0645289421081543,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/28",
+    "status": "pass",
+    "seconds": 0.05926108360290527,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/29",
+    "status": "pass",
+    "seconds": 0.05976510047912598,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/30",
+    "status": "pass",
+    "seconds": 0.05689501762390137,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/34",
+    "status": "pass",
+    "seconds": 0.06464743614196777,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/35",
+    "status": "pass",
+    "seconds": 0.06494545936584473,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/36",
+    "status": "pass",
+    "seconds": 0.9757814407348633,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/38",
+    "status": "pass",
+    "seconds": 0.07682418823242188,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/42",
+    "status": "pass",
+    "seconds": 0.059172630310058594,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/43",
+    "status": "pass",
+    "seconds": 0.060898780822753906,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/45",
+    "status": "pass",
+    "seconds": 0.05735969543457031,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/48",
+    "status": "pass",
+    "seconds": 0.05353379249572754,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/49",
+    "status": "pass",
+    "seconds": 0.0597231388092041,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/50",
+    "status": "pass",
+    "seconds": 0.06080913543701172,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/51",
+    "status": "pass",
+    "seconds": 0.06097006797790527,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/52",
+    "status": "pass",
+    "seconds": 0.05187702178955078,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/53",
+    "status": "pass",
+    "seconds": 0.05142402648925781,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/56",
+    "status": "pass",
+    "seconds": 0.05829787254333496,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/57",
+    "status": "pass",
+    "seconds": 0.06073570251464844,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/58",
+    "status": "pass",
+    "seconds": 0.06732630729675293,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/60",
+    "status": "pass",
+    "seconds": 0.042265892028808594,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/61",
+    "status": "pass",
+    "seconds": 0.06051826477050781,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/62",
+    "status": "fail",
+    "seconds": 0.06051993370056152,
+    "first_failed_input_index": 590,
+    "first_failed_input_repr": "[[0]]",
+    "reference_output_repr": "[]"
+  },
+  {
+    "task_id": "HumanEval/63",
+    "status": "pass",
+    "seconds": 0.048020124435424805,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/64",
+    "status": "pass",
+    "seconds": 0.060227155685424805,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/66",
+    "status": "pass",
+    "seconds": 0.06567859649658203,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/67",
+    "status": "pass",
+    "seconds": 0.0503697395324707,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/68",
+    "status": "pass",
+    "seconds": 0.06497788429260254,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/69",
+    "status": "pass",
+    "seconds": 0.07908844947814941,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/70",
+    "status": "pass",
+    "seconds": 0.06476831436157227,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/71",
+    "status": "pass",
+    "seconds": 0.05459904670715332,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/72",
+    "status": "pass",
+    "seconds": 0.057396650314331055,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/74",
+    "status": "pass",
+    "seconds": 0.06844377517700195,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/78",
+    "status": "pass",
+    "seconds": 0.05704545974731445,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/79",
+    "status": "pass",
+    "seconds": 0.04308438301086426,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/80",
+    "status": "pass",
+    "seconds": 0.05973172187805176,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/82",
+    "status": "pass",
+    "seconds": 0.05777120590209961,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/83",
+    "status": "pass",
+    "seconds": 1.3752598762512207,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/84",
+    "status": "pass",
+    "seconds": 0.050644874572753906,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/85",
+    "status": "pass",
+    "seconds": 0.06493139266967773,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/86",
+    "status": "pass",
+    "seconds": 0.06047201156616211,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/87",
+    "status": "pass",
+    "seconds": 0.04662489891052246,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/88",
+    "status": "pass",
+    "seconds": 0.06475090980529785,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/90",
+    "status": "pass",
+    "seconds": 0.05865883827209473,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/92",
+    "status": "pass",
+    "seconds": 0.05899930000305176,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/96",
+    "status": "pass",
+    "seconds": 0.217360258102417,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/98",
+    "status": "pass",
+    "seconds": 0.06340408325195312,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/103",
+    "status": "pass",
+    "seconds": 0.05279350280761719,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/104",
+    "status": "pass",
+    "seconds": 0.07047295570373535,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/107",
+    "status": "pass",
+    "seconds": 0.05392909049987793,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/111",
+    "status": "pass",
+    "seconds": 0.05279874801635742,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/112",
+    "status": "pass",
+    "seconds": 0.06007981300354004,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/115",
+    "status": "pass",
+    "seconds": 0.06694626808166504,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/117",
+    "status": "pass",
+    "seconds": 0.060607194900512695,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/121",
+    "status": "pass",
+    "seconds": 0.0639188289642334,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/123",
+    "status": "pass",
+    "seconds": 0.0455164909362793,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/125",
+    "status": "pass",
+    "seconds": 0.05280661582946777,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/128",
+    "status": "pass",
+    "seconds": 0.06140255928039551,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/131",
+    "status": "pass",
+    "seconds": 0.04665422439575195,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/133",
+    "status": "pass",
+    "seconds": 0.058553218841552734,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/135",
+    "status": "pass",
+    "seconds": 0.0568852424621582,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/138",
+    "status": "pass",
+    "seconds": 0.044254302978515625,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/139",
+    "status": "pass",
+    "seconds": 4.385479927062988,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/142",
+    "status": "pass",
+    "seconds": 0.06719684600830078,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/143",
+    "status": "pass",
+    "seconds": 0.05587315559387207,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/146",
+    "status": "pass",
+    "seconds": 0.07112669944763184,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/148",
+    "status": "pass",
+    "seconds": 0.05543208122253418,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/152",
+    "status": "pass",
+    "seconds": 0.06899785995483398,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/153",
+    "status": "pass",
+    "seconds": 0.04584145545959473,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/155",
+    "status": "pass",
+    "seconds": 0.044374942779541016,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/156",
+    "status": "pass",
+    "seconds": 0.04280543327331543,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/157",
+    "status": "pass",
+    "seconds": 0.05876564979553223,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/159",
+    "status": "pass",
+    "seconds": 0.05682730674743652,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/162",
+    "status": "pass",
+    "seconds": 0.05924367904663086,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/27",
+    "status": "pass",
+    "seconds": 0.06926226615905762,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/15",
+    "status": "pass",
+    "seconds": 3.2052605152130127,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/55",
+    "status": "pass",
+    "seconds": 0.04476571083068848,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/22",
+    "status": "pass",
+    "seconds": 0.07160234451293945,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/3",
+    "status": "pass",
+    "seconds": 0.06343388557434082,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/47",
+    "status": "pass",
+    "seconds": 0.062043190002441406,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/54",
+    "status": "pass",
+    "seconds": 0.0588533878326416,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/65",
+    "status": "pass",
+    "seconds": 0.058405399322509766,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/41",
+    "status": "pass",
+    "seconds": 0.04479670524597168,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/59",
+    "status": "pass",
+    "seconds": 0.04467153549194336,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/21",
+    "status": "pass",
+    "seconds": 0.07930493354797363,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/37",
+    "status": "pass",
+    "seconds": 0.07422614097595215,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/33",
+    "status": "pass",
+    "seconds": 0.062445640563964844,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/39",
+    "status": "fail",
+    "seconds": 0.242356538772583,
+    "first_failed_input_index": 1,
+    "first_failed_input_repr": "[12]",
+    "reference_output_repr": "99194853094755497"
+  },
+  {
+    "task_id": "HumanEval/10",
+    "status": "pass",
+    "seconds": 0.06522297859191895,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/31",
+    "status": "pass",
+    "seconds": 0.04240083694458008,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/17",
+    "status": "pass",
+    "seconds": 0.043714284896850586,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/20",
+    "status": "fail",
+    "seconds": 0.048845529556274414,
+    "first_failed_input_index": 4,
+    "first_failed_input_repr": "[[0.5, 0.9, 1.2, 1.8, 2.5, 2.9, 3.1]]",
+    "reference_output_repr": "(2.9, 3.1)"
+  },
+  {
+    "task_id": "HumanEval/73",
+    "status": "pass",
+    "seconds": 0.06575322151184082,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/19",
+    "status": "pass",
+    "seconds": 0.04172825813293457,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/40",
+    "status": "pass",
+    "seconds": 0.06332254409790039,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/44",
+    "status": "pass",
+    "seconds": 0.048139333724975586,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/46",
+    "status": "pass",
+    "seconds": 0.048142433166503906,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/1",
+    "status": "fail",
+    "seconds": 0.03941917419433594,
+    "first_failed_input_index": 2,
+    "first_failed_input_repr": "['((()))()']",
+    "reference_output_repr": "['((()))', '()']"
+  },
+  {
+    "task_id": "HumanEval/89",
+    "status": "pass",
+    "seconds": 0.06200456619262695,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/75",
+    "status": "pass",
+    "seconds": 0.04114651679992676,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/97",
+    "status": "pass",
+    "seconds": 0.056632280349731445,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/76",
+    "status": "fail",
+    "seconds": 0.04400801658630371,
+    "first_failed_input_index": 373,
+    "first_failed_input_repr": "[-1, -2]",
+    "reference_output_repr": "False"
+  },
+  {
+    "task_id": "HumanEval/91",
+    "status": "fail",
+    "seconds": 0.043222904205322266,
+    "first_failed_input_index": 4,
+    "first_failed_input_repr": "['In the morning, I like to have a cup of coffee to start my day off right. How about you?']",
+    "reference_output_repr": "0"
+  },
+  {
+    "task_id": "HumanEval/95",
+    "status": "pass",
+    "seconds": 0.0520634651184082,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/93",
+    "status": "pass",
+    "seconds": 0.06911420822143555,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/101",
+    "status": "pass",
+    "seconds": 0.05422782897949219,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/100",
+    "status": "pass",
+    "seconds": 0.1696484088897705,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/32",
+    "status": "fail",
+    "seconds": 0.052163124084472656,
+    "first_failed_input_index": 0,
+    "first_failed_input_repr": "[[5, 10, -3, 1]]",
+    "reference_output_repr": "-0.4350015266201541"
+  },
+  {
+    "task_id": "HumanEval/81",
+    "status": "fail",
+    "seconds": 0.05280423164367676,
+    "first_failed_input_index": 0,
+    "first_failed_input_repr": "[[3.8, 2.5, 3.9, 2.2, 1.0]]",
+    "reference_output_repr": "['A', 'B-', 'A', 'C+', 'D']"
+  },
+  {
+    "task_id": "HumanEval/102",
+    "status": "pass",
+    "seconds": 0.05853414535522461,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/94",
+    "status": "pass",
+    "seconds": 1.7011675834655762,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/106",
+    "status": "pass",
+    "seconds": 0.04750251770019531,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/77",
+    "status": "pass",
+    "seconds": 0.050052642822265625,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/99",
+    "status": "pass",
+    "seconds": 0.054799795150756836,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/105",
+    "status": "pass",
+    "seconds": 0.0697932243347168,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/110",
+    "status": "pass",
+    "seconds": 0.2747964859008789,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/113",
+    "status": "pass",
+    "seconds": 0.07555890083312988,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/114",
+    "status": "pass",
+    "seconds": 0.07051301002502441,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/118",
+    "status": "pass",
+    "seconds": 0.05416107177734375,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/122",
+    "status": "pass",
+    "seconds": 0.0625455379486084,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/116",
+    "status": "pass",
+    "seconds": 0.06136369705200195,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/120",
+    "status": "pass",
+    "seconds": 0.06076169013977051,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/109",
+    "status": "pass",
+    "seconds": 0.06269407272338867,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/126",
+    "status": "pass",
+    "seconds": 0.06452226638793945,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/136",
+    "status": "pass",
+    "seconds": 0.06279444694519043,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/119",
+    "status": "pass",
+    "seconds": 0.051480770111083984,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/134",
+    "status": "fail",
+    "seconds": 0.04363083839416504,
+    "first_failed_input_index": 125,
+    "first_failed_input_repr": "['p']",
+    "reference_output_repr": "True"
+  },
+  {
+    "task_id": "HumanEval/144",
+    "status": "pass",
+    "seconds": 0.06253910064697266,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/140",
+    "status": "pass",
+    "seconds": 0.055277347564697266,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/127",
+    "status": "pass",
+    "seconds": 0.05816340446472168,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/108",
+    "status": "pass",
+    "seconds": 0.08312773704528809,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/137",
+    "status": "pass",
+    "seconds": 0.05391383171081543,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/150",
+    "status": "pass",
+    "seconds": 0.05475044250488281,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/145",
+    "status": "fail",
+    "seconds": 0.06610822677612305,
+    "first_failed_input_index": 1,
+    "first_failed_input_repr": "[[-5, -12, 9, 15]]",
+    "reference_output_repr": "[-5, -12, 15, 9]"
+  },
+  {
+    "task_id": "HumanEval/130",
+    "status": "pass",
+    "seconds": 2.2316153049468994,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/149",
+    "status": "pass",
+    "seconds": 0.06584572792053223,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/141",
+    "status": "pass",
+    "seconds": 0.055908203125,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/151",
+    "status": "pass",
+    "seconds": 0.06293821334838867,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/124",
+    "status": "fail",
+    "seconds": 0.04969620704650879,
+    "first_failed_input_index": 528,
+    "first_failed_input_repr": "['2-29-2001']",
+    "reference_output_repr": "False"
+  },
+  {
+    "task_id": "HumanEval/154",
+    "status": "pass",
+    "seconds": 0.0658571720123291,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/161",
+    "status": "pass",
+    "seconds": 0.058403730392456055,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/158",
+    "status": "pass",
+    "seconds": 0.059157371520996094,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/163",
+    "status": "pass",
+    "seconds": 0.06045198440551758,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/160",
+    "status": "fail",
+    "seconds": 0.04721426963806152,
+    "first_failed_input_index": 0,
+    "first_failed_input_repr": "[['+', '-', '*', '//'], [5, 2, 3, 4, 7]]",
+    "reference_output_repr": "6"
+  },
+  {
+    "task_id": "HumanEval/129",
+    "status": "fail",
+    "seconds": 0.049439191818237305,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/132",
+    "status": "fail",
+    "seconds": 0.04459524154663086,
+    "first_failed_input_index": null
+  },
+  {
+    "task_id": "HumanEval/147",
+    "status": "fail",
+    "seconds": 0.04162478446960449,
+    "first_failed_input_index": null
+  }
+]

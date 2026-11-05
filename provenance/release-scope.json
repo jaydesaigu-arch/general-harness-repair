@@ -1,0 +1,25 @@
+{
+  "paper_title": "A general harness repair approach to AI Model improvement",
+  "author": "Jay Desai",
+  "affiliation_as_provided": "Gujarat University",
+  "primary_retained_responses": 3448,
+  "full_primary_text_responses_public": 2656,
+  "gpqa_response_metadata_records": 792,
+  "gpqa_exclusions": [
+    "questions",
+    "options",
+    "selected letters",
+    "reference keys",
+    "reasoning traces",
+    "full completions",
+    "output token IDs",
+    "review notes"
+  ],
+  "primary_study": "Frozen full Sarvam comparison and previously frozen policy transfer to Qwen, before Qwen scored inference.",
+  "exploratory_separate": "Later unsuccessful Qwen-specific development and a user-stopped duplicate replication are retained separately; not new full-suite results and not replacements for the manuscript tables.",
+  "weights": "Original upstream checkpoints; no training, adapters, quantization or edited learned weights. No weight files redistributed.",
+  "original_console_screenshots": "No original console screenshots are asserted. Source listings, exact execution records and environment metadata supply the retained evidence.",
+  "prepared_at_utc": "2026-11-05T04:47:12.198269+00:00",
+  "historical_sarvam_code_math_text_records": 3656,
+  "historical_sarvam_gpqa_metadata_records": 792
+}

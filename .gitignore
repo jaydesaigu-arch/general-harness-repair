@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.cache/
+.private/
+private-*.json
+private-*.csv
+questions.json
+gpqa_diamond.csv
+*.safetensors
+*.bin

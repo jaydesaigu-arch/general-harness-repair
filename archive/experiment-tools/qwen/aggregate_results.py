@@ -1,0 +1,80 @@
+"""Aggregate complete frozen evidence. No solver calls or scorer modifications."""
+import csv,hashlib,json,math
+from pathlib import Path
+from datetime import datetime,timezone
+H=Path(__file__).resolve().parent;R=H.parents[1];O=R/'outputs/qwen38-27b'
+read=lambda p:json.loads(p.read_text())
+assert read(O/'generation-audit.json')['status']=='PASS'
+assert read(H/'gpu-controller-state.json').get('gpu_stopped')
+assert read(H/'cpu-controller-state.json').get('cpu_stopped')
+assert set(read(H/'cpu-controller-state.json')['completed'])=={'baseline','combined_repaired'}
+gpqa=read(O/'GPQA-RESULTS.json')
+conditions=['baseline','combined_repaired'];metrics={};sources=[]
+def load(p):
+ sources.append({'path':str(p.relative_to(R)).replace('\\','/'),'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
+ return read(p)
+def add(name,b,c,d):
+ expected={'humaneval_plus':164,'math500':500,'gpqa_diamond':198}[b]
+ assert len(d)==expected
+ metrics.setdefault(name,{'benchmark':b,'n':expected,'conditions':{}})['conditions'][c]=d
+for c in conditions:
+ for view in ['raw','final']:
+  folder=H/'private-cpu/he164/scores'/(c+'-'+view)
+  base={r['task_id']:r['status']=='pass' for r in load(folder/'base.json')}
+  plus={r['task_id']:r['status']=='pass' for r in load(folder/'plus.json')}
+  assert base.keys()==plus.keys()
+  add('humaneval_plus_'+view,'humaneval_plus',c,{k:base[k] and plus[k] for k in base})
+  add('humaneval_base_'+view,'humaneval_plus',c,base)
+  rows=load(H/'private-cpu/math500/scores'/(c+'-'+view+'-v3.json'))
+  add('math500_'+view+'_v3','math500',c,{r['id']:bool(r['correct']) for r in rows})
+ reviews=load(H/'private-review'/(c+'-review-frozen.json'))
+ for benchmark,metric in [('math500','math500_codex_resolved_value'),('humaneval_plus','code_codex_no_defect')]:
+  items=[r for r in reviews if r['benchmark']==benchmark]
+  add(metric,benchmark,c,{r['id']:str(r['label'])=='1' for r in items})
+details=load(H/'private-review/gpqa-per-problem-scores.json')
+for c in conditions:
+ for m in ['official_raw','official_final','qualified_final','codex_resolved_choice']:
+  add('gpqa_'+m,'gpqa_diamond',c,{r['id']:r['correct'][m] for r in details if r['condition']==c})
+summary={'status':'COMPLETE','completed_at_utc':datetime.now(timezone.utc).isoformat(),'metrics':{},'source_artifacts':sources,
+ 'notes':['Qwen transfer of the existing generic policy, with model-specific interface adaptation before scored inference. Same public benchmarks used in Sarvam development, not unseen-task validation.',
+          'Qwen/Qwen3.8-27B original BF16 weights. Same Sarvam question projections and conditions. Single completion per problem and arm. Code ceiling4096; math/GPQA ceiling8192.',
+          'Primary automatic: raw HumanEval base AND expanded, raw Math v3, GPQA official raw.',
+          'Identical frozen graders in both arms. Plain generic math instruction belongs to the combined repaired bundle.',
+          'Codex reviews are neither independent human grades nor a blinded panel. Code no-defect labels are static assessments, not execution pass@1.',
+          'Math semantic labels assess resolved final values, not complete mathematical proof correctness.',
+          'GPQA Codex labels extract chosen options without an expert key, frozen before key scoring; not expert scientific adjudication.',
+          'Manual comparisons do not override automatic benchmark results; all regressions retained.',
+          'Code no-defect counts exclude unresolved static assessments; see full coverage rather than treating an unresolved case as a demonstrated execution failure.',
+          'Primary semantic mathematics counts follow the reference convention. The separately recorded case284 inverse-cotangent branch sensitivity adds one point to each arm, changing no net gain.',
+          'Retained completion-token totals exclude trimmed native end markers. Configured sampler ceilings still bound generation, and inserted closing tokens count inside the repaired ceiling.',
+          'This is one batched BF16 run per arm, without a repeated-run variance estimate. Token-prefix agreement diagnostics distinguish identical pretransition trajectories from earlier divergence.']}
+summary['manual_review_coverage']=load(O/'MANUAL-COVERAGE-both.json')
+summary['review_rationale_errata']=load(H/'private-review/review-corrections.json')
+summary['math_convention_sensitivity']=load(O/'MATH-CONVENTION-SENSITIVITY.json')
+summary['paired_prefix_diagnostics']=load(O/'PAIRWISE-PREFIX-DIAGNOSTICS.json')['benchmarks']
+def pair(a,b):
+ assert a.keys()==b.keys()
+ gains=sum(not a[k] and b[k] for k in a);losses=sum(a[k] and not b[k] for k in a)
+ n=gains+losses
+ p=min(1,2*sum(math.comb(n,i) for i in range(min(gains,losses)+1))/2**n) if n else 1
+ return {'gains':gains,'losses':losses,'net':gains-losses,'descriptive_exact_two_sided_mcnemar_p':p}
+for name,m in metrics.items():
+ a,b=(m['conditions'][c] for c in conditions)
+ summary['metrics'][name]={'benchmark':m['benchmark'],'n':m['n'],
+  'baseline_correct':sum(a.values()),'combined_repaired_correct':sum(b.values()),
+  'baseline_percent':100*sum(a.values())/m['n'],'combined_repaired_percent':100*sum(b.values())/m['n'],
+  'percentage_point_change':100*(sum(b.values())-sum(a.values()))/m['n'],**pair(a,b)}
+gpu=load(O/'GPU-COST.json');cpu=load(O/'CPU-COST.json')
+startup_costs=sum(read(p)['conservative_gpu_and_port_usd'] for p in (H/'attempts').glob('*/GPU-COST.json'))
+cpu_startup=sum(read(p)['conservative_cpu_and_port_usd'] for p in (H/'attempts').glob('*/CPU-COST.json'))
+summary['compute_cost']={'cpu_startup_conservative_usd':cpu_startup,'gpu_and_port_conservative_usd':gpu['conservative_gpu_and_port_usd'],
+ 'startup_attempts_conservative_usd':startup_costs,
+ 'cpu_and_port_conservative_usd':cpu['conservative_cpu_and_port_usd'],
+ 'total_conservative_usd':round(gpu['conservative_gpu_and_port_usd']+cpu['conservative_cpu_and_port_usd']+startup_costs+cpu_startup,4),
+ 'basis':'Elapsed allocation including startup and both full arms, rounded up by minute; estimate, not a Hugging Face invoice.',
+ 'weight_training_usd':0,'gpu_stopped':gpu['stopped'],'cpu_stopped':cpu['stopped']}
+(O/'RESULTS.json').write_text(json.dumps(summary,indent=2),encoding='utf-8')
+fields=['metric','benchmark','n','baseline_correct','combined_repaired_correct','baseline_percent','combined_repaired_percent','percentage_point_change','gains','losses','net','descriptive_exact_two_sided_mcnemar_p']
+with (O/'RESULTS.csv').open('w',newline='',encoding='utf-8') as f:
+ w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows({'metric':k,**v} for k,v in summary['metrics'].items())
+print(json.dumps({'metrics':summary['metrics'],'compute_cost':summary['compute_cost']},indent=2))

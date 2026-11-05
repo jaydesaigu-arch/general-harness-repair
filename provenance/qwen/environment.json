@@ -1,0 +1,9 @@
+{
+  "vllm": "0.26.0",
+  "torch": "2.11.0+cu130",
+  "transformers": "5.8.1",
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "cuda": "13.0",
+  "bootstrap_seconds": 99.24484086036682,
+  "weight_shards": 18
+}

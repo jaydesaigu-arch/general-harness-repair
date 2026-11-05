@@ -1,0 +1,58 @@
+{
+  "status": "STOPPED AT USER REQUEST; discussion before any further run",
+  "verified_at_utc": "2026-11-05T03:57:31.826988+00:00",
+  "remote_jobs": [
+    {
+      "stage": "development",
+      "hardware": "gpu",
+      "id": "6aebe0600e0338d1bb805116",
+      "remote_state": "CANCELED"
+    },
+    {
+      "stage": "development",
+      "hardware": "cpu",
+      "id": "6aebe0c5c78863f9c633169b",
+      "remote_state": "CANCELED"
+    },
+    {
+      "stage": "refinement",
+      "hardware": "gpu",
+      "id": "6aebee550e0338d1bb8054b7",
+      "remote_state": "CANCELED"
+    },
+    {
+      "stage": "refinement",
+      "hardware": "cpu",
+      "id": "6aebee5c0e0338d1bb8054be",
+      "remote_state": "CANCELED"
+    },
+    {
+      "stage": "frozen",
+      "hardware": "gpu",
+      "id": "6aebf5f20e0338d1bb805694",
+      "remote_state": "CANCELED"
+    },
+    {
+      "stage": "frozen",
+      "hardware": "cpu",
+      "id": "6aebf5f90e0338d1bb805696",
+      "remote_state": "CANCELED"
+    }
+  ],
+  "partial_duplicate_generation_counts": {
+    "baseline-gpqa_diamond.jsonl": 27,
+    "baseline-humaneval_plus.jsonl": 10,
+    "baseline-math500.jsonl": 59
+  },
+  "duplicate_run_cost_estimate_usd": 1.5185,
+  "completed_development_cost_estimate_usd": 3.5851,
+  "new_round_total_estimate_usd": 5.1036,
+  "cost_basis": "Conservative elapsed allocation estimates including ports; not a Hugging Face invoice.",
+  "paper_fingerprints_unchanged": {
+    "outputs/sarvam-qwen-paper-v1/General_Harness_Repair_Sarvam_Qwen.docx": true,
+    "outputs/sarvam30b-paper-v6/Sarvam30B_Harness_Repair_Paper.docx": true
+  },
+  "no_new_full_benchmark_score_claim": true,
+  "automatic_replication_started_unnecessarily": true,
+  "no_resume_without_user_direction": true
+}

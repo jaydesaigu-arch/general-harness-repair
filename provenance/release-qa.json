@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "checked_at_utc": "2026-11-05T04:56:09.089604+00:00",
+  "text_artifacts_scanned": 342,
+  "gpqa_question_prefixes_checked": 198,
+  "protected_question_matches": 0,
+  "credential_pattern_matches": 0,
+  "primary_gpqa_response_files": "Strict metadata-only allowlist validated by tools/audit_release.py; no raw GPQA generation archives are published.",
+  "limits": "Pattern scanning is an additional check, not a mathematical proof of absence of every possible disclosure. The release is built from explicit allowlists.",
+  "python_sources_parse": true,
+  "primary_auto_and_review_counts_recomputed": true,
+  "private_input_reconstruction_hash_verified": true,
+  "publication_pdf_sha256": "d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0"
+}

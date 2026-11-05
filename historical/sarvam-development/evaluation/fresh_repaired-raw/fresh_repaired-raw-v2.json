@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "math500/002",
+    "answer": "14/3",
+    "normalized_answer": "14/3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/005",
+    "answer": "42",
+    "normalized_answer": "42",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/000",
+    "answer": "(3, \u03c0/2)",
+    "normalized_answer": "(3, \u03c0/2)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/013",
+    "answer": "$5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/020",
+    "answer": "$6 + 9i$",
+    "normalized_answer": "6 + 9i",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/003",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/016",
+    "answer": "-50",
+    "normalized_answer": "-50",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/031",
+    "answer": "$11\\sqrt{2}$",
+    "normalized_answer": "11\\sqrt{2}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/028",
+    "answer": "-2 + 7i",
+    "normalized_answer": "-2 + 7i",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/027",
+    "answer": "$78",
+    "normalized_answer": "78",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/012",
+    "answer": "284",
+    "normalized_answer": "284",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/038",
+    "answer": "2000",
+    "normalized_answer": "2000",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/035",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/023",
+    "answer": "$5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/030",
+    "answer": "$52_8",
+    "normalized_answer": "52_8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/039",
+    "answer": "23",
+    "normalized_answer": "23",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/053",
+    "answer": "-\u03c0/6",
+    "normalized_answer": "-\u03c0/6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/049",
+    "answer": "83",
+    "normalized_answer": "83",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/033",
+    "answer": "$243/625$.",
+    "normalized_answer": "243/625.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/056",
+    "answer": "11",
+    "normalized_answer": "11",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/054",
+    "answer": "0.15",
+    "normalized_answer": "0.15",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/034",
+    "answer": "-125",
+    "normalized_answer": "-125",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/044",
+    "answer": "1.25",
+    "normalized_answer": "1.25",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/059",
+    "answer": "5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/048",
+    "answer": "3/2",
+    "normalized_answer": "3/2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/010",
+    "answer": "2220",
+    "normalized_answer": "2220",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/052",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/047",
+    "answer": "5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/055",
+    "answer": "$3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/051",
+    "answer": "$x^5 - x^4 + x^3 - x^2 + x - 1",
+    "normalized_answer": "x^5 - x^4 + x^3 - x^2 + x - 1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/065",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/072",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/066",
+    "answer": "$x^3 + 3x - 6",
+    "normalized_answer": "x^3 + 3x - 6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/077",
+    "answer": "$4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/073",
+    "answer": "$\\frac{3\\sqrt{3}}{4}$",
+    "normalized_answer": "\\frac{3\\sqrt{3}}{4}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/026",
+    "answer": "144",
+    "normalized_answer": "144",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/075",
+    "answer": "$11/36$",
+    "normalized_answer": "11/36",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/079",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/069",
+    "answer": "-1",
+    "normalized_answer": "-1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/041",
+    "answer": "17",
+    "normalized_answer": "17",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/081",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/063",
+    "answer": "10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/025",
+    "answer": "-2, 1",
+    "normalized_answer": "-2, 1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/085",
+    "answer": "$\\sqrt{5}$",
+    "normalized_answer": "\\sqrt{5}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/084",
+    "answer": "-1",
+    "normalized_answer": "-1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/064",
+    "answer": "35/64",
+    "normalized_answer": "35/64",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/078",
+    "answer": "(-2, 1)",
+    "normalized_answer": "(-2, 1)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/011",
+    "answer": "3/56",
+    "normalized_answer": "3/56",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/089",
+    "answer": "21",
+    "normalized_answer": "21",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/097",
+    "answer": "east",
+    "normalized_answer": "east",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/095",
+    "answer": "-4",
+    "normalized_answer": "-4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/093",
+    "answer": "33",
+    "normalized_answer": "33",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/092",
+    "answer": "$448/15625$",
+    "normalized_answer": "448/15625",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/107",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/106",
+    "answer": "4/3",
+    "normalized_answer": "4/3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/111",
+    "answer": "210",
+    "normalized_answer": "210",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/102",
+    "answer": "(a+5)(b+2)",
+    "normalized_answer": "(a+5)(b+2)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/105",
+    "answer": "29",
+    "normalized_answer": "29",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/116",
+    "answer": "$2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/113",
+    "answer": "8000",
+    "normalized_answer": "8000",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/115",
+    "answer": "1260",
+    "normalized_answer": "1260",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/122",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/117",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/125",
+    "answer": "-3",
+    "normalized_answer": "-3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/114",
+    "answer": "-5",
+    "normalized_answer": "-5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/121",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/132",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/144",
+    "answer": "(15, -29)",
+    "normalized_answer": "(15, -29)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/133",
+    "answer": "120",
+    "normalized_answer": "120",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/124",
+    "answer": "11/2",
+    "normalized_answer": "11/2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/135",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/148",
+    "answer": "11",
+    "normalized_answer": "11",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/134",
+    "answer": "16",
+    "normalized_answer": "16",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/140",
+    "answer": "13",
+    "normalized_answer": "13",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/118",
+    "answer": "81",
+    "normalized_answer": "81",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/143",
+    "answer": "$3\\sqrt{5}$",
+    "normalized_answer": "3\\sqrt{5}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/160",
+    "answer": "18",
+    "normalized_answer": "18",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/161",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/159",
+    "answer": "3.21",
+    "normalized_answer": "3.21",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/158",
+    "answer": "2107",
+    "normalized_answer": "2107",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/162",
+    "answer": "17/50",
+    "normalized_answer": "17/50",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/167",
+    "answer": "65",
+    "normalized_answer": "65",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/104",
+    "answer": "40",
+    "normalized_answer": "40",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/169",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/172",
+    "answer": "350",
+    "normalized_answer": "350",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/178",
+    "answer": "60",
+    "normalized_answer": "60",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/174",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/182",
+    "answer": "1251",
+    "normalized_answer": "1251",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/163",
+    "answer": "-35/9",
+    "normalized_answer": "-35/9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/187",
+    "answer": "7",
+    "normalized_answer": "7",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/191",
+    "answer": "$0",
+    "normalized_answer": "0",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/176",
+    "answer": "0.0000672",
+    "normalized_answer": "0.0000672",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/199",
+    "answer": "17",
+    "normalized_answer": "17",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/196",
+    "answer": "1600.",
+    "normalized_answer": "1600.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/198",
+    "answer": "10080",
+    "normalized_answer": "10080",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/200",
+    "answer": "40",
+    "normalized_answer": "40",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/207",
+    "answer": "28",
+    "normalized_answer": "28",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/195",
+    "answer": "24",
+    "normalized_answer": "24",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/206",
+    "answer": "(3/2, -13)",
+    "normalized_answer": "(3/2, -13)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/183",
+    "answer": "23",
+    "normalized_answer": "23",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/212",
+    "answer": "56",
+    "normalized_answer": "56",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/218",
+    "answer": "(-1,6)",
+    "normalized_answer": "(-1,6)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/211",
+    "answer": "5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/209",
+    "answer": "16",
+    "normalized_answer": "16",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/202",
+    "answer": "2/3",
+    "normalized_answer": "2/3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/215",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/201",
+    "answer": "66",
+    "normalized_answer": "66",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/227",
+    "answer": "C",
+    "normalized_answer": "C",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/229",
+    "answer": "90",
+    "normalized_answer": "90",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/205",
+    "answer": "$\\begin{pmatrix} -2 \\\\ -14 \\\\ -7 \\end{pmatrix}$",
+    "normalized_answer": "\\begin{pmatrix} -2 \\\\ -14 \\\\ -7 \\end{pmatrix}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/235",
+    "answer": "5/9.",
+    "normalized_answer": "5/9.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/221",
+    "answer": "900",
+    "normalized_answer": "900",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/234",
+    "answer": "34",
+    "normalized_answer": "34",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/231",
+    "answer": "10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/241",
+    "answer": "17",
+    "normalized_answer": "17",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/237",
+    "answer": "22",
+    "normalized_answer": "22",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/246",
+    "answer": "8",
+    "normalized_answer": "8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/247",
+    "answer": "10/11",
+    "normalized_answer": "10/11",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/230",
+    "answer": "$16/5$",
+    "normalized_answer": "16/5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/253",
+    "answer": "1/8",
+    "normalized_answer": "1/8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/244",
+    "answer": "8.",
+    "normalized_answer": "8.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/255",
+    "answer": "$E",
+    "normalized_answer": "E",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/249",
+    "answer": "17",
+    "normalized_answer": "17",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/262",
+    "answer": "$4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/257",
+    "answer": "864",
+    "normalized_answer": "864",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/210",
+    "answer": "10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/248",
+    "answer": "\\begin{pmatrix} -1 & 0 \\\\ 0 & -1 \\end{pmatrix}",
+    "normalized_answer": "\\begin{pmatrix} -1 & 0 \\\\ 0 & -1 \\end{pmatrix}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/256",
+    "answer": "\\frac{8}{21}",
+    "normalized_answer": "\\frac{8}{21}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/259",
+    "answer": "$22",
+    "normalized_answer": "22",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/245",
+    "answer": "-13x + 3",
+    "normalized_answer": "-13x + 3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/275",
+    "answer": "7",
+    "normalized_answer": "7",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/265",
+    "answer": "4005",
+    "normalized_answer": "4005",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/258",
+    "answer": "16",
+    "normalized_answer": "16",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/252",
+    "answer": "$81",
+    "normalized_answer": "81",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/260",
+    "answer": "$120",
+    "normalized_answer": "120",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/268",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/266",
+    "answer": "33/100",
+    "normalized_answer": "33/100",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/270",
+    "answer": "$10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/269",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/273",
+    "answer": "$1250",
+    "normalized_answer": "1250",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/278",
+    "answer": "255",
+    "normalized_answer": "255",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/271",
+    "answer": "333",
+    "normalized_answer": "333",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/283",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/272",
+    "answer": "1030",
+    "normalized_answer": "1030",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/289",
+    "answer": "16",
+    "normalized_answer": "16",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/290",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/291",
+    "answer": "63",
+    "normalized_answer": "63",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/312",
+    "answer": "(5, \u221e)",
+    "normalized_answer": "(5, \u221e)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/288",
+    "answer": "7",
+    "normalized_answer": "7",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/297",
+    "answer": "103",
+    "normalized_answer": "103",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/299",
+    "answer": "63",
+    "normalized_answer": "63",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/313",
+    "answer": "12\u03c0",
+    "normalized_answer": "12\u03c0",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/305",
+    "answer": "9/19",
+    "normalized_answer": "9/19",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/314",
+    "answer": "(2, 4)",
+    "normalized_answer": "(2, 4)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/319",
+    "answer": "-128",
+    "normalized_answer": "-128",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/322",
+    "answer": "-1",
+    "normalized_answer": "-1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/307",
+    "answer": "$(-\\infty, 0]$",
+    "normalized_answer": "(-\\infty, 0]",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/318",
+    "answer": "(11+9a)/20",
+    "normalized_answer": "(11+9a)/20",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/301",
+    "answer": "5.2",
+    "normalized_answer": "5.2",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/300",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/311",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/321",
+    "answer": "10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/329",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/296",
+    "answer": "(B)",
+    "normalized_answer": "(B)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/334",
+    "answer": "-120",
+    "normalized_answer": "-120",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/330",
+    "answer": "1940",
+    "normalized_answer": "1940",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/336",
+    "answer": "26000",
+    "normalized_answer": "26000",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/337",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/342",
+    "answer": "$2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/338",
+    "answer": "$4343_6",
+    "normalized_answer": "4343_6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/345",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/331",
+    "answer": "13/6",
+    "normalized_answer": "13/6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/348",
+    "answer": "4495",
+    "normalized_answer": "4495",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/344",
+    "answer": "$5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/343",
+    "answer": "** 58500",
+    "normalized_answer": "** 58500",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/292",
+    "answer": "898",
+    "normalized_answer": "898",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/346",
+    "answer": "66",
+    "normalized_answer": "66",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/350",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/317",
+    "answer": "0",
+    "normalized_answer": "0",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/363",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/354",
+    "answer": "$81",
+    "normalized_answer": "81",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/366",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/353",
+    "answer": "$480",
+    "normalized_answer": "480",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/370",
+    "answer": "-41",
+    "normalized_answer": "-41",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/367",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/374",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/320",
+    "answer": "** -24/25",
+    "normalized_answer": "** -24/25",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/383",
+    "answer": "[-2, 7]",
+    "normalized_answer": "[-2, 7]",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/375",
+    "answer": "25",
+    "normalized_answer": "25",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/384",
+    "answer": "** $15x - 80",
+    "normalized_answer": "** 15x - 80",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/387",
+    "answer": "18",
+    "normalized_answer": "18",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/376",
+    "answer": "(8, -2)",
+    "normalized_answer": "(8, -2)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/378",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/386",
+    "answer": "11",
+    "normalized_answer": "11",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/361",
+    "answer": "$16\\sqrt{3}$",
+    "normalized_answer": "16\\sqrt{3}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/388",
+    "answer": "11/2",
+    "normalized_answer": "11/2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/355",
+    "answer": "100.",
+    "normalized_answer": "100.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/393",
+    "answer": "3/4",
+    "normalized_answer": "3/4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/395",
+    "answer": "$4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/397",
+    "answer": "23",
+    "normalized_answer": "23",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/399",
+    "answer": "** 326.5",
+    "normalized_answer": "** 326.5",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/359",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/406",
+    "answer": "0",
+    "normalized_answer": "0",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/351",
+    "answer": "1/16",
+    "normalized_answer": "1/16",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/407",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/405",
+    "answer": "60",
+    "normalized_answer": "60",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/404",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/411",
+    "answer": "60",
+    "normalized_answer": "60",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/402",
+    "answer": "$1 - 12i$",
+    "normalized_answer": "1 - 12i",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/390",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/413",
+    "answer": "** $5r^5",
+    "normalized_answer": "** 5r^5",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/417",
+    "answer": "-2",
+    "normalized_answer": "-2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/415",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/391",
+    "answer": "0",
+    "normalized_answer": "0",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/394",
+    "answer": "-3/8",
+    "normalized_answer": "-3/8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/426",
+    "answer": "$6\\sqrt{2}$",
+    "normalized_answer": "6\\sqrt{2}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/420",
+    "answer": "(16/49, 48/49, 24/49)",
+    "normalized_answer": "(16/49, 48/49, 24/49)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/427",
+    "answer": "29",
+    "normalized_answer": "29",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/416",
+    "answer": "1/8",
+    "normalized_answer": "1/8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/418",
+    "answer": "$2\\sqrt{5}",
+    "normalized_answer": "2\\sqrt{5}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/424",
+    "answer": "600",
+    "normalized_answer": "600",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/433",
+    "answer": "0.35625",
+    "normalized_answer": "0.35625",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/403",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/438",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/435",
+    "answer": "$(-\\infty, 2) \\cup (3, \\infty)$",
+    "normalized_answer": "(-\\infty, 2) \\cup (3, \\infty)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/423",
+    "answer": "1440",
+    "normalized_answer": "1440",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/440",
+    "answer": "14",
+    "normalized_answer": "14",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/441",
+    "answer": "550",
+    "normalized_answer": "550",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/428",
+    "answer": "64",
+    "normalized_answer": "64",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/442",
+    "answer": "256",
+    "normalized_answer": "256",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/443",
+    "answer": "** $45",
+    "normalized_answer": "** 45",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/457",
+    "answer": "0",
+    "normalized_answer": "0",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/437",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/439",
+    "answer": "$x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1",
+    "normalized_answer": "x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/446",
+    "answer": "8.",
+    "normalized_answer": "8.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/453",
+    "answer": "10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/447",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/436",
+    "answer": "$4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/448",
+    "answer": "44",
+    "normalized_answer": "44",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/463",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/451",
+    "answer": "$639/40.",
+    "normalized_answer": "639/40.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/461",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/468",
+    "answer": "8",
+    "normalized_answer": "8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/465",
+    "answer": "121",
+    "normalized_answer": "121",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/469",
+    "answer": "25",
+    "normalized_answer": "25",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/452",
+    "answer": "143",
+    "normalized_answer": "143",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/474",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/464",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/472",
+    "answer": "** $137\\frac{1}{2}$",
+    "normalized_answer": "** 137\\frac{1}{2}",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/473",
+    "answer": "7",
+    "normalized_answer": "7",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/488",
+    "answer": "$36",
+    "normalized_answer": "36",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/454",
+    "answer": "y = 2x + 3",
+    "normalized_answer": "y = 2x + 3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/487",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/492",
+    "answer": "y = -2x",
+    "normalized_answer": "y = -2x",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/482",
+    "answer": "202",
+    "normalized_answer": "202",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/496",
+    "answer": "5/13",
+    "normalized_answer": "5/13",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/001",
+    "answer": "p - q",
+    "normalized_answer": "p - q",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/015",
+    "answer": "$6 - 5 i$",
+    "normalized_answer": "6 - 5 i",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/021",
+    "answer": "13535",
+    "normalized_answer": "13535",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/024",
+    "answer": "10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/036",
+    "answer": "3, 5, 7",
+    "normalized_answer": "3, 5, 7",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/014",
+    "answer": "$sqrt(51)",
+    "normalized_answer": "sqrt(51)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/037",
+    "answer": "72",
+    "normalized_answer": "72",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/006",
+    "answer": "** 27",
+    "normalized_answer": "** 27",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/484",
+    "answer": "$10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/032",
+    "answer": "720",
+    "normalized_answer": "720",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/029",
+    "answer": "** 225",
+    "normalized_answer": "** 225",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/057",
+    "answer": "16",
+    "normalized_answer": "16",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/008",
+    "answer": "$3\\sqrt{13}$",
+    "normalized_answer": "3\\sqrt{13}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/062",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/007",
+    "answer": "90",
+    "normalized_answer": "90",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/045",
+    "answer": "$2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/040",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/070",
+    "answer": "$40_9",
+    "normalized_answer": "40_9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/042",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/076",
+    "answer": "0",
+    "normalized_answer": "0",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/058",
+    "answer": "9901",
+    "normalized_answer": "9901",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/067",
+    "answer": "** 10%",
+    "normalized_answer": "** 10%",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/009",
+    "answer": "8 (without quotes)",
+    "normalized_answer": "8 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/086",
+    "answer": "240",
+    "normalized_answer": "240",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/068",
+    "answer": "** 46",
+    "normalized_answer": "** 46",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/096",
+    "answer": "$1 + \\sqrt{19}, 1 - \\sqrt{19}$",
+    "normalized_answer": "1 + \\sqrt{19}, 1 - \\sqrt{19}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/098",
+    "answer": "$2k + 2",
+    "normalized_answer": "2k + 2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/074",
+    "answer": "$\\cot x$",
+    "normalized_answer": "\\cot x",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/082",
+    "answer": "$\\frac{3}{2}$",
+    "normalized_answer": "\\frac{3}{2}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/022",
+    "answer": "5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/091",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/046",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/090",
+    "answer": "** $3/2",
+    "normalized_answer": "** 3/2",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/019",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/126",
+    "answer": "$1 + 274 i$",
+    "normalized_answer": "1 + 274 i",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/004",
+    "answer": "$Evel",
+    "normalized_answer": "Evel",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/071",
+    "answer": "** $2516",
+    "normalized_answer": "** 2516",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/060",
+    "answer": "$41,-19,-1$",
+    "normalized_answer": "41,-19,-1",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/087",
+    "answer": "$1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/017",
+    "answer": "\\(\\pi\\) (",
+    "normalized_answer": "\\(\\pi\\) (",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/018",
+    "answer": "$68",
+    "normalized_answer": "68",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/099",
+    "answer": "$\\begin{pmatrix} -1/3 \\\\ 2/3 \\\\ 5/3 \\end{pmatrix}$",
+    "normalized_answer": "\\begin{pmatrix} -1/3 \\\\ 2/3 \\\\ 5/3 \\end{pmatrix}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/083",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/119",
+    "answer": "-9",
+    "normalized_answer": "-9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/127",
+    "answer": "$4210_5$",
+    "normalized_answer": "4210_5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/043",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/150",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/130",
+    "answer": "13",
+    "normalized_answer": "13",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/050",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/112",
+    "answer": "13",
+    "normalized_answer": "13",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/131",
+    "answer": "8",
+    "normalized_answer": "8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/061",
+    "answer": "-25",
+    "normalized_answer": "-25",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/129",
+    "answer": "3840/289",
+    "normalized_answer": "3840/289",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/157",
+    "answer": "$6/5$ (without quotes)",
+    "normalized_answer": "6/5 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/120",
+    "answer": "even",
+    "normalized_answer": "even",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/146",
+    "answer": "$\\frac{\\sqrt{3}}{3}$",
+    "normalized_answer": "\\frac{\\sqrt{3}}{3}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/137",
+    "answer": "$204_5$",
+    "normalized_answer": "204_5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/080",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/139",
+    "answer": "$1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/101",
+    "answer": "$850",
+    "normalized_answer": "850",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/108",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/155",
+    "answer": "1/4",
+    "normalized_answer": "1/4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/088",
+    "answer": "$ANSWER\".",
+    "normalized_answer": "ANSWER\".",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/094",
+    "answer": "$",
+    "normalized_answer": "",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/181",
+    "answer": "$\\frac{\\sqrt{3}}{3}$",
+    "normalized_answer": "\\frac{\\sqrt{3}}{3}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/185",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/136",
+    "answer": "64",
+    "normalized_answer": "64",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/151",
+    "answer": "144",
+    "normalized_answer": "144",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/100",
+    "answer": "$145 (",
+    "normalized_answer": "145 (",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/189",
+    "answer": "160",
+    "normalized_answer": "160",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/103",
+    "answer": "$ANSWER (without quotes) where $ANSWER is the answer to the problem.",
+    "normalized_answer": "ANSWER (without quotes) where ANSWER is the answer to the problem.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/109",
+    "answer": "$120 (without quotes",
+    "normalized_answer": "120 (without quotes",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/165",
+    "answer": "4/9",
+    "normalized_answer": "4/9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/110",
+    "answer": "504\". So we need to produce a solution with reasoning and then the final line.",
+    "normalized_answer": "504\". So we need to produce a solution with reasoning and then the final line.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/149",
+    "answer": "49",
+    "normalized_answer": "49",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/145",
+    "answer": "** -2",
+    "normalized_answer": "** -2",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/171",
+    "answer": "13/15",
+    "normalized_answer": "13/15",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/123",
+    "answer": "$8 (without quotes)",
+    "normalized_answer": "8 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/217",
+    "answer": "11111111100",
+    "normalized_answer": "11111111100",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/128",
+    "answer": "$36 (without quotes) where $ANSWER is the answer to the problem.",
+    "normalized_answer": "36 (without quotes) where ANSWER is the answer to the problem.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/180",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/173",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/186",
+    "answer": "7",
+    "normalized_answer": "7",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/147",
+    "answer": "** 16",
+    "normalized_answer": "** 16",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/226",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/190",
+    "answer": "13/18",
+    "normalized_answer": "13/18",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/138",
+    "answer": "$1/3",
+    "normalized_answer": "1/3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/141",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/238",
+    "answer": "-4",
+    "normalized_answer": "-4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/213",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/216",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/142",
+    "answer": "28800 (without quotes)",
+    "normalized_answer": "28800 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/203",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/251",
+    "answer": "540",
+    "normalized_answer": "540",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/179",
+    "answer": "** 5x - 7y + 11z + 4 = 0",
+    "normalized_answer": "** 5x - 7y + 11z + 4 = 0",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/175",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/193",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/152",
+    "answer": "8",
+    "normalized_answer": "8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/153",
+    "answer": "$2/21 (without quotes) where $ANSWER is the answer to the",
+    "normalized_answer": "2/21 (without quotes) where ANSWER is the answer to the",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/154",
+    "answer": "$ANSWER$\u201d.",
+    "normalized_answer": "ANSWER\u201d.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/164",
+    "answer": "-\u221a3",
+    "normalized_answer": "-\\sqrt{3}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/225",
+    "answer": "11",
+    "normalized_answer": "11",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/279",
+    "answer": "$7\\pi",
+    "normalized_answer": "7\\pi",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/223",
+    "answer": "14",
+    "normalized_answer": "14",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/156",
+    "answer": "$30 (without quotes) where $30$ is the answer to the problem.",
+    "normalized_answer": "30 (without quotes) where 30 is the answer to the problem.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/243",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/170",
+    "answer": "1736",
+    "normalized_answer": "1736",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/192",
+    "answer": "30",
+    "normalized_answer": "30",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/188",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/261",
+    "answer": "$76",
+    "normalized_answer": "76",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/287",
+    "answer": "36",
+    "normalized_answer": "36",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/295",
+    "answer": "11",
+    "normalized_answer": "11",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/298",
+    "answer": "(-18, -49, 96)",
+    "normalized_answer": "(-18, -49, 96)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/284",
+    "answer": "$x = -3 - 2\\sqrt{2}, -3 + 2\\sqrt{2}, 3 - 2\\sqrt{2}, 3 + 2\\sqrt{2}$",
+    "normalized_answer": "x = -3 - 2\\sqrt{2}, -3 + 2\\sqrt{2}, 3 - 2\\sqrt{2}, 3 + 2\\sqrt{2}",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/233",
+    "answer": "** 30",
+    "normalized_answer": "** 30",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/302",
+    "answer": "5",
+    "normalized_answer": "5",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/240",
+    "answer": "154",
+    "normalized_answer": "154",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/277",
+    "answer": "$\\sqrt{53}$",
+    "normalized_answer": "\\sqrt{53}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/166",
+    "answer": "\\(\\frac{360}{7}\\) (without quotes).",
+    "normalized_answer": "\\(\\frac{360}{7}\\) (without quotes).",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/168",
+    "answer": "$19 (without quotes) where $ANSWER is the answer to the problem.",
+    "normalized_answer": "19 (without quotes) where ANSWER is the answer to the problem.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/310",
+    "answer": "49",
+    "normalized_answer": "49",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/250",
+    "answer": "$13",
+    "normalized_answer": "13",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/232",
+    "answer": "** $1997/2",
+    "normalized_answer": "** 1997/2",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/194",
+    "answer": "1/4",
+    "normalized_answer": "1/4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/219",
+    "answer": "$1/2$ (Answer: $1/2$)",
+    "normalized_answer": "1/2 (Answer: 1/2)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/328",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/177",
+    "answer": "",
+    "normalized_answer": null,
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/282",
+    "answer": "129**",
+    "normalized_answer": "129**",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/333",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/184",
+    "answer": "(2, \\infty)",
+    "normalized_answer": "(2, \\infty)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/339",
+    "answer": "2k",
+    "normalized_answer": "2k",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/276",
+    "answer": "11",
+    "normalized_answer": "11",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/293",
+    "answer": "(3/5, 8/3]",
+    "normalized_answer": "(3/5, 8/3]",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/267",
+    "answer": "180",
+    "normalized_answer": "180",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/352",
+    "answer": "$11(\\sqrt{5}+1)$",
+    "normalized_answer": "11(\\sqrt{5}+1)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/263",
+    "answer": "15",
+    "normalized_answer": "15",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/280",
+    "answer": "8",
+    "normalized_answer": "8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/304",
+    "answer": "9",
+    "normalized_answer": "9",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/197",
+    "answer": "6 (without quotes) where $ANSWER is the answer to the",
+    "normalized_answer": "6 (without quotes) where ANSWER is the answer to the",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/362",
+    "answer": "1/4",
+    "normalized_answer": "1/4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/204",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/208",
+    "answer": "$1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/365",
+    "answer": "8",
+    "normalized_answer": "8",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/214",
+    "answer": "$115 (without quotes) where",
+    "normalized_answer": "115 (without quotes) where",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/228",
+    "answer": "$x^2 + y^2 + z^2 \\le 36$",
+    "normalized_answer": "x^2 + y^2 + z^2 \\le 36",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/315",
+    "answer": "41",
+    "normalized_answer": "41",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/325",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/341",
+    "answer": "-2",
+    "normalized_answer": "-2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/220",
+    "answer": "$ANSWER",
+    "normalized_answer": "ANSWER",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/347",
+    "answer": "$6r^2 - 4r - 24$",
+    "normalized_answer": "6r^2 - 4r - 24",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/222",
+    "answer": "54 (without quotes) where 54 is the answer to the problem",
+    "normalized_answer": "54 (without quotes) where 54 is the answer to the problem",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/357",
+    "answer": "4**",
+    "normalized_answer": "4**",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/294",
+    "answer": "58",
+    "normalized_answer": "58",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/316",
+    "answer": "12",
+    "normalized_answer": "12",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/360",
+    "answer": "$7/4$ (without quotes)",
+    "normalized_answer": "7/4 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/368",
+    "answer": "31",
+    "normalized_answer": "31",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/224",
+    "answer": "$9/256$ (without quotes)",
+    "normalized_answer": "9/256 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/372",
+    "answer": "$90",
+    "normalized_answer": "90",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/409",
+    "answer": "$2\\sqrt{5}",
+    "normalized_answer": "2\\sqrt{5}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/398",
+    "answer": "Navin (Mauritius) would earn the most after an eight\u2011hour day.",
+    "normalized_answer": "Navin (Mauritius) would earn the most after an eight\u2011hour day.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/236",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/414",
+    "answer": "10",
+    "normalized_answer": "10",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/326",
+    "answer": "9/100",
+    "normalized_answer": "9/100",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/239",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/419",
+    "answer": "\\begin{pmatrix} -7 \\\\ 16 \\\\ 5 \\end{pmatrix}",
+    "normalized_answer": "\\begin{pmatrix} -7 \\\\ 16 \\\\ 5 \\end{pmatrix}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/379",
+    "answer": "$12^{\\mathrm{th}}$ grade",
+    "normalized_answer": "12^{\\mathrm{th}} grade",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/380",
+    "answer": "$(0,9)\\cup(9,36)$",
+    "normalized_answer": "(0,9)\\cup(9,36)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/242",
+    "answer": "$32,348$ (without",
+    "normalized_answer": "32,348 (without",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/358",
+    "answer": "ellipse",
+    "normalized_answer": "ellipse",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/335",
+    "answer": "3",
+    "normalized_answer": "3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/431",
+    "answer": "[\u03c0^2/8, (5/4)\u03c0^2]",
+    "normalized_answer": "[\u03c0^2/8, (5/4)\u03c0^2]",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/373",
+    "answer": "$1 + 2i",
+    "normalized_answer": "1 + 2i",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/445",
+    "answer": "15",
+    "normalized_answer": "15",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/254",
+    "answer": "28 (",
+    "normalized_answer": "28 (",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/306",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/389",
+    "answer": "$\\frac{\\sqrt{21}}{5}$",
+    "normalized_answer": "\\frac{\\sqrt{21}}{5}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/356",
+    "answer": "$(-\\sqrt{3}, \\sqrt{3})$",
+    "normalized_answer": "(-\\sqrt{3}, \\sqrt{3})",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/382",
+    "answer": "$\\frac{160000}{(2+\\pi)^{2}}$",
+    "normalized_answer": "\\frac{160000}{(2+\\pi)^{2}}",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/264",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/349",
+    "answer": "10080",
+    "normalized_answer": "10080",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/455",
+    "answer": "6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/466",
+    "answer": "$8\\pi$",
+    "normalized_answer": "8\\pi",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/385",
+    "answer": "22",
+    "normalized_answer": "22",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/274",
+    "answer": "$18 + 2\\pi$ (without quotes).",
+    "normalized_answer": "18 + 2\\pi (without quotes).",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/475",
+    "answer": "29",
+    "normalized_answer": "29",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/281",
+    "answer": "$",
+    "normalized_answer": "",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/285",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/396",
+    "answer": "4",
+    "normalized_answer": "4",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/286",
+    "answer": "$5/6$ (without quotes)",
+    "normalized_answer": "5/6 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/364",
+    "answer": "(1, -16, -4, 43)",
+    "normalized_answer": "(1, -16, -4, 43)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/377",
+    "answer": "$6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/430",
+    "answer": "** 4.5",
+    "normalized_answer": "** 4.5",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/381",
+    "answer": "$1/2$ (without the box)",
+    "normalized_answer": "1/2 (without the box)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/483",
+    "answer": "8/15",
+    "normalized_answer": "8/15",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/485",
+    "answer": "13",
+    "normalized_answer": "13",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/410",
+    "answer": "$6",
+    "normalized_answer": "6",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/303",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/308",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/309",
+    "answer": "$14 (without quotes)",
+    "normalized_answer": "14 (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/449",
+    "answer": "47",
+    "normalized_answer": "47",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/323",
+    "answer": "$1/3",
+    "normalized_answer": "1/3",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/486",
+    "answer": "$216$",
+    "normalized_answer": "216",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/479",
+    "answer": "$2$",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/462",
+    "answer": "59",
+    "normalized_answer": "59",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/324",
+    "answer": "120 (without quotes) where $ANSWER is the answer to the problem.",
+    "normalized_answer": "120 (without quotes) where ANSWER is the answer to the problem.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/327",
+    "answer": "15",
+    "normalized_answer": "15",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/494",
+    "answer": "$1/4",
+    "normalized_answer": "1/4",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/434",
+    "answer": "32",
+    "normalized_answer": "32",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/332",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/491",
+    "answer": "64",
+    "normalized_answer": "64",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/471",
+    "answer": "** 84",
+    "normalized_answer": "** 84",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/340",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/497",
+    "answer": "$7/2$",
+    "normalized_answer": "7/2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/480",
+    "answer": "1",
+    "normalized_answer": "1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/450",
+    "answer": "64",
+    "normalized_answer": "64",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/476",
+    "answer": "200",
+    "normalized_answer": "200",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/429",
+    "answer": "50",
+    "normalized_answer": "50",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/412",
+    "answer": "406",
+    "normalized_answer": "406",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/456",
+    "answer": "1, -2",
+    "normalized_answer": "1, -2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/489",
+    "answer": "15",
+    "normalized_answer": "15",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/408",
+    "answer": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}",
+    "normalized_answer": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/369",
+    "answer": "$21 (without quotes) where $ANSWER is the",
+    "normalized_answer": "21 (without quotes) where ANSWER is the",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/371",
+    "answer": "$17 (without quotes) where $ANSWER is the answer to the",
+    "normalized_answer": "17 (without quotes) where ANSWER is the answer to the",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/477",
+    "answer": "2",
+    "normalized_answer": "2",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/400",
+    "answer": "\\(\\frac{14}{3}\\) (without quotes)",
+    "normalized_answer": "\\(\\frac{14}{3}\\) (without quotes)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/421",
+    "answer": "$27$",
+    "normalized_answer": "27",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/392",
+    "answer": "\\(\\sqrt{66}\\) (without the box",
+    "normalized_answer": "\\(\\sqrt{66}\\) (without the box",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/493",
+    "answer": "** 20",
+    "normalized_answer": "** 20",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/470",
+    "answer": "27648",
+    "normalized_answer": "27648",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/495",
+    "answer": "$(2,12)\\cup(12,102)$",
+    "normalized_answer": "(2,12)\\cup(12,102)",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/401",
+    "answer": "$13/4$ (without quotes) where $13/4$ is the answer to the problem.",
+    "normalized_answer": "13/4 (without quotes) where 13/4 is the answer to the problem.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/422",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/425",
+    "answer": "$3R^{",
+    "normalized_answer": "3R^{",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/432",
+    "answer": "331.",
+    "normalized_answer": "331.",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/444",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/458",
+    "answer": "$41 (without quotes) where $ANSWER is the",
+    "normalized_answer": "41 (without quotes) where ANSWER is the",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/498",
+    "answer": "-1",
+    "normalized_answer": "-1",
+    "extraction": "answer_label",
+    "correct": true
+  },
+  {
+    "id": "math500/459",
+    "answer": "$18.90 (",
+    "normalized_answer": "18.90 (",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/460",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/467",
+    "answer": "$15$ (cm\u00b2)",
+    "normalized_answer": "15 (cm\u00b2)",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/478",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/481",
+    "answer": null,
+    "normalized_answer": null,
+    "extraction": "missing",
+    "correct": false
+  },
+  {
+    "id": "math500/490",
+    "answer": "$14 (",
+    "normalized_answer": "14 (",
+    "extraction": "answer_label",
+    "correct": false
+  },
+  {
+    "id": "math500/499",
+    "answer": "$106^\\circ$ (without the",
+    "normalized_answer": "106^\\circ (without the",
+    "extraction": "answer_label",
+    "correct": false
+  }
+]

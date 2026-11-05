@@ -1,0 +1,442 @@
+{
+  "status": "COMPLETE",
+  "completed_at_utc": "2026-11-04T19:30:18.252418+00:00",
+  "metrics": {
+    "humaneval_plus_raw": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 150,
+      "combined_repaired_correct": 153,
+      "baseline_percent": 91.46341463414635,
+      "combined_repaired_percent": 93.29268292682927,
+      "percentage_point_change": 1.829268292682927,
+      "gains": 6,
+      "losses": 3,
+      "net": 3,
+      "descriptive_exact_two_sided_mcnemar_p": 0.5078125
+    },
+    "humaneval_base_raw": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 156,
+      "combined_repaired_correct": 161,
+      "baseline_percent": 95.1219512195122,
+      "combined_repaired_percent": 98.17073170731707,
+      "percentage_point_change": 3.048780487804878,
+      "gains": 7,
+      "losses": 2,
+      "net": 5,
+      "descriptive_exact_two_sided_mcnemar_p": 0.1796875
+    },
+    "math500_raw_v3": {
+      "benchmark": "math500",
+      "n": 500,
+      "baseline_correct": 476,
+      "combined_repaired_correct": 487,
+      "baseline_percent": 95.2,
+      "combined_repaired_percent": 97.4,
+      "percentage_point_change": 2.2,
+      "gains": 19,
+      "losses": 8,
+      "net": 11,
+      "descriptive_exact_two_sided_mcnemar_p": 0.052238985896110535
+    },
+    "humaneval_plus_final": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 142,
+      "combined_repaired_correct": 155,
+      "baseline_percent": 86.58536585365853,
+      "combined_repaired_percent": 94.51219512195122,
+      "percentage_point_change": 7.926829268292683,
+      "gains": 14,
+      "losses": 1,
+      "net": 13,
+      "descriptive_exact_two_sided_mcnemar_p": 0.0009765625
+    },
+    "humaneval_base_final": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 147,
+      "combined_repaired_correct": 163,
+      "baseline_percent": 89.63414634146342,
+      "combined_repaired_percent": 99.39024390243902,
+      "percentage_point_change": 9.75609756097561,
+      "gains": 16,
+      "losses": 0,
+      "net": 16,
+      "descriptive_exact_two_sided_mcnemar_p": 3.0517578125e-05
+    },
+    "math500_final_v3": {
+      "benchmark": "math500",
+      "n": 500,
+      "baseline_correct": 472,
+      "combined_repaired_correct": 485,
+      "baseline_percent": 94.4,
+      "combined_repaired_percent": 97.0,
+      "percentage_point_change": 2.6,
+      "gains": 22,
+      "losses": 9,
+      "net": 13,
+      "descriptive_exact_two_sided_mcnemar_p": 0.029449373483657837
+    },
+    "math500_codex_resolved_value": {
+      "benchmark": "math500",
+      "n": 500,
+      "baseline_correct": 494,
+      "combined_repaired_correct": 497,
+      "baseline_percent": 98.8,
+      "combined_repaired_percent": 99.4,
+      "percentage_point_change": 0.6,
+      "gains": 3,
+      "losses": 0,
+      "net": 3,
+      "descriptive_exact_two_sided_mcnemar_p": 0.25
+    },
+    "code_codex_no_defect": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 149,
+      "combined_repaired_correct": 149,
+      "baseline_percent": 90.85365853658537,
+      "combined_repaired_percent": 90.85365853658537,
+      "percentage_point_change": 0.0,
+      "gains": 4,
+      "losses": 4,
+      "net": 0,
+      "descriptive_exact_two_sided_mcnemar_p": 1
+    },
+    "gpqa_official_raw": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 135,
+      "combined_repaired_correct": 173,
+      "baseline_percent": 68.18181818181819,
+      "combined_repaired_percent": 87.37373737373737,
+      "percentage_point_change": 19.19191919191919,
+      "gains": 38,
+      "losses": 0,
+      "net": 38,
+      "descriptive_exact_two_sided_mcnemar_p": 7.275957614183426e-12
+    },
+    "gpqa_official_final": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 107,
+      "combined_repaired_correct": 173,
+      "baseline_percent": 54.04040404040404,
+      "combined_repaired_percent": 87.37373737373737,
+      "percentage_point_change": 33.333333333333336,
+      "gains": 66,
+      "losses": 0,
+      "net": 66,
+      "descriptive_exact_two_sided_mcnemar_p": 2.710505431213761e-20
+    },
+    "gpqa_qualified_final": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 107,
+      "combined_repaired_correct": 173,
+      "baseline_percent": 54.04040404040404,
+      "combined_repaired_percent": 87.37373737373737,
+      "percentage_point_change": 33.333333333333336,
+      "gains": 66,
+      "losses": 0,
+      "net": 66,
+      "descriptive_exact_two_sided_mcnemar_p": 2.710505431213761e-20
+    },
+    "gpqa_codex_resolved_choice": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 151,
+      "combined_repaired_correct": 173,
+      "baseline_percent": 76.26262626262626,
+      "combined_repaired_percent": 87.37373737373737,
+      "percentage_point_change": 11.11111111111111,
+      "gains": 23,
+      "losses": 1,
+      "net": 22,
+      "descriptive_exact_two_sided_mcnemar_p": 2.9802322387695312e-06
+    }
+  },
+  "source_artifacts": [
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/baseline-raw/base.json",
+      "sha256": "68530e2fc171db41c7b3535a90f4cef71b8766710df5698f7a2e945b52cbae09"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/baseline-raw/plus.json",
+      "sha256": "7681abeed372d447f3d66a14aef101af32f981765851ca4f244cd473d13d7b53"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/math500/scores/baseline-raw-v3.json",
+      "sha256": "0515e07763c670d870e625c8776a92a9e223958670bc78126eefa7a99d6cb3d3"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/baseline-final/base.json",
+      "sha256": "b4ba7dc242edda201b9e995ef717baa8785aeaa1ea6f5a8e6cb33911332b91af"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/baseline-final/plus.json",
+      "sha256": "ac5ad2e661370f855dfd23090a1eeeb8e812783c5897e5f23803181a767b6415"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/math500/scores/baseline-final-v3.json",
+      "sha256": "cd6cfbaebcbbf5fff87f822806b2a1dcf47f9143d43df71a998f7b38f39abca9"
+    },
+    {
+      "path": "work/qwen38-27b/private-review/baseline-review-frozen.json",
+      "sha256": "a8f24e73f8037eb3212d95714842668124405be76d7a62e62474035564edb731"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-raw/base.json",
+      "sha256": "bcc1d302f0522142665535b8335ade5c46be09e01ffb362f50e03cf6a560a243"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-raw/plus.json",
+      "sha256": "a7d2ba084fff12e3af57302045e44bd1f9a634426879210e4dd9e581dd6c4a51"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/math500/scores/combined_repaired-raw-v3.json",
+      "sha256": "407222adf546c322ea338b5633eb7003589e021bb35394808d8e5042e6d13130"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-final/base.json",
+      "sha256": "43928bae7b4d80071607753bf165a9712bb446456215e8964db8b3b80fdf3e3e"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-final/plus.json",
+      "sha256": "ce92deb4ae37718ddc633ad453177cfa4a46a32f26ede82d4098d75c0850c053"
+    },
+    {
+      "path": "work/qwen38-27b/private-cpu/math500/scores/combined_repaired-final-v3.json",
+      "sha256": "165d1386e39eadfeb9a08a4810c4e10901693bafedcd0c6c15e05faa40caff67"
+    },
+    {
+      "path": "work/qwen38-27b/private-review/combined_repaired-review-frozen.json",
+      "sha256": "2e5f447ed38463ade9ae8c27a5a54a5fb9d6f212905a127b1c76d7737427b1bc"
+    },
+    {
+      "path": "work/qwen38-27b/private-review/gpqa-per-problem-scores.json",
+      "sha256": "7e96f955314dd620098f4cfd75baac5e832d5bc8f4f43684c62783d2f453ed2f"
+    },
+    {
+      "path": "outputs/qwen38-27b/MANUAL-COVERAGE-both.json",
+      "sha256": "63cb1749e7cdd24a1f4a3c24f59f29c3f0bac12f788e32bb44a361ecdd2b3a10"
+    },
+    {
+      "path": "work/qwen38-27b/private-review/review-corrections.json",
+      "sha256": "30db696b76620cecb15c6bd31214bdb17e693eee57fbf5664666558378812ef6"
+    },
+    {
+      "path": "outputs/qwen38-27b/MATH-CONVENTION-SENSITIVITY.json",
+      "sha256": "9d9051cd7156f8becf60b4eb812f4e904c02adaa3a3f66f14ede79ca57ec9304"
+    },
+    {
+      "path": "outputs/qwen38-27b/PAIRWISE-PREFIX-DIAGNOSTICS.json",
+      "sha256": "7fbe427e1bea2c1c84e36cc6593da5450525229ae479fc986b6fcdd083612e53"
+    },
+    {
+      "path": "outputs/qwen38-27b/GPU-COST.json",
+      "sha256": "7c7be6d82e51ade4b01db8ca5b67763ff86ec498966c27f0540248ceb37b953b"
+    },
+    {
+      "path": "outputs/qwen38-27b/CPU-COST.json",
+      "sha256": "2ac8d9d2456d0c75abfe0357cea71773f23c8a7c6a054c2a69b5690b7d19bea6"
+    }
+  ],
+  "notes": [
+    "Qwen transfer of the existing generic policy, with model-specific interface adaptation before scored inference. Same public benchmarks used in Sarvam development, not unseen-task validation.",
+    "Qwen/Qwen3.8-27B original BF16 weights. Same Sarvam question projections and conditions. Single completion per problem and arm. Code ceiling4096; math/GPQA ceiling8192.",
+    "Primary automatic: raw HumanEval base AND expanded, raw Math v3, GPQA official raw.",
+    "Identical frozen graders in both arms. Plain generic math instruction belongs to the combined repaired bundle.",
+    "Codex reviews are neither independent human grades nor a blinded panel. Code no-defect labels are static assessments, not execution pass@1.",
+    "Math semantic labels assess resolved final values, not complete mathematical proof correctness.",
+    "GPQA Codex labels extract chosen options without an expert key, frozen before key scoring; not expert scientific adjudication.",
+    "Manual comparisons do not override automatic benchmark results; all regressions retained.",
+    "Code no-defect counts exclude unresolved static assessments; see full coverage rather than treating an unresolved case as a demonstrated execution failure.",
+    "Primary semantic mathematics counts follow the reference convention. The separately recorded case284 inverse-cotangent branch sensitivity adds one point to each arm, changing no net gain.",
+    "Retained completion-token totals exclude trimmed native end markers. Configured sampler ceilings still bound generation, and inserted closing tokens count inside the repaired ceiling.",
+    "This is one batched BF16 run per arm, without a repeated-run variance estimate. Token-prefix agreement diagnostics distinguish identical pretransition trajectories from earlier divergence."
+  ],
+  "manual_review_coverage": {
+    "verified_at_utc": "2026-11-04T19:29:34.082243+00:00",
+    "reviewer": "Codex, not independent human graders",
+    "conditions": {
+      "baseline": {
+        "humaneval_plus": {
+          "n": 164,
+          "fresh_case_reviews": 154,
+          "exact_prior_reuses": 10,
+          "no_defect_found": 149,
+          "defect_or_missing": 14,
+          "unresolved": 1,
+          "metric": "Static program assessment; not benchmark pass@1"
+        },
+        "math500": {
+          "n": 500,
+          "fresh_case_reviews": 500,
+          "exact_prior_reuses": 0,
+          "correct_resolved_value": 494,
+          "incorrect_or_unresolved": 6,
+          "metric": "Semantic resolved-value review; not full proof audit"
+        },
+        "gpqa_diamond": {
+          "n": 198,
+          "fresh_case_reviews": 198,
+          "exact_prior_reuses": 0,
+          "resolved": 158,
+          "unresolved": 40,
+          "accuracy": "Not scored here; expert key remains isolated until all396 choices frozen"
+        }
+      },
+      "combined_repaired": {
+        "humaneval_plus": {
+          "n": 164,
+          "fresh_case_reviews": 79,
+          "exact_prior_reuses": 85,
+          "no_defect_found": 149,
+          "defect_or_missing": 9,
+          "unresolved": 6,
+          "metric": "Static program assessment; not benchmark pass@1"
+        },
+        "math500": {
+          "n": 500,
+          "fresh_case_reviews": 500,
+          "exact_prior_reuses": 0,
+          "correct_resolved_value": 497,
+          "incorrect_or_unresolved": 3,
+          "metric": "Semantic resolved-value review; not full proof audit"
+        },
+        "gpqa_diamond": {
+          "n": 198,
+          "fresh_case_reviews": 192,
+          "exact_prior_reuses": 6,
+          "resolved": 195,
+          "unresolved": 3,
+          "accuracy": "Not scored here; expert key remains isolated until all396 choices frozen"
+        }
+      }
+    },
+    "private_review_sha256": {
+      "baseline": "a8f24e73f8037eb3212d95714842668124405be76d7a62e62474035564edb731",
+      "combined_repaired": "2e5f447ed38463ade9ae8c27a5a54a5fb9d6f212905a127b1c76d7737427b1bc"
+    }
+  },
+  "review_rationale_errata": [
+    {
+      "time_utc": "2026-11-04T14:55:17.314141+00:00",
+      "id": "HumanEval/94",
+      "condition": "baseline",
+      "correction_kind": "Rationale arithmetic typo; label unchanged",
+      "original_digit_sum_in_note": 103,
+      "correct_digit_sum": 100,
+      "proof": "sum of decimal digits of318665857834031151167461 equals100; composite factors399165290221 and798330580441 and all twelve Miller-Rabin passes independently verified. Expected result for[2,n] remains2.",
+      "label_before": "0",
+      "label_after": "0"
+    }
+  ],
+  "math_convention_sensitivity": {
+    "recorded_at_utc": "2026-11-04T17:52:22.490481+00:00",
+    "status": "Paired sensitivity, primary labels and automatic graders unchanged",
+    "cases": [
+      {
+        "condition": "baseline",
+        "id": "math500/284",
+        "completion_sha256": "6e20dff91cc3eb59f2a2517d43c0c3f4924b9f2b524c636e3cf1460118ab9d47",
+        "primary_reference_convention_label": 0,
+        "alternative_valid_branch_label": 1,
+        "reason": "Response explicitly uses arccot in (0,pi), yielding four roots; reference contains only the two positive roots associated with the other convention."
+      },
+      {
+        "condition": "combined_repaired",
+        "id": "math500/284",
+        "completion_sha256": "be0e67b585033d7b416da518291ae519dac75ee1c7263af3242117d18a6e1ffb",
+        "primary_reference_convention_label": 0,
+        "alternative_valid_branch_label": 1,
+        "reason": "Response explicitly uses arccot in (0,pi), yielding four roots; reference contains only the two positive roots associated with the other convention."
+      }
+    ],
+    "adjustment_to_each_primary_semantic_math_count": 1,
+    "adjustment_to_net_repair_gain": 0,
+    "proof": "Let t=atan(x). With arccot range(0,pi), arccot(1/x)=t for x>0 and t+pi for x<0. Thus lhs=2|x|/(1+x^2). The equation reduces to |x|^2-6|x|+1=0, giving all four roots. With the discontinuous reciprocal-arctangent convention only the two positive roots remain.",
+    "independent_numeric_checks": [
+      {
+        "x": -5.82842712474619,
+        "lhs_arccot_0_pi": 0.3333333333333334
+      },
+      {
+        "x": -0.1715728752538097,
+        "lhs_arccot_0_pi": 0.3333333333333329
+      },
+      {
+        "x": 0.1715728752538097,
+        "lhs_arccot_0_pi": 0.333333333333333
+      },
+      {
+        "x": 5.82842712474619,
+        "lhs_arccot_0_pi": 0.3333333333333333
+      }
+    ],
+    "primary_sources": [
+      {
+        "title": "Emory University inverse trigonometric functions: explicitly discusses alternative arccot ranges",
+        "url": "https://math.oxford.emory.edu/site/math111/inverseTrig/"
+      },
+      {
+        "title": "NIST DLMF4.23: reciprocal-arctangent principal branch and special values",
+        "url": "https://dlmf.nist.gov/4.23"
+      }
+    ],
+    "interpretation": "Do not call the four-root answer unconditionally mathematically wrong. Report reference-convention counts together with this legitimate-branch sensitivity. Neither interpretation changes the paired improvement."
+  },
+  "paired_prefix_diagnostics": {
+    "humaneval_plus": {
+      "n": 164,
+      "same_rendered_prompt_count": 164,
+      "exact_full_output_token_sequence_count": 28,
+      "forced_transition_cases": 20,
+      "forced_transition_with_identical_pretransition_sampled_prefix": 0,
+      "common_output_prefix_tokens": {
+        "minimum": 10,
+        "median": 138,
+        "maximum": 612
+      }
+    },
+    "math500": {
+      "n": 500,
+      "same_rendered_prompt_count": 0,
+      "exact_full_output_token_sequence_count": 0,
+      "forced_transition_cases": 34,
+      "forced_transition_with_identical_pretransition_sampled_prefix": 0,
+      "common_output_prefix_tokens": {
+        "minimum": 2,
+        "median": 11,
+        "maximum": 143
+      }
+    },
+    "gpqa_diamond": {
+      "n": 198,
+      "same_rendered_prompt_count": 198,
+      "exact_full_output_token_sequence_count": 6,
+      "forced_transition_cases": 91,
+      "forced_transition_with_identical_pretransition_sampled_prefix": 0,
+      "common_output_prefix_tokens": {
+        "minimum": 3,
+        "median": 186,
+        "maximum": 1423
+      }
+    }
+  },
+  "compute_cost": {
+    "cpu_startup_conservative_usd": 0.0021,
+    "gpu_and_port_conservative_usd": 17.863,
+    "startup_attempts_conservative_usd": 0.4604,
+    "cpu_and_port_conservative_usd": 0.1435,
+    "total_conservative_usd": 18.469,
+    "basis": "Elapsed allocation including startup and both full arms, rounded up by minute; estimate, not a Hugging Face invoice.",
+    "weight_training_usd": 0,
+    "gpu_stopped": true,
+    "cpu_stopped": true
+  }
+}

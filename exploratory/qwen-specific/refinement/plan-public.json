@@ -1,0 +1,15 @@
+{
+  "frozen_at_utc": "2026-11-05T02:47:30.562558+00:00",
+  "stage": "One final exploratory refinement, not full benchmark evaluation",
+  "prior_candidate": "qwen_native_v2 rejected: code+2,math-4,GPQA-2 on failure-enriched96. Two code gains reflect oracle conventions. Reduction in reasoning effort unsupported.",
+  "diagnosis": "Retain original xhigh effort at all budgets. Test only canonical native closing delimiter with existing1024 reserve and generic math instruction.",
+  "candidate": "qwen_native_v3: original xhigh effort, exact native </think> followed by two newlines. No question, task ID, reference or correctness input to policy.",
+  "comparison": "New96 candidate completions vs all saved96 legacy development outputs from the immediately preceding probe; no additional legacy attempts. Same questions, order, batch size, checkpoint and decoding.",
+  "selection_rule": "Positive aggregate primary net over saved legacy96 and no benchmark net loss greater than1. All outcomes retained; no further candidate search in this round.",
+  "budget": "GPU45m maximum1.8826USD plus CPU45m maximum0.0151USD. Previous development2.3196USD; cumulative development<=4.2173USD and entire round<=25USD including final pair maximum20.2406USD.",
+  "prior_plan_sha256": "3809879e223ce0b26d9e0af3d269ce97ae96d70ca95a57f55322ccb72bab77af",
+  "prior_results_sha256": "0f39e14864829cf0bd3af68f95cd25a6164635b6a0bf3acc945cb039f55d00aa",
+  "no_solver_reference_access": true,
+  "failure_enriched_known_benchmark_items": true,
+  "no_fresh_refinement_outcomes_yet": true
+}

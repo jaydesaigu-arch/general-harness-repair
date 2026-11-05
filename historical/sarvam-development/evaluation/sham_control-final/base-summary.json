@@ -1,0 +1,12 @@
+{
+  "stage": "base",
+  "condition": "sham_control-final",
+  "n": 164,
+  "passed": 94,
+  "splits": {
+    "all": {
+      "n": 164,
+      "passed": 94
+    }
+  }
+}

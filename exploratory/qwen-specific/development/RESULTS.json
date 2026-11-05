@@ -1,0 +1,74 @@
+{
+  "stage": "Exploratory failure-enriched development only; not a full-benchmark score",
+  "new_generations": 192,
+  "selected_cases_per_arm": 96,
+  "metrics": {
+    "humaneval_plus": {
+      "n": 24,
+      "arms": {
+        "legacy_transfer": {
+          "correct": 16,
+          "truncated": 1,
+          "no_final_channel": 0,
+          "retained_tokens": 50476
+        },
+        "qwen_native_v2": {
+          "correct": 18,
+          "truncated": 0,
+          "no_final_channel": 0,
+          "retained_tokens": 28367
+        }
+      },
+      "gains": 3,
+      "losses": 1,
+      "net": 2
+    },
+    "math500": {
+      "n": 32,
+      "arms": {
+        "legacy_transfer": {
+          "correct": 26,
+          "truncated": 1,
+          "no_final_channel": 0,
+          "retained_tokens": 155176
+        },
+        "qwen_native_v2": {
+          "correct": 22,
+          "truncated": 4,
+          "no_final_channel": 0,
+          "retained_tokens": 108776
+        }
+      },
+      "gains": 2,
+      "losses": 6,
+      "net": -4
+    },
+    "gpqa_diamond": {
+      "n": 40,
+      "arms": {
+        "legacy_transfer": {
+          "correct": 28,
+          "truncated": 1,
+          "no_final_channel": 0,
+          "retained_tokens": 265642
+        },
+        "qwen_native_v2": {
+          "correct": 26,
+          "truncated": 0,
+          "no_final_channel": 0,
+          "retained_tokens": 183526
+        }
+      },
+      "gains": 2,
+      "losses": 4,
+      "net": -2
+    }
+  },
+  "aggregate_net": -4,
+  "predeclared_selection_rule_passed": false,
+  "selected_candidate": null,
+  "cost_estimate_usd": 2.3196,
+  "compute_stopped": true,
+  "padding_excluded_from_scores": true,
+  "no_independent_manual_pilot_accuracy_claim": true
+}

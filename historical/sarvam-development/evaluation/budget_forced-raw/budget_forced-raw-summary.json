@@ -1,0 +1,9 @@
+{
+  "name": "budget_forced-raw",
+  "n": 500,
+  "truncated": 81,
+  "scores": {
+    "reference_first": 41,
+    "final_or_boxed": 389
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "verified_at_utc": "2026-11-04T19:29:34.082243+00:00",
+  "reviewer": "Codex, not independent human graders",
+  "conditions": {
+    "baseline": {
+      "humaneval_plus": {
+        "n": 164,
+        "fresh_case_reviews": 154,
+        "exact_prior_reuses": 10,
+        "no_defect_found": 149,
+        "defect_or_missing": 14,
+        "unresolved": 1,
+        "metric": "Static program assessment; not benchmark pass@1"
+      },
+      "math500": {
+        "n": 500,
+        "fresh_case_reviews": 500,
+        "exact_prior_reuses": 0,
+        "correct_resolved_value": 494,
+        "incorrect_or_unresolved": 6,
+        "metric": "Semantic resolved-value review; not full proof audit"
+      },
+      "gpqa_diamond": {
+        "n": 198,
+        "fresh_case_reviews": 198,
+        "exact_prior_reuses": 0,
+        "resolved": 158,
+        "unresolved": 40,
+        "accuracy": "Not scored here; expert key remains isolated until all396 choices frozen"
+      }
+    },
+    "combined_repaired": {
+      "humaneval_plus": {
+        "n": 164,
+        "fresh_case_reviews": 79,
+        "exact_prior_reuses": 85,
+        "no_defect_found": 149,
+        "defect_or_missing": 9,
+        "unresolved": 6,
+        "metric": "Static program assessment; not benchmark pass@1"
+      },
+      "math500": {
+        "n": 500,
+        "fresh_case_reviews": 500,
+        "exact_prior_reuses": 0,
+        "correct_resolved_value": 497,
+        "incorrect_or_unresolved": 3,
+        "metric": "Semantic resolved-value review; not full proof audit"
+      },
+      "gpqa_diamond": {
+        "n": 198,
+        "fresh_case_reviews": 192,
+        "exact_prior_reuses": 6,
+        "resolved": 195,
+        "unresolved": 3,
+        "accuracy": "Not scored here; expert key remains isolated until all396 choices frozen"
+      }
+    }
+  },
+  "private_review_sha256": {
+    "baseline": "a8f24e73f8037eb3212d95714842668124405be76d7a62e62474035564edb731",
+    "combined_repaired": "2e5f447ed38463ade9ae8c27a5a54a5fb9d6f212905a127b1c76d7737427b1bc"
+  }
+}

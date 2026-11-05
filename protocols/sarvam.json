@@ -1,0 +1,314 @@
+{
+  "status": "FROZEN before fresh scored generation",
+  "frozen_at_utc": "2026-11-04T09:26:40.744845+00:00",
+  "design": "Independent full baseline862 then combined_repaired862, one completion per item per condition; both arms frozen together after all prior tests, not a new unseen-benchmark holdout.",
+  "tasks": {
+    "humaneval_plus": 164,
+    "math500": 500,
+    "gpqa_diamond": 198
+  },
+  "model": "sarvamai/sarvam-30b",
+  "revision": "071ae95e933605ca1104a6b4524a36a98488efa4",
+  "weights": "Original checkpoint, BF16 inference cast and original FP32 routers; no training/adapters/edits.",
+  "generation": {
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 20261108,
+    "max_context": 12288,
+    "max_num_seqs": 48,
+    "max_num_batched_tokens": 4096,
+    "code_output_ceiling": 4096,
+    "math_and_gpqa_output_ceiling": 8192,
+    "reserve": 1024,
+    "stop_token_ids": [
+      1,
+      26
+    ],
+    "prefix_cache": false,
+    "eager": true,
+    "gpu_memory_utilization": 0.92,
+    "thinking": true,
+    "same_shuffled_question_order_both_arms": true
+  },
+  "combined_bundle": [
+    "Previously frozen generic reserve/close-channel policy",
+    "Previously frozen final-channel parser and literal raw/final recording",
+    "Previously selected general plain math instruction; unchanged code/GPQA instructions",
+    "Frozen formatting-compatible Math v3, GPQA raw/final extractors, and helper-preserving code sanitizer applied consistently to both arms"
+  ],
+  "comparison_scope": "Combined bundle changes the math instruction as well as output policy. It is not a prompt-identical budget-only math comparison. Prior strict-budget comparison remains separate.",
+  "primary_automatic": "HumanEval+ raw-code base AND expanded execution; MATH500 raw v3; GPQA official raw regex. Same frozen evaluator per metric in both arms.",
+  "secondary_automatic": "Final-channel versions and qualified GPQA parser; all named explicitly, no metric substitution.",
+  "manual": "Separate Codex case review, no official overrides; exact identical prior responses may reuse source-verified judgments with provenance. Not an independent human panel.",
+  "isolation": "GPU receives question/specification-only projection, offered GPQA choices, synthetic controls; no reference keys, tests, canonical programs, or scorer feedback.",
+  "selection": "No score-based problem filtering, retries, best-of-k, substitution, or code/prompt/grader tuning between tests. Report regressions and partial failures.",
+  "cost": "Elapsed compute estimates and lifetime limits are disclosed in results. Personal funding statements are omitted from this derived public copy.",
+  "solver_files": {
+    "worker.py": "a2e652eb4d88c2439931cfede6f93a6746eb3c3f26efba89d266b61b407126f3",
+    "budget_policy.py": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "harness.py": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "grade_gpqa.py": "06b2289801d0b22bda7c798dd0edd7a976c35e794575308f15d4c98a6fa008bf",
+    "bootstrap_gpu.py": "88568629c64fc54fa8795d43c76b3600487bfcfc452ffdeb82057e5dd00708f6",
+    "sarvam.py": "85b8664d99b16c5b8cf5e54a7393aa10e3a7a042743fed59f9aa4060cc17c720",
+    "questions.json": "732f96bca7bafc621e65092e3ea343a6b20fd3cf817308aefa1a5e36a6039bba"
+  },
+  "evaluator_files": {
+    "audit_gold_parse.py": "3f887ce613a3489be1ac684471ffe703730ce76be3eae790e8db796ac3be3f0a",
+    "common.py": "e483fd07966e52de731bbe272b968a4a166b84af432815406e370f0a6dc921ef",
+    "cpu_eval.py": "f7cbb46e889662afe3ee4c4ec347c323a1765f992a2de8f74063bbbad4c4bdf4",
+    "cpu_eval_original.py": "d168c963a1063703aaf01c5804c1854694a4795a3c62fdd9dd0ff4f49ac73167",
+    "math_grade.py": "682420c6bab77d1d71c554dd7e7a2a3f07d9de27b39b185e6563a3dab0bc3910",
+    "math_grade_v2.py": "4ce0b2899a5524635b66402eaf84de3288ff68b15788e77cee298665a5302dfc",
+    "math_grade_v3.py": "a21aa66f0ddfe5fe0428140490e6fd288d911d552f709d7febd977140ec2f4ab",
+    "patch_evalplus.py": "2ac55de72334f1e76ea464a0f5039f22665ecbfcab75ff4aca1a4bfb194d1b2b",
+    "root_positive.py": "b49e778c84c9ed5874d2dddd558decbc125d01a5b5586d565cf82155d271d35d",
+    "sanitize_dependencies_v2.py": "89d3d724e8e2261d932fa0b8c10f2930986a416f334ecc48b4533a290ca69613"
+  },
+  "synthetic_controls": {
+    "budget": [
+      {
+        "name": "open",
+        "passed": true
+      },
+      {
+        "name": "closed",
+        "passed": true
+      },
+      {
+        "name": "direct",
+        "passed": true
+      },
+      {
+        "name": "literal",
+        "passed": true
+      },
+      {
+        "name": "blank",
+        "passed": true
+      },
+      {
+        "name": "leading_space",
+        "passed": true
+      },
+      {
+        "name": "already_final",
+        "passed": true
+      },
+      {
+        "name": "same_total_budget",
+        "passed": true
+      },
+      {
+        "name": "not_based_on_later_truncation",
+        "passed": true
+      },
+      {
+        "name": "short_finished_response_unchanged",
+        "passed": true
+      },
+      {
+        "name": "already_closed_at_cut_unchanged",
+        "passed": true
+      },
+      {
+        "name": "both_budgets_accounted",
+        "passed": true
+      }
+    ],
+    "channels": [
+      {
+        "name": "direct",
+        "passed": true
+      },
+      {
+        "name": "reasoning",
+        "passed": true
+      },
+      {
+        "name": "empty_reasoning",
+        "passed": true
+      },
+      {
+        "name": "incomplete",
+        "passed": true
+      },
+      {
+        "name": "blank_final",
+        "passed": true
+      },
+      {
+        "name": "code_literal",
+        "passed": true
+      },
+      {
+        "name": "code_after_reasoning",
+        "passed": true
+      },
+      {
+        "name": "whitespace",
+        "passed": true
+      },
+      {
+        "name": "ambiguous",
+        "passed": true
+      }
+    ],
+    "gpqa": [
+      {
+        "name": "standard",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "case",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "math",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "bold",
+        "expected": "A",
+        "actual": "A",
+        "passed": true
+      },
+      {
+        "name": "parenthesized",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "final",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "words",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "bare",
+        "expected": "A",
+        "actual": "A",
+        "passed": true
+      },
+      {
+        "name": "bare_parens",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "boxed",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "reasoning",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "incomplete",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "empty",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "prose",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "ambiguous",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "invalid",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "revised",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      },
+      {
+        "name": "blanklabel",
+        "expected": "C",
+        "actual": "C",
+        "passed": true
+      },
+      {
+        "name": "options",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "reasoning_only",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "description",
+        "expected": "B",
+        "actual": "B",
+        "passed": true
+      },
+      {
+        "name": "multiple_channels",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "label_prose",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "letter_prefix_word",
+        "expected": null,
+        "actual": null,
+        "passed": true
+      },
+      {
+        "name": "new_line_bold",
+        "expected": "D",
+        "actual": "D",
+        "passed": true
+      }
+    ]
+  },
+  "publication": "No submission or repository publication; GPQA examples and answer traces stay private.",
+  "public_copy_provenance": {
+    "original_protocol_sha256": "b382530fbd7149e8fded6a5316dd2855f19eff505797fb957351c84ebdb42ee3",
+    "difference": "Funding and live balance statements omitted; experimental settings and solver/evaluator hashes preserved."
+  }
+}

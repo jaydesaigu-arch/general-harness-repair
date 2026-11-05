@@ -1,0 +1,12 @@
+{
+  "stage": "plus",
+  "condition": "baseline-final",
+  "n": 164,
+  "passed": 93,
+  "splits": {
+    "all": {
+      "n": 164,
+      "passed": 93
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "stage": "Final exploratory refinement on known, failure-enriched benchmark cases; not full-benchmark accuracy",
+  "new_generations": 96,
+  "reused_legacy_comparator_generations": 96,
+  "candidate": "qwen_native_v3",
+  "metrics": {
+    "humaneval_plus": {
+      "n": 24,
+      "legacy_correct": 16,
+      "candidate_correct": 15,
+      "gains": 0,
+      "losses": 1,
+      "net": -1,
+      "candidate_retained_tokens": 49705,
+      "candidate_truncated": 0,
+      "candidate_no_final_channel": 0
+    },
+    "math500": {
+      "n": 32,
+      "legacy_correct": 26,
+      "candidate_correct": 26,
+      "gains": 0,
+      "losses": 0,
+      "net": 0,
+      "candidate_retained_tokens": 155336,
+      "candidate_truncated": 1,
+      "candidate_no_final_channel": 0
+    },
+    "gpqa_diamond": {
+      "n": 40,
+      "legacy_correct": 28,
+      "candidate_correct": 28,
+      "gains": 2,
+      "losses": 2,
+      "net": 0,
+      "candidate_retained_tokens": 265670,
+      "candidate_truncated": 0,
+      "candidate_no_final_channel": 0
+    }
+  },
+  "aggregate_net": -1,
+  "predeclared_selection_rule_passed": false,
+  "selected_candidate": null,
+  "refinement_cost_estimate_usd": 1.2655,
+  "cumulative_development_cost_estimate_usd": 3.5851,
+  "compute_stopped": true,
+  "padding_excluded_from_scores": true,
+  "prior_unsuccessful_candidate_retained": "DEVELOPMENT-RESULTS.json",
+  "further_candidate_search_authorized": false,
+  "no_independent_manual_pilot_accuracy_claim": true
+}

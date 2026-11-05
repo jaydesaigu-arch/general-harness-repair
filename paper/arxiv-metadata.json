@@ -1,0 +1,13 @@
+{
+  "title": "A general harness repair approach to AI Model improvement",
+  "authors": [
+    "Jay Desai"
+  ],
+  "affiliation": "Gujarat University",
+  "abstract": "An inference harness can lose usable answers when a reasoning model exhausts its output allowance before completing a response, while an evaluator can fail to recognize an answer already present. We study a general structural repair around on two published open weight models, Sarvam 30B and Qwen 3.8 27B, without training or learned parameter updates. After benchmark-informed development on Sarvam, we freeze a combined harness, run a fresh Sarvam comparison, and transfer the existing policy to Qwen before its scored evaluation. Each model has a complete baseline and repaired arm covering 164 HumanEval+ tasks, 500 MATH500 questions and 198 GPQA Diamond questions, for 3,448 retained responses. Both arms use one completion per item and identical output ceilings of 4,096 code tokens and 8,192 mathematics or science tokens. The repair reserves 1,024 tokens and closes an unfinished native reasoning channel at a fixed cutoff. It also includes a uniform mathematics instruction change. With common frozen graders, Sarvam automatic counts rise from 95 to 146, 372 to 435 and 50 to 109 on the three tests; Qwen counts rise from 150 to 153, 476 to 487 and 135 to 173. Separate manual grading by Codex on GPT 6.1 SOL(High Thinking) review finds much smaller mathematical gains and no net Qwen static coding gain. Reviewed GPQA choices matching the key rise from 69 to 114 for Sarvam and 151 to 173 for Qwen. The evidence supports improved answer delivery under the tested budgets",
+  "primary_category": "cs.CL",
+  "license_proposed": "CC BY 4.0",
+  "comments": "18 pages. Includes frozen harness source excerpts. Code and permitted response artifacts: https://github.com/jaydesaigu-arch/general-harness-repair ; https://huggingface.co/datasets/DesaiJayM/general-harness-repair",
+  "source_format": "Author-edited Microsoft Word PDF; not a TeX-generated PDF",
+  "publication_identifier": null
+}

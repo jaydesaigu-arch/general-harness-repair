@@ -1,0 +1,89 @@
+{
+  "original_pdf_sha256": "cc7492bcee3a535926822efb70a1f1c97cc8b75df4bd233f8483381440dccdc5",
+  "published_pdf_sha256": "d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0",
+  "pages": 18,
+  "changed_page": 10,
+  "changed_rectangle": [
+    72.02400207519531,
+    515.953369140625,
+    540,
+    582.774658203125
+  ],
+  "old_paragraph": "GPQA documentation asks that examples not be revealed online as text or images [10]. Public evidence \nshould therefore use aggregate scores, per-ID correctness or resolution flags, configuration and hashes, \nwhile excluding questions, offered choices, selected letters, reference keys, traces and example-bearing \nscreenshots. Authorized researchers can reproduce locally. HumanEval and mathematics answer artifacts \nrequire their own attribution and release checks. ",
+  "new_paragraph": "In accordance with the GPQA benchmark guidelines [10], we do not publicly disclose GPQA answers or reasoning traces. Public GPQA files contain only aggregate scores, per-item correctness and resolution flags, configuration and hashes. Questions, options, selected letters, reference keys and example-bearing screenshots are withheld. Authorized researchers can reproduce locally using the upstream dataset. Complete HumanEval+ and MATH500 pre/post answers and review records are released with attribution.",
+  "new_line_count": 5,
+  "pixel_checks": [
+    {
+      "page": 1,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 2,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 3,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 4,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 5,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 6,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 7,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 8,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 9,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 10,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 11,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 12,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 13,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 14,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 15,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 16,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 17,
+      "unchanged_outside_authorized_paragraph": true
+    },
+    {
+      "page": 18,
+      "unchanged_outside_authorized_paragraph": true
+    }
+  ]
+}

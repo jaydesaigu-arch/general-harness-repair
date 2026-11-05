@@ -1,0 +1,88 @@
+{
+  "recorded_at_utc": "2026-11-04T15:28:34.763451+00:00",
+  "scope": "Supplemental static numerical-robustness findings during Qwen review; original frozen study files and user-editing Word draft remain unchanged.",
+  "changes": [
+    {
+      "condition": "baseline",
+      "id": "HumanEval/71",
+      "frozen_static_label": "1",
+      "supplemental_static_label": "0",
+      "witness": "For a=b=1e8,c=1e-8, floating triangle tests pass, naive Heron cancellation returns 0 instead of area rounding to 0.50.",
+      "solution_sha256": "8670def6e012b50fdbda06696fe315556103bb28b1e6c969692068fecd054885"
+    },
+    {
+      "condition": "combined_repaired",
+      "id": "HumanEval/71",
+      "frozen_static_label": "1",
+      "supplemental_static_label": "0",
+      "witness": "Same finite near-degenerate triangle witness: a=b=1e8,c=1e-8; naive Heron cancellation.",
+      "solution_sha256": "527fa5abc1b0c63530c342c14d39ba11b4a7c0685a6c3d5161107eb31b2e48ff"
+    },
+    {
+      "condition": "combined_repaired",
+      "id": "HumanEval/21",
+      "frozen_static_label": "1",
+      "supplemental_static_label": "0",
+      "witness": "For finite inputs [-1e308,1e308], (max-min) overflows and naive rescaling gives [0.0,NaN], not [0.0,1.0].",
+      "solution_sha256": "b55b4d9f0ad54a75ba815104de3e378f26893fe5a73c068ef02fb1940f8a901a"
+    },
+    {
+      "condition": "baseline",
+      "id": "HumanEval/4",
+      "frozen_static_label": "1",
+      "supplemental_static_label": "0",
+      "witness": "For nonempty finite equal inputs [1e308,1e308], naive sum overflows to infinity; mean absolute deviation returns infinity although the mathematical result is zero.",
+      "solution_sha256": "b660c30356e8d480f1e0211f08d6fa98962e54f7c5f7fa65b57178f85876a401",
+      "domain_note": "Original static notes explicitly assumed ordinary finite magnitudes; this supplemental finding expands the robustness domain. It is not an official hidden-test failure."
+    },
+    {
+      "condition": "combined_repaired",
+      "id": "HumanEval/4",
+      "frozen_static_label": "1",
+      "supplemental_static_label": "0",
+      "witness": "For nonempty finite equal inputs [1e308,1e308], naive sum overflows to infinity; mean absolute deviation returns infinity although the mathematical result is zero.",
+      "solution_sha256": "b660c30356e8d480f1e0211f08d6fa98962e54f7c5f7fa65b57178f85876a401",
+      "domain_note": "Original static notes explicitly assumed ordinary finite magnitudes; this supplemental finding expands the robustness domain. It is not an official hidden-test failure."
+    },
+    {
+      "condition": "combined_repaired",
+      "id": "HumanEval/47",
+      "frozen_static_label": "1",
+      "supplemental_static_label": "0",
+      "witness": "For finite equal floats [1e308,1e308], central sum overflows to infinity before division by2; mathematical median1e308 is representable. This is a supplemental stress case, not an official expanded-test failure.",
+      "solution_sha256": "df5d99c2eee5f5b6879e152325db2cc827aec1a8dce266d98a3cf3cf47657f53"
+    }
+  ],
+  "automatic_scores_unchanged": {
+    "baseline": 95,
+    "repaired": 146,
+    "n": 164
+  },
+  "original_frozen_static_no_defect_counts": {
+    "baseline": 91,
+    "repaired": 143
+  },
+  "limitations": [
+    "Supplemental witnesses are not official HumanEval+ hidden-test failures.",
+    "Static reviews remain fallible and do not prove correctness over unbounded numeric domains.",
+    "Empty-substring interpretation in HumanEval/18 is a separate ambiguity: Sarvam frozen reviews accepted the conventional nonempty domain, whereas current Qwen assessment flagged that convention as unresolved. Do not claim fully harmonized cross-model static grades without documenting this sensitivity."
+  ],
+  "paper_delivery": "Do not overwrite the Word draft while user rewrites it; supply an explicit addendum before publication.",
+  "updated_at_utc": "2026-11-04T17:57:58.982291+00:00",
+  "counts_after_listed_supplemental_label_corrections": {
+    "baseline": 89,
+    "repaired": 139,
+    "n": 164
+  },
+  "metric_distinction": "These are conservative static robustness sensitivity counts under the listed finite numerical stress cases. They are not revised official HumanEval+ pass@1, and must not be conflated with the original frozen ordinary-domain static review.",
+  "additional_specification_ambiguities": [
+    {
+      "id": "HumanEval/47",
+      "issue": "The supplied even-list example claims median15 although the ordinary sorted median is8. Do not call disagreement with that example alone a model failure."
+    },
+    {
+      "id": "HumanEval/116",
+      "issue": "Popcount-sort prose conflicts with numeric-sort examples. Current Qwen review flags unresolved; Sarvam frozen label0 used an explicit-example criterion. Fully harmonized cross-model manual scoring has not been established."
+    }
+  ]
+}

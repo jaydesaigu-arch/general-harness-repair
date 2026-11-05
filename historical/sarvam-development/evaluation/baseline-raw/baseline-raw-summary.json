@@ -1,0 +1,9 @@
+{
+  "name": "baseline-raw",
+  "n": 500,
+  "truncated": 234,
+  "scores": {
+    "reference_first": 33,
+    "final_or_boxed": 323
+  }
+}

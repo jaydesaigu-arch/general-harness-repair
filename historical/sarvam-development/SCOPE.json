@@ -1,0 +1,21 @@
+{
+  "status": "Historical exploratory evidence; never substitute for final frozen scores",
+  "generation_record_counts": {
+    "baseline-humaneval_plus.jsonl": 164,
+    "baseline-math500.jsonl": 500,
+    "budget_forced-humaneval_plus.jsonl": 164,
+    "budget_forced-math500.jsonl": 500,
+    "fresh_repaired-humaneval_plus.jsonl": 164,
+    "fresh_repaired-math500.jsonl": 500,
+    "plain_prompt-math500.jsonl": 500,
+    "plain_prompt_repeat-math500.jsonl": 500,
+    "sham_control-humaneval_plus.jsonl": 164,
+    "sham_control-math500.jsonl": 500
+  },
+  "code_math_full_text_records": 3656,
+  "gpqa_metadata_only_records": 792,
+  "source_scope": "Retained development source snapshots are identified by their current retained bytes; final executed source identity is independently frozen in the primary source directory.",
+  "repeat_scope": "plain_prompt_repeat is a separate retained exploratory repeat, not an extra attempt selected for primary reporting.",
+  "review_scope": "SB/SR rows only from the broader historical regrade; labels and interpretation precede later frozen review and supplemental sensitivities.",
+  "gpqa_policy": "No questions/options/selected letters/reference keys/traces/token IDs or review notes are released."
+}

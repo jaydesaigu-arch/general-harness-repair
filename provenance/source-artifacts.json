@@ -1,0 +1,1482 @@
+{
+  "paper/A_General_Harness_Approach_Final.pdf": {
+    "source": "outputs/publication-2026-11-05/A_General_Harness_Approach_Final.pdf",
+    "sha256": "d0b14af27b75ea11c9f552a12570cdff79d107b58be955d1c35d5eaefc5a14d0",
+    "verbatim": true
+  },
+  "source/sarvam/worker.py": {
+    "source": "work/sarvam30b-frozen-replication/worker.py",
+    "sha256": "a2e652eb4d88c2439931cfede6f93a6746eb3c3f26efba89d266b61b407126f3",
+    "verbatim": true
+  },
+  "source/sarvam/budget_policy.py": {
+    "source": "work/sarvam30b-frozen-replication/budget_policy.py",
+    "sha256": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "verbatim": true
+  },
+  "source/sarvam/harness.py": {
+    "source": "work/sarvam30b-frozen-replication/harness.py",
+    "sha256": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "verbatim": true
+  },
+  "source/sarvam/grade_gpqa.py": {
+    "source": "work/sarvam30b-frozen-replication/grade_gpqa.py",
+    "sha256": "06b2289801d0b22bda7c798dd0edd7a976c35e794575308f15d4c98a6fa008bf",
+    "verbatim": true
+  },
+  "source/sarvam/bootstrap_gpu.py": {
+    "source": "work/sarvam30b-frozen-replication/bootstrap_gpu.py",
+    "sha256": "88568629c64fc54fa8795d43c76b3600487bfcfc452ffdeb82057e5dd00708f6",
+    "verbatim": true
+  },
+  "source/sarvam/sarvam.py": {
+    "source": "work/sarvam30b-frozen-replication/sarvam.py",
+    "sha256": "85b8664d99b16c5b8cf5e54a7393aa10e3a7a042743fed59f9aa4060cc17c720",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/audit_gold_parse.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/audit_gold_parse.py",
+    "sha256": "3f887ce613a3489be1ac684471ffe703730ce76be3eae790e8db796ac3be3f0a",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/common.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/common.py",
+    "sha256": "e483fd07966e52de731bbe272b968a4a166b84af432815406e370f0a6dc921ef",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/cpu_eval.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/cpu_eval.py",
+    "sha256": "f7cbb46e889662afe3ee4c4ec347c323a1765f992a2de8f74063bbbad4c4bdf4",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/cpu_eval_original.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/cpu_eval_original.py",
+    "sha256": "d168c963a1063703aaf01c5804c1854694a4795a3c62fdd9dd0ff4f49ac73167",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/math_grade.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/math_grade.py",
+    "sha256": "682420c6bab77d1d71c554dd7e7a2a3f07d9de27b39b185e6563a3dab0bc3910",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/math_grade_v2.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/math_grade_v2.py",
+    "sha256": "4ce0b2899a5524635b66402eaf84de3288ff68b15788e77cee298665a5302dfc",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/math_grade_v3.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/math_grade_v3.py",
+    "sha256": "a21aa66f0ddfe5fe0428140490e6fd288d911d552f709d7febd977140ec2f4ab",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/patch_evalplus.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/patch_evalplus.py",
+    "sha256": "2ac55de72334f1e76ea464a0f5039f22665ecbfcab75ff4aca1a4bfb194d1b2b",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/root_positive.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/root_positive.py",
+    "sha256": "b49e778c84c9ed5874d2dddd558decbc125d01a5b5586d565cf82155d271d35d",
+    "verbatim": true
+  },
+  "source/sarvam/evaluator/sanitize_dependencies_v2.py": {
+    "source": "work/sarvam30b-frozen-replication/evaluator/sanitize_dependencies_v2.py",
+    "sha256": "89d3d724e8e2261d932fa0b8c10f2930986a416f334ecc48b4533a290ca69613",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/cpu_bootstrap.py": {
+    "source": "work/sarvam30b-frozen-replication/cpu_bootstrap.py",
+    "sha256": "0fdf49df895252dc588f1f3c8d19638c45b9446c460a84189d8a03b8f8650ca5",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/score_cpu.py": {
+    "source": "work/sarvam30b-frozen-replication/score_cpu.py",
+    "sha256": "e63bb9a3750b1014ccaf1258d8fa5b33bda3cb62ba2c113baff0b1472c128040",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/gpu_controller.py": {
+    "source": "work/sarvam30b-frozen-replication/gpu_controller.py",
+    "sha256": "b8e6c58a01e94b72d78f8a9c2f6d7a407e1630ad6e2043650613a4567d98d425",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/cpu_controller.py": {
+    "source": "work/sarvam30b-frozen-replication/cpu_controller.py",
+    "sha256": "fbb4680101c41ab1439abd9624216f3aae6cc79be0dbba345ec8ae97bd03f546",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/audit_results.py": {
+    "source": "work/sarvam30b-frozen-replication/audit_results.py",
+    "sha256": "bbf9547fe5e5ff91c9c94a9d79d47c39f86cb32cab19e6d4189063cc64ae01c3",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/aggregate_results.py": {
+    "source": "work/sarvam30b-frozen-replication/aggregate_results.py",
+    "sha256": "f4fdb2c3ab0490456bf3dd3196b04b43fadd5c7974761796abfd65a375b682c7",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/consolidate_reviews.py": {
+    "source": "work/sarvam30b-frozen-replication/consolidate_reviews.py",
+    "sha256": "3bc62db48ce1db8d5591617ce3bbb386c9526012f27b50bd33843c6793cea0dd",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/review_identity.py": {
+    "source": "work/sarvam30b-frozen-replication/review_identity.py",
+    "sha256": "3de05c7469495d085f7e01eaf4354676d9e9be9011e042e9a07addf041242af1",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/record_review.py": {
+    "source": "work/sarvam30b-frozen-replication/record_review.py",
+    "sha256": "96c41b37d9427dd7fef16b651f226c7268335ea55762371fb7a881eefb33ae23",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/freeze_gpqa_choices.py": {
+    "source": "work/sarvam30b-frozen-replication/freeze_gpqa_choices.py",
+    "sha256": "4550319ac13d0a48190a3522f324a9e1117c5ab6089b7dc7d9023af5cd7e9ab0",
+    "verbatim": true
+  },
+  "archive/experiment-tools/sarvam/score_gpqa.py": {
+    "source": "work/sarvam30b-frozen-replication/score_gpqa.py",
+    "sha256": "d1aefbb981faa40d52e1eeb2197a6fa200099d73c4dfc1c70217acfc12ee33ed",
+    "verbatim": true
+  },
+  "results/sarvam/RESULTS.json": {
+    "source": "outputs/sarvam30b-frozen-replication/RESULTS.json",
+    "sha256": "8b3db9b8006e31887ace55efd5538afd6eca44ea2d18c06b68be6ce8d6c6c116",
+    "verbatim": true
+  },
+  "results/sarvam/RESULTS.csv": {
+    "source": "outputs/sarvam30b-frozen-replication/RESULTS.csv",
+    "sha256": "95cd6e92629eb5f1d35c10eb23b56e44795c068daba3f220b93260a8fc0d66aa",
+    "verbatim": true
+  },
+  "results/sarvam/GPQA-RESULTS.json": {
+    "source": "outputs/sarvam30b-frozen-replication/GPQA-RESULTS.json",
+    "sha256": "a024e96bf27d24dd245ccc278654771741d28e155dcf646143f8357ce15c1d1f",
+    "verbatim": true
+  },
+  "results/sarvam/generation-audit.json": {
+    "source": "outputs/sarvam30b-frozen-replication/generation-audit.json",
+    "sha256": "b87bf54e73f20cae2472a4705da20f5463454e1ec7df4a926924dfbc1de837e6",
+    "verbatim": true
+  },
+  "results/sarvam/MANUAL-COVERAGE-both.json": {
+    "source": "outputs/sarvam30b-frozen-replication/MANUAL-COVERAGE-both.json",
+    "sha256": "60954e7edcbb791061e0474f1f13715617fcb7e2b9bbcd5f3d943cdda4d7d7fe",
+    "verbatim": true
+  },
+  "results/sarvam/manual-choice-freeze.json": {
+    "source": "outputs/sarvam30b-frozen-replication/manual-choice-freeze.json",
+    "sha256": "0df456141c8c8c4d8f0c60bc56570524c728203a76f9ce79a20e0d549fb6ddfe",
+    "verbatim": true
+  },
+  "results/sarvam/SUPPLEMENTARY-STATIC-REVIEW.json": {
+    "source": "outputs/sarvam30b-frozen-replication/SUPPLEMENTARY-STATIC-REVIEW.json",
+    "sha256": "7f85b1b4a8eb841f83e83126cc132abe008a83d4f4a1746100fa130e2ebcc554",
+    "verbatim": true
+  },
+  "provenance/sarvam/environment.json": {
+    "source": "work/sarvam30b-frozen-replication/private-remote/environment.json",
+    "sha256": "127a891504b7a930f1bcfb8f1c7773dfb1b92d5846edbf3ccbea63253541544b",
+    "verbatim": true
+  },
+  "provenance/sarvam/runtime.json": {
+    "source": "work/sarvam30b-frozen-replication/private-remote/runtime.json",
+    "sha256": "d5b7586b72b10595d7fb25902910280efbe240a9f171d9ac7edbedd616922f98",
+    "verbatim": true
+  },
+  "answers/sarvam/token-records/baseline-humaneval_plus.jsonl.gz": {
+    "source": "work/sarvam30b-frozen-replication/private-remote/generations/baseline-humaneval_plus.jsonl",
+    "uncompressed_sha256": "b06e8883555d1364d21874045761201501ccd4377832ef8eb3653f2fb0edd466",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-raw/base.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-raw/base.json",
+    "sha256": "0a398870f4b8f950102ccc3e1f5f21c44e76c622910a334ae360cea0846fe928",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-raw/plus.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-raw/plus.json",
+    "sha256": "b4ae8a80be9decc511028827ab2ec1eab79770469121f9e5170f40dfb862ecda",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-raw/extraction-audit.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-raw/extraction-audit.json",
+    "sha256": "c14b6400128696072bd01a97e72880acbd00c99aa6566304ba3c3fd08883b966",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-raw/solutions.jsonl": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-raw/solutions.jsonl",
+    "sha256": "e4a678ea7648974629bc914c77a5de0653a38ac935d00eebbcced7279383d0ea",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-final/base.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-final/base.json",
+    "sha256": "524cd81b1b20f8135bd72f54ecbcb66337431c93fc35d2f38f1f3b14faf70134",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-final/plus.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-final/plus.json",
+    "sha256": "4bca7d8f040ca93099679bd1393e3eae133f55e40ab230ab43824e8edf5d3493",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-final/extraction-audit.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-final/extraction-audit.json",
+    "sha256": "b58b59805308c8b1f0b60b81c89d03a8e3f42090302a829933f072c8dbff4f96",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/baseline-final/solutions.jsonl": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-final/solutions.jsonl",
+    "sha256": "7ddb4b59b7001a297830b2f59839ee832f482796de86ba727dd47084e44d1cc3",
+    "verbatim": true
+  },
+  "answers/sarvam/token-records/combined_repaired-humaneval_plus.jsonl.gz": {
+    "source": "work/sarvam30b-frozen-replication/private-remote/generations/combined_repaired-humaneval_plus.jsonl",
+    "uncompressed_sha256": "7864b4e807a5b9c222007cf310b6f1584b88649d68bf16605c6eb771c440dbdd",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-raw/base.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-raw/base.json",
+    "sha256": "c0c274aeca0275fbe9070edbeeab981d68c04f95b80f43cf50e7dadf03b2f5a2",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-raw/plus.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-raw/plus.json",
+    "sha256": "4b3032286286e2a6a2f8482065a105ce98499f77a57b4480750e66f933e9e54a",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-raw/extraction-audit.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-raw/extraction-audit.json",
+    "sha256": "2e69bb91c38e3a59a8e74827ce6c563047c0ab2bc7badf5dc652b12280c0bef3",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-raw/solutions.jsonl": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-raw/solutions.jsonl",
+    "sha256": "825ba12cdc46e26a9f49db75486843b18515b768c127c55038a6d37a1531a0a8",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-final/base.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-final/base.json",
+    "sha256": "a9a989b0fc694315771f8afb0f9a18803190dea181693497a57d0b815734b200",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-final/plus.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-final/plus.json",
+    "sha256": "bae3d80d608fff265137a6c82f95920956728bfd94a37553cdb52614ac8553a5",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-final/extraction-audit.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-final/extraction-audit.json",
+    "sha256": "2e69bb91c38e3a59a8e74827ce6c563047c0ab2bc7badf5dc652b12280c0bef3",
+    "verbatim": true
+  },
+  "evaluation/sarvam/humaneval_plus/combined_repaired-final/solutions.jsonl": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-final/solutions.jsonl",
+    "sha256": "825ba12cdc46e26a9f49db75486843b18515b768c127c55038a6d37a1531a0a8",
+    "verbatim": true
+  },
+  "answers/sarvam/token-records/baseline-math500.jsonl.gz": {
+    "source": "work/sarvam30b-frozen-replication/private-remote/generations/baseline-math500.jsonl",
+    "uncompressed_sha256": "43f5ea1fca37398ce6ff12ed10d26e4100b0d7c52da821c70abcf17ca1234780",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/sarvam/math500/baseline-raw-v3.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/baseline-raw-v3.json",
+    "sha256": "37ff67d7df3a05544be56fc546e0591f781bc91b9b906e762aceff4125091ebf",
+    "verbatim": true
+  },
+  "evaluation/sarvam/math500/baseline-final-v3.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/baseline-final-v3.json",
+    "sha256": "eeab30190ee39f9c1e8f1a03b434163e48560bc21777fa7d641b132bd30cfda0",
+    "verbatim": true
+  },
+  "answers/sarvam/token-records/combined_repaired-math500.jsonl.gz": {
+    "source": "work/sarvam30b-frozen-replication/private-remote/generations/combined_repaired-math500.jsonl",
+    "uncompressed_sha256": "908296f7362a2c4c26bf3ab85593ea4716d9e58e7f505c18151744dd189c2387",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/sarvam/math500/combined_repaired-raw-v3.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/combined_repaired-raw-v3.json",
+    "sha256": "2533d638c1ad3a8c75b9b738de483279e37089ab84fe6ca26cc5fe84f1056c4f",
+    "verbatim": true
+  },
+  "evaluation/sarvam/math500/combined_repaired-final-v3.json": {
+    "source": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/combined_repaired-final-v3.json",
+    "sha256": "09f071baba311d1e782443dc5a0843a1b03990b5ca58443df9e082248a3f3c80",
+    "verbatim": true
+  },
+  "source/qwen/worker.py": {
+    "source": "work/qwen38-27b/worker.py",
+    "sha256": "14507bcd1b5d380dd86c9313f8c1bcd8462b5433b852ca31a8d4c7dc7759d0b7",
+    "verbatim": true
+  },
+  "source/qwen/bootstrap_gpu.py": {
+    "source": "work/qwen38-27b/bootstrap_gpu.py",
+    "sha256": "b6bda425d1d5071bd05e6d4a4cd69f0c52390f80e3c8abaf0f9bc3a569616354",
+    "verbatim": true
+  },
+  "source/qwen/adapter.py": {
+    "source": "work/qwen38-27b/adapter.py",
+    "sha256": "ecf32416beb1e84a21b147a0ed66b98c49124f3b96a96bc92bfde0b939c09d53",
+    "verbatim": true
+  },
+  "source/qwen/budget_policy.py": {
+    "source": "work/qwen38-27b/budget_policy.py",
+    "sha256": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "verbatim": true
+  },
+  "source/qwen/harness.py": {
+    "source": "work/qwen38-27b/harness.py",
+    "sha256": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "verbatim": true
+  },
+  "source/qwen/grade_gpqa.py": {
+    "source": "work/qwen38-27b/grade_gpqa.py",
+    "sha256": "06b2289801d0b22bda7c798dd0edd7a976c35e794575308f15d4c98a6fa008bf",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/audit_gold_parse.py": {
+    "source": "work/qwen38-27b/evaluator/audit_gold_parse.py",
+    "sha256": "3f887ce613a3489be1ac684471ffe703730ce76be3eae790e8db796ac3be3f0a",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/common.py": {
+    "source": "work/qwen38-27b/evaluator/common.py",
+    "sha256": "e483fd07966e52de731bbe272b968a4a166b84af432815406e370f0a6dc921ef",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/cpu_eval.py": {
+    "source": "work/qwen38-27b/evaluator/cpu_eval.py",
+    "sha256": "f7cbb46e889662afe3ee4c4ec347c323a1765f992a2de8f74063bbbad4c4bdf4",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/cpu_eval_original.py": {
+    "source": "work/qwen38-27b/evaluator/cpu_eval_original.py",
+    "sha256": "d168c963a1063703aaf01c5804c1854694a4795a3c62fdd9dd0ff4f49ac73167",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/math_grade.py": {
+    "source": "work/qwen38-27b/evaluator/math_grade.py",
+    "sha256": "682420c6bab77d1d71c554dd7e7a2a3f07d9de27b39b185e6563a3dab0bc3910",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/math_grade_v2.py": {
+    "source": "work/qwen38-27b/evaluator/math_grade_v2.py",
+    "sha256": "4ce0b2899a5524635b66402eaf84de3288ff68b15788e77cee298665a5302dfc",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/math_grade_v3.py": {
+    "source": "work/qwen38-27b/evaluator/math_grade_v3.py",
+    "sha256": "a21aa66f0ddfe5fe0428140490e6fd288d911d552f709d7febd977140ec2f4ab",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/patch_evalplus.py": {
+    "source": "work/qwen38-27b/evaluator/patch_evalplus.py",
+    "sha256": "2ac55de72334f1e76ea464a0f5039f22665ecbfcab75ff4aca1a4bfb194d1b2b",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/root_positive.py": {
+    "source": "work/qwen38-27b/evaluator/root_positive.py",
+    "sha256": "b49e778c84c9ed5874d2dddd558decbc125d01a5b5586d565cf82155d271d35d",
+    "verbatim": true
+  },
+  "source/qwen/evaluator/sanitize_dependencies_v2.py": {
+    "source": "work/qwen38-27b/evaluator/sanitize_dependencies_v2.py",
+    "sha256": "89d3d724e8e2261d932fa0b8c10f2930986a416f334ecc48b4533a290ca69613",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/cpu_bootstrap.py": {
+    "source": "work/qwen38-27b/cpu_bootstrap.py",
+    "sha256": "0fdf49df895252dc588f1f3c8d19638c45b9446c460a84189d8a03b8f8650ca5",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/score_cpu.py": {
+    "source": "work/qwen38-27b/score_cpu.py",
+    "sha256": "e63bb9a3750b1014ccaf1258d8fa5b33bda3cb62ba2c113baff0b1472c128040",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/gpu_controller.py": {
+    "source": "work/qwen38-27b/gpu_controller.py",
+    "sha256": "fc9b235061a10b6ea5602069a5e312ec9bddb7b5e1ed03b3eb295810ecddcad5",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/cpu_controller.py": {
+    "source": "work/qwen38-27b/cpu_controller.py",
+    "sha256": "99b90b0e401ce17683e387dd962419a417a9157f0d277e8684f7e6a1189c916d",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/audit_results.py": {
+    "source": "work/qwen38-27b/audit_results.py",
+    "sha256": "aa60a6d9588cd71f8ac1ebd55a8f284eaedcae813dd90e740d1c16ebe92c7b1d",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/aggregate_results.py": {
+    "source": "work/qwen38-27b/aggregate_results.py",
+    "sha256": "6b90f10aa987095ef275ad5ec8720997b458d72fbade6256e4c335d479eca1b0",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/consolidate_reviews.py": {
+    "source": "work/qwen38-27b/consolidate_reviews.py",
+    "sha256": "2cba252083a56c731dbe5609148edbc8e205b8510264c444902907fb7182414e",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/review_identity.py": {
+    "source": "work/qwen38-27b/review_identity.py",
+    "sha256": "b80aa0ff35fc34a7dbb89238876b651244dbec4d6e732ce277823281751b5f1c",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/record_review.py": {
+    "source": "work/qwen38-27b/record_review.py",
+    "sha256": "bd78cf2a86b528f0b30b6966811c9a9ee76c4b20cbc3898b092188c674d35de4",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/freeze_gpqa_choices.py": {
+    "source": "work/qwen38-27b/freeze_gpqa_choices.py",
+    "sha256": "9226c410317ecc92dd6335436aec69a506b22ce9bb10664b101a942df17cdfee",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/score_gpqa.py": {
+    "source": "work/qwen38-27b/score_gpqa.py",
+    "sha256": "cef8386c7dc190b42c62b2236e2a4737a3c853b47378ac0e99a357c04253ffd7",
+    "verbatim": true
+  },
+  "archive/experiment-tools/qwen/compare_prefixes.py": {
+    "source": "work/qwen38-27b/compare_prefixes.py",
+    "sha256": "cb9908e93050bf8626841870c1a86dfc2aa522ea8254b9b2081a9ad47e2563e4",
+    "verbatim": true
+  },
+  "results/qwen/RESULTS.json": {
+    "source": "outputs/qwen38-27b/RESULTS.json",
+    "sha256": "89ce5d5a0d0ed0eed1e3892fb962f0b88d7c368366f1f47ab606b7d8de22b3c4",
+    "verbatim": true
+  },
+  "results/qwen/RESULTS.csv": {
+    "source": "outputs/qwen38-27b/RESULTS.csv",
+    "sha256": "73d314156d875f570b5104b64f9046bec9b51315f6d179ce91f8b51a30c8cd5f",
+    "verbatim": true
+  },
+  "results/qwen/GPQA-RESULTS.json": {
+    "source": "outputs/qwen38-27b/GPQA-RESULTS.json",
+    "sha256": "0163f500a5dc13320757d4b11155990e41fa6eee517400f79116c2ec798f9a46",
+    "verbatim": true
+  },
+  "results/qwen/generation-audit.json": {
+    "source": "outputs/qwen38-27b/generation-audit.json",
+    "sha256": "c569a9f2bd54b8ebe365c82d6847997eb74e9a5c58e99156ed08e4f722323bc2",
+    "verbatim": true
+  },
+  "results/qwen/MANUAL-COVERAGE-both.json": {
+    "source": "outputs/qwen38-27b/MANUAL-COVERAGE-both.json",
+    "sha256": "63cb1749e7cdd24a1f4a3c24f59f29c3f0bac12f788e32bb44a361ecdd2b3a10",
+    "verbatim": true
+  },
+  "results/qwen/manual-choice-freeze.json": {
+    "source": "outputs/qwen38-27b/manual-choice-freeze.json",
+    "sha256": "1fa64b5b58bc19eb7e9ea3e2cbe3816621f4421cbacafff2d5f5d9ae0c7ce7d9",
+    "verbatim": true
+  },
+  "results/qwen/PAIRWISE-PREFIX-DIAGNOSTICS.json": {
+    "source": "outputs/qwen38-27b/PAIRWISE-PREFIX-DIAGNOSTICS.json",
+    "sha256": "7fbe427e1bea2c1c84e36cc6593da5450525229ae479fc986b6fcdd083612e53",
+    "verbatim": true
+  },
+  "results/qwen/MATH-CONVENTION-SENSITIVITY.json": {
+    "source": "outputs/qwen38-27b/MATH-CONVENTION-SENSITIVITY.json",
+    "sha256": "9d9051cd7156f8becf60b4eb812f4e904c02adaa3a3f66f14ede79ca57ec9304",
+    "verbatim": true
+  },
+  "results/qwen/prompt-difference-audit.json": {
+    "source": "outputs/qwen38-27b/prompt-difference-audit.json",
+    "sha256": "2eb5a1bdf4733ba82a54721a2e93fc6e8eac4f6de8b2672d9b7330d1824a0ff6",
+    "verbatim": true
+  },
+  "provenance/qwen/environment.json": {
+    "source": "work/qwen38-27b/private-remote/environment.json",
+    "sha256": "14fe9bcbac79faa29038bf3a76feccaaf0c466f8ccb1b23f67b43c3c754fe4e4",
+    "verbatim": true
+  },
+  "provenance/qwen/execution-freeze.json": {
+    "source": "work/qwen38-27b/execution-freeze.json",
+    "sha256": "7f319f64cbc0d6916a67fcbe48e5cf6f2fcfc656e6066adcd115f592711deb46",
+    "verbatim": true
+  },
+  "answers/qwen/token-records/baseline-humaneval_plus.jsonl.gz": {
+    "source": "work/qwen38-27b/private-remote/generations/baseline-humaneval_plus.jsonl",
+    "uncompressed_sha256": "28c8048ac6d9acb55856d95ee681b16c47d7c7750c7e5626fd998b9f0c5a7730",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/qwen/humaneval_plus/baseline-raw/base.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-raw/base.json",
+    "sha256": "68530e2fc171db41c7b3535a90f4cef71b8766710df5698f7a2e945b52cbae09",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/baseline-raw/plus.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-raw/plus.json",
+    "sha256": "7681abeed372d447f3d66a14aef101af32f981765851ca4f244cd473d13d7b53",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/baseline-raw/extraction-audit.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-raw/extraction-audit.json",
+    "sha256": "81485f2ec95ca0df8ffb655c57443ca9764efb2ec3e6236acce07cb9765e75b5",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/baseline-raw/solutions.jsonl": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-raw/solutions.jsonl",
+    "sha256": "0259157a3a8eae50ae2b8b4e9b843defbba1d781530c82b2aea63e25efc8a556",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/baseline-final/base.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-final/base.json",
+    "sha256": "b4ba7dc242edda201b9e995ef717baa8785aeaa1ea6f5a8e6cb33911332b91af",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/baseline-final/plus.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-final/plus.json",
+    "sha256": "ac5ad2e661370f855dfd23090a1eeeb8e812783c5897e5f23803181a767b6415",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/baseline-final/extraction-audit.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-final/extraction-audit.json",
+    "sha256": "b7f340c15b81edb2eab8556aae75a7e7024ee5b2ff4fd88a0d99ec1ed79a945d",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/baseline-final/solutions.jsonl": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/baseline-final/solutions.jsonl",
+    "sha256": "c3736f37b497601ec83cc7dfd6bac855181a8085200120754ac4b9b1e06ffb1c",
+    "verbatim": true
+  },
+  "answers/qwen/token-records/combined_repaired-humaneval_plus.jsonl.gz": {
+    "source": "work/qwen38-27b/private-remote/generations/combined_repaired-humaneval_plus.jsonl",
+    "uncompressed_sha256": "bc87c1a633502546bff0409db4b259055c9a785b6ab01f4fcde1920a056b0dec",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-raw/base.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-raw/base.json",
+    "sha256": "bcc1d302f0522142665535b8335ade5c46be09e01ffb362f50e03cf6a560a243",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-raw/plus.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-raw/plus.json",
+    "sha256": "a7d2ba084fff12e3af57302045e44bd1f9a634426879210e4dd9e581dd6c4a51",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-raw/extraction-audit.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-raw/extraction-audit.json",
+    "sha256": "dc24755844cd39279554968573557a3d0c589ff48b87905c731df349324d20c1",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-raw/solutions.jsonl": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-raw/solutions.jsonl",
+    "sha256": "825bf9c92933d49a19c869d615dd9ea4d670d1c08315fe5b5fda978cf2c11e48",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-final/base.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-final/base.json",
+    "sha256": "43928bae7b4d80071607753bf165a9712bb446456215e8964db8b3b80fdf3e3e",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-final/plus.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-final/plus.json",
+    "sha256": "ce92deb4ae37718ddc633ad453177cfa4a46a32f26ede82d4098d75c0850c053",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-final/extraction-audit.json": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-final/extraction-audit.json",
+    "sha256": "4cd12bea88d21b89ee975a5df2dc2f78bce04994a4849c709189f780b86d8def",
+    "verbatim": true
+  },
+  "evaluation/qwen/humaneval_plus/combined_repaired-final/solutions.jsonl": {
+    "source": "work/qwen38-27b/private-cpu/he164/scores/combined_repaired-final/solutions.jsonl",
+    "sha256": "405659a4356504fe225a0a72b6cb2b0b682ae478574a9d6bdfc8960004d176ba",
+    "verbatim": true
+  },
+  "answers/qwen/token-records/baseline-math500.jsonl.gz": {
+    "source": "work/qwen38-27b/private-remote/generations/baseline-math500.jsonl",
+    "uncompressed_sha256": "06185a306d179d5e189212f44dbcc3ed7a6d985483b63841c7c609fc4d92064b",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/qwen/math500/baseline-raw-v3.json": {
+    "source": "work/qwen38-27b/private-cpu/math500/scores/baseline-raw-v3.json",
+    "sha256": "0515e07763c670d870e625c8776a92a9e223958670bc78126eefa7a99d6cb3d3",
+    "verbatim": true
+  },
+  "evaluation/qwen/math500/baseline-final-v3.json": {
+    "source": "work/qwen38-27b/private-cpu/math500/scores/baseline-final-v3.json",
+    "sha256": "cd6cfbaebcbbf5fff87f822806b2a1dcf47f9143d43df71a998f7b38f39abca9",
+    "verbatim": true
+  },
+  "answers/qwen/token-records/combined_repaired-math500.jsonl.gz": {
+    "source": "work/qwen38-27b/private-remote/generations/combined_repaired-math500.jsonl",
+    "uncompressed_sha256": "931280ee0d097f3abb8b7ce32bc763ed0d84c3b797117c1090f4e86087a4de91",
+    "transformation": "Lossless gzip; all completion text, final views and token records retained."
+  },
+  "evaluation/qwen/math500/combined_repaired-raw-v3.json": {
+    "source": "work/qwen38-27b/private-cpu/math500/scores/combined_repaired-raw-v3.json",
+    "sha256": "407222adf546c322ea338b5633eb7003589e021bb35394808d8e5042e6d13130",
+    "verbatim": true
+  },
+  "evaluation/qwen/math500/combined_repaired-final-v3.json": {
+    "source": "work/qwen38-27b/private-cpu/math500/scores/combined_repaired-final-v3.json",
+    "sha256": "165d1386e39eadfeb9a08a4810c4e10901693bafedcd0c6c15e05faa40caff67",
+    "verbatim": true
+  },
+  "inputs/prompt-templates.json": {
+    "source": "outputs/sarvam30b-harness/prompt-templates.json",
+    "sha256": "57781afc51754688f78a754f42c16a57ebb74a97936c661a34dd5f9213a91086",
+    "verbatim": true
+  },
+  "inputs/evaluator-dataset-manifest.json": {
+    "source": "outputs/evaluator-dataset-manifest.json",
+    "sha256": "0aa12ef147a7e70e8c94d631c5fe609955a38929cb7c0941c32024b9ee15adf8",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/source/worker.py": {
+    "source": "work/qwen38-specific/development/worker.py",
+    "sha256": "ff255a63b276750bbcba1cfd3d00c9d722c137c1a8988c1e4f98336f9af3bd4c",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/source/native_policy.py": {
+    "source": "work/qwen38-specific/development/native_policy.py",
+    "sha256": "f1b5b183d6199aa4858719046ed259f397bd991db0974c40dab339edc742e81f",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/source/budget_policy.py": {
+    "source": "work/qwen38-specific/development/budget_policy.py",
+    "sha256": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/source/harness.py": {
+    "source": "work/qwen38-specific/development/harness.py",
+    "sha256": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/source/adapter.py": {
+    "source": "work/qwen38-specific/development/adapter.py",
+    "sha256": "ecf32416beb1e84a21b147a0ed66b98c49124f3b96a96bc92bfde0b939c09d53",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/source/grade_gpqa.py": {
+    "source": "work/qwen38-specific/development/grade_gpqa.py",
+    "sha256": "06b2289801d0b22bda7c798dd0edd7a976c35e794575308f15d4c98a6fa008bf",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/answers/legacy_transfer-humaneval_plus.jsonl": {
+    "source": "work/qwen38-specific/development/private-remote/generations/legacy_transfer-humaneval_plus.jsonl",
+    "sha256": "2bbbeb55712fad8dd72a74c402b7f3f9a1afa7cd39506f7cb815196990d7b3ea",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/answers/qwen_native_v2-humaneval_plus.jsonl": {
+    "source": "work/qwen38-specific/development/private-remote/generations/qwen_native_v2-humaneval_plus.jsonl",
+    "sha256": "dc4c0738f5dc1b7e4cb63e8adb281fea0c2c07abe3c0f05d801e8b60c2365d6b",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/answers/legacy_transfer-math500.jsonl": {
+    "source": "work/qwen38-specific/development/private-remote/generations/legacy_transfer-math500.jsonl",
+    "sha256": "073cf4e4416c5b16ce71b555bb32b2a2539712bdb82c2c6c3e5df7a70a60e8a9",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/development/answers/qwen_native_v2-math500.jsonl": {
+    "source": "work/qwen38-specific/development/private-remote/generations/qwen_native_v2-math500.jsonl",
+    "sha256": "b20e7d5d4e69283b13d858fb0393e4d282d522b1732d0d2ae20891e20052550c",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/source/worker.py": {
+    "source": "work/qwen38-specific/refinement/worker.py",
+    "sha256": "e4bef130b3455024060631a8f3daad60b61a56c57b89f9e64717ea2ef38aa3ce",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/source/native_policy.py": {
+    "source": "work/qwen38-specific/refinement/native_policy.py",
+    "sha256": "e01043b8b37fd3183751d959d47913583c01db91ffd43783492c6c0a711b1730",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/source/budget_policy.py": {
+    "source": "work/qwen38-specific/refinement/budget_policy.py",
+    "sha256": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/source/harness.py": {
+    "source": "work/qwen38-specific/refinement/harness.py",
+    "sha256": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/source/adapter.py": {
+    "source": "work/qwen38-specific/refinement/adapter.py",
+    "sha256": "ecf32416beb1e84a21b147a0ed66b98c49124f3b96a96bc92bfde0b939c09d53",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/source/grade_gpqa.py": {
+    "source": "work/qwen38-specific/refinement/grade_gpqa.py",
+    "sha256": "06b2289801d0b22bda7c798dd0edd7a976c35e794575308f15d4c98a6fa008bf",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/answers/qwen_native_v3-humaneval_plus.jsonl": {
+    "source": "work/qwen38-specific/refinement/private-remote/generations/qwen_native_v3-humaneval_plus.jsonl",
+    "sha256": "ed0df963c14589d952036df528e3629ff85abb9700d7f84dcf01120a56a755cc",
+    "verbatim": true
+  },
+  "exploratory/qwen-specific/refinement/answers/qwen_native_v3-math500.jsonl": {
+    "source": "work/qwen38-specific/refinement/private-remote/generations/qwen_native_v3-math500.jsonl",
+    "sha256": "6ba35d7c8e71efdf6c16660c4b4f234a5196ee965c6b98e9b02aed1be4a7e2a7",
+    "verbatim": true
+  },
+  "exploratory/interrupted-replication/STOPPED-RUN-SUMMARY.json": {
+    "source": "outputs/qwen38-specific/STOPPED-RUN-SUMMARY.json",
+    "sha256": "5a849a52f873941dd5000718c8950c56fcfade767adf7a7439e0866d3a650aaa",
+    "verbatim": true
+  },
+  "exploratory/interrupted-replication/partial-answers/baseline-humaneval_plus.jsonl": {
+    "source": "work/qwen38-specific/frozen/private-remote/generations/baseline-humaneval_plus.jsonl",
+    "sha256": "a982c22cde9255fdbbbafa936b734a135bf8f833014debf1bd6f2569b53fba59",
+    "verbatim": true
+  },
+  "exploratory/interrupted-replication/partial-answers/baseline-math500.jsonl": {
+    "source": "work/qwen38-specific/frozen/private-remote/generations/baseline-math500.jsonl",
+    "sha256": "bfaee9637ee930bf5f6ccc538fe8e545802d0c4d5a3636f1790f6043f9f20379",
+    "verbatim": true
+  },
+  "LICENSES/OpenAI-HumanEval-MIT.txt": {
+    "source_url": "https://raw.githubusercontent.com/openai/human-eval/master/LICENSE",
+    "sha256": "bcba3de214851cce46ed5af42d6698044616eeace887c3231bc7a20474ab639e",
+    "verbatim": true
+  },
+  "LICENSES/OpenAI-simple-evals-MIT.txt": {
+    "source_url": "https://raw.githubusercontent.com/openai/simple-evals/main/LICENSE",
+    "sha256": "d831db55645e47ca8e491c5a0e37f1ee744d7b10bf5aa8d50146c795ac0176c0",
+    "verbatim": true
+  },
+  "LICENSES/MATH-MIT.txt": {
+    "source_url": "https://raw.githubusercontent.com/hendrycks/math/main/LICENSE",
+    "sha256": "8f6401fb0b1fbfcac17aac8d61e4e1b0d2de9aa190d8aa655fedc5fd783b2ace",
+    "verbatim": true
+  },
+  "LICENSES/EvalPlus-Apache-2.0.txt": {
+    "source_url": "https://raw.githubusercontent.com/evalplus/evalplus/master/LICENSE",
+    "sha256": "fcc1f77fe5443b21bfc4dfcc3d66f7654f599b91582df771850e5e876986a103",
+    "verbatim": true
+  },
+  "LICENSES/Apache-2.0.txt": {
+    "source_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "verbatim": true
+  },
+  "historical/sarvam-development/answers/baseline-humaneval_plus.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/baseline-humaneval_plus.jsonl",
+    "uncompressed_sha256": "2541a89b3d133d55b30656866f9ec398cf7fb5b13461df954c8d15e8e66cce0a",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/baseline-math500.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/baseline-math500.jsonl",
+    "uncompressed_sha256": "27805420fbab5cbacfcc517da4e70e1a052b72aba0326dfc9c1a93977abc6afb",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/budget_forced-humaneval_plus.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/budget_forced-humaneval_plus.jsonl",
+    "uncompressed_sha256": "f1ec7e0e2db845132fbce3e2732e1a5b34bfe6ad96a46d90612a1c80519b06f5",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/budget_forced-math500.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/budget_forced-math500.jsonl",
+    "uncompressed_sha256": "b81b917f71d71925f86ba5b1784d25d7a5cd0a9229a7de0d7a1bb47b0fcc9a00",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/fresh_repaired-humaneval_plus.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/fresh_repaired-humaneval_plus.jsonl",
+    "uncompressed_sha256": "dd241312e2fc588195ab660777e9b90a4073b45ac9e3c4fa0a8d087183334ae4",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/fresh_repaired-math500.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/fresh_repaired-math500.jsonl",
+    "uncompressed_sha256": "fc73473fa4fc22a217c8a621c9744d117298eceec14b87c92316ebc8e0c90c07",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/plain_prompt-math500.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/plain_prompt-math500.jsonl",
+    "uncompressed_sha256": "5cba6686e78dbf44faf2006db2c964cf795fbd23c4925eb03e50e358aa86d310",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/plain_prompt_repeat-math500.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/plain_prompt_repeat-math500.jsonl",
+    "uncompressed_sha256": "f3422099757962df2235c5e49864d13ec8e6f74ae51238fba386d055dba2bf4b",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/sham_control-humaneval_plus.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/sham_control-humaneval_plus.jsonl",
+    "uncompressed_sha256": "0825f6ccf90c2e33091eeb70ee534fa5ec1dad48ada3af030be80bb3ca158478",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/answers/sham_control-math500.jsonl.gz": {
+    "source": "outputs/sarvam30b/raw/sham_control-math500.jsonl",
+    "uncompressed_sha256": "4ec400bcadb411321c164530693c3762b1ed37d9eab9c45de15678cfec353c72",
+    "transformation": "Lossless gzip of retained exploratory responses. Not primary final comparison."
+  },
+  "historical/sarvam-development/evaluation/baseline-final/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/base-summary.json",
+    "sha256": "899b0ed64e3be68e4b4bd211dc7d182cfdff2308bea63655c967cd2518d6a6e1",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/base.json",
+    "sha256": "166658c2bea089c033175a38c8377088bd28136b4e723ad38d97e413a8bcfb7b",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/baseline-final-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/baseline-final-summary.json",
+    "sha256": "7cede95b5d1b0520b610df05c5d7f53c3775d975a8a51a0fcd5c5ca0c43ab2a7",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/baseline-final-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/baseline-final-v2-summary.json",
+    "sha256": "767575cfdfa3c083dd94b89980dc259ea43fead2659411ad0f7721f5bc716212",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/baseline-final-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/baseline-final-v2.json",
+    "sha256": "40607acc2d9db79db7a8648646ceb2b2125a40dc486385fec4d8145af7f38436",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/baseline-final-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/baseline-final-v3-summary.json",
+    "sha256": "4abaec53bf54384763332aba320042b0e659c2efff3f683c9a0a87bfc070de00",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/baseline-final-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/baseline-final-v3.json",
+    "sha256": "e6eec929926b6851dfb9583453a9374fd1dcf158b5ee84bbb54ece03bdafabf4",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/baseline-final.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/baseline-final.json",
+    "sha256": "e0af8bbc76ddf8eb071a75dffa4b2b62f9b27dcf3b50f25952c179bbfcc92927",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/extraction-audit.json",
+    "sha256": "cc0709940ca3832897cb60e1cbd2e47d16ba2511daeabb02be32e576fe80ff5d",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/plus-summary.json",
+    "sha256": "19969fd8b4b424241ac7bb66a87fab89a50cd479ab49e4dc541d0eb85ffb6119",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/plus.json",
+    "sha256": "c8b867f5ba66f21077bbf02b0af161c8048339bc82c12dc52cbd889c7f0f5e6f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-final/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-final/solutions.jsonl",
+    "sha256": "b2a63ecdcea2ae6b289fff26e8b56fa73a2681670eeeba831376dae598013502",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/base-summary.json",
+    "sha256": "7f8f3b5a34de5b2a695820b5dc4f068a9b800a799f79a4fd9756da496dc5c7c4",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/base.json",
+    "sha256": "d6e9a5cb8f5df8845ae7d3317fcca52b490d43f01f21cc2664fcd4fb0c7cb48c",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/baseline-raw-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/baseline-raw-summary.json",
+    "sha256": "bcbea820ecc96ac5e02c5cfd44d583d399e933de206bf23b89313f007bd0d2cf",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/baseline-raw-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/baseline-raw-v2-summary.json",
+    "sha256": "9326fe8f724b717dd83386e35075bdc52229b8e116e5808dc172fcd3243e676e",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/baseline-raw-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/baseline-raw-v2.json",
+    "sha256": "5004a7acde0b7049ceb12054bc1c713e108ba39a06a652b3c24f52569c289dd3",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/baseline-raw-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/baseline-raw-v3-summary.json",
+    "sha256": "c1cbe111daa8b166a6c5d0a64b7ad915b7b4177429faac01b94958f9e6108a15",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/baseline-raw-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/baseline-raw-v3.json",
+    "sha256": "6937a8ae0bdfde2ed4d7a95796148bd98a29e52e61449d36f139d12337304533",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/baseline-raw.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/baseline-raw.json",
+    "sha256": "4d572e2b8d1a44c96276ec9cb4d984e363b031dbd0dec3c4d656fe72b7a70a0f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/extraction-audit.json",
+    "sha256": "6d65fb9008adf98b456a55ae3ae7f758dafb263f0fb20658603a703efca29e9f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/plus-summary.json",
+    "sha256": "b880123e62c96fac23aa9e570708460741a445fe031e79957ed1449f73acca06",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/plus.json",
+    "sha256": "32580aca8c880dfa8abeb04ceb953e0268ef61067145f6239278492da07bd161",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/baseline-raw/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/baseline-raw/solutions.jsonl",
+    "sha256": "fd0e2970848c51568d36c10e329f0fc71e02d469710c7160ca2b8d8472c41122",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/base-summary.json",
+    "sha256": "a048a292593003d329d4ae60d65b86fd1f1a728d38f3dbe106819332798752ab",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/base.json",
+    "sha256": "65a5f95a055445dc6da3e77bace5f1314a5e4e07d8657fd342aa1b7ec7772f40",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/budget_forced-final-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/budget_forced-final-summary.json",
+    "sha256": "c902858f076f18717142530e22fccc36788cf21a5d10e24f980327122929b74a",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/budget_forced-final-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/budget_forced-final-v2-summary.json",
+    "sha256": "9bff055477b7585a6350dd22c1c828c7790d03e790f7f067d3de220c723dcbd0",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/budget_forced-final-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/budget_forced-final-v2.json",
+    "sha256": "90320bde71b594652cced5c2001973c159a70e3fcbe3a549ce0680fa6508132e",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/budget_forced-final-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/budget_forced-final-v3-summary.json",
+    "sha256": "bb69cac33da33f8eed362f9e2630ac736f71978218098645cbe718180f7990ba",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/budget_forced-final-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/budget_forced-final-v3.json",
+    "sha256": "e9d3cc273427c595d6087185d1375eaed09456ecd7126847a0e15245cc708bbf",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/budget_forced-final.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/budget_forced-final.json",
+    "sha256": "09c0d043a691e3b7c9abdc0a93c70a7044877f12f766458547476eae14335a32",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/extraction-audit.json",
+    "sha256": "df8eaff54e779981ac406c8e4c06b8057a3f967e5f1002c439c4c423c3b9786e",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/plus-summary.json",
+    "sha256": "044ef821a0deb07c41e35739fe93d880dd1a40183c86c7416aeae33c54b12d0b",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/plus.json",
+    "sha256": "1b785aa9669b59fcf442bee6e42ba1698cfec612c6c7f72ab2729c0af4245692",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-final/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-final/solutions.jsonl",
+    "sha256": "a82389754bdc7de77c220858610eca9414bf7eca3c1d2b8502c9395766977050",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/base-summary.json",
+    "sha256": "82cbf21f5c479af5d748403ee14210b357613f4222b4f5c4f668b8938f43b09c",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/base.json",
+    "sha256": "c66001bde53ca945dda2849f5cd6a0b8b5d969b39e5c659a13ec95fc692d6d89",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/budget_forced-raw-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/budget_forced-raw-summary.json",
+    "sha256": "0d892b5f33a5fdc5ff690c1b55d76ddb18b96476f190d781719c300a211772b5",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/budget_forced-raw-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/budget_forced-raw-v2-summary.json",
+    "sha256": "e0d9db60968b88d023cf006c5df93c56b200c0a8f1b6b4037c59d01cda32bb19",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/budget_forced-raw-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/budget_forced-raw-v2.json",
+    "sha256": "a68feb4184afebfcdc5327c42d4473e4818f35d9327645feee1aa8507b2a9066",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/budget_forced-raw-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/budget_forced-raw-v3-summary.json",
+    "sha256": "5e915f35bad56370aa0036a33106f3daceb3daf22b248307ff07ac0e1ef40895",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/budget_forced-raw-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/budget_forced-raw-v3.json",
+    "sha256": "e9589e2c421cd02f1a57afed8fe3289926e3327f2531c8b62bbab2692a6bab32",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/budget_forced-raw.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/budget_forced-raw.json",
+    "sha256": "8aed620783b1bad8283f6bcae727e6834ba9c7a3047dcb68a6727230660b4c8b",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/extraction-audit.json",
+    "sha256": "df8eaff54e779981ac406c8e4c06b8057a3f967e5f1002c439c4c423c3b9786e",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/plus-summary.json",
+    "sha256": "7e195d663abf132b56f421d0020128091f4e64eecfa321f48f891f3804e90d88",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/plus.json",
+    "sha256": "7c18fe7ec93f08b525b2d0cda4adc8d4f4b66d4db5267af294d34d4eb7787d49",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/budget_forced-raw/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/budget_forced-raw/solutions.jsonl",
+    "sha256": "173ebc08f75efabc93daca173251b2dbf2c2202cc9eebf6b3f70845a1ec02922",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/base-summary.json",
+    "sha256": "60dcee3653fb44a4435e7bf1719fb250e9f142faa142bd8e66daee6ce3f72da6",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/base.json",
+    "sha256": "32aa56bf1b825bb6ae1c2ee2f9b328eac39a2c419b0cb4d98bb74ad0327088a4",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/extraction-audit.json",
+    "sha256": "0c6260fb70394ba391e1850bcf43639d1dad810d71a55d5dd5d2d6425a6a5323",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/fresh_repaired-final-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/fresh_repaired-final-summary.json",
+    "sha256": "7d4cb2ad5bd70b5b21411deb2f82937add7813d55e163aa1a003258646fa546c",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/fresh_repaired-final-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/fresh_repaired-final-v2-summary.json",
+    "sha256": "08864d03dffda73e3eff989069f3a80216cb44f807376850420a88413d5da5bc",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/fresh_repaired-final-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/fresh_repaired-final-v2.json",
+    "sha256": "0adcaf22518cba74807eeadfe29af67de4c584a1c112f090a09917dce7254c14",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/fresh_repaired-final-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/fresh_repaired-final-v3-summary.json",
+    "sha256": "785a7dd14e3ceeee5b1161edc20bdd6dfd570207317c278c1058c70993426797",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/fresh_repaired-final-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/fresh_repaired-final-v3.json",
+    "sha256": "f8c75ec5e837bc76a10001a2cdc22c6c20583589b6151774a721fc2f96e4eea0",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/fresh_repaired-final.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/fresh_repaired-final.json",
+    "sha256": "c7b31ef57ea2d45cc43ee6293b47d5cfa4eddcbcfd916d9868fe80b3326a79ca",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/plus-summary.json",
+    "sha256": "c2cc246052c3cd6091560b39aab68499b124f1cb3f2054c7a9e58ffe73c9cdd1",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/plus.json",
+    "sha256": "f41e303db9b1988a9b00fb662c8695bfb32e891d1124839ee4ca479407aa1992",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-final/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-final/solutions.jsonl",
+    "sha256": "e14e5961f60ed18365fd6abb07e25cb560f2a19842c7b00794fc78ef63b08d1d",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/base-summary.json",
+    "sha256": "aaeaa8e7d204887caf9821ed78948b2a7cc55db47ecda7898c7110d27a658501",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/base.json",
+    "sha256": "6597c292b1f47f23301536fbc112371d700a31e0e7380cdc741da299998f76d9",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/extraction-audit.json",
+    "sha256": "0c6260fb70394ba391e1850bcf43639d1dad810d71a55d5dd5d2d6425a6a5323",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/fresh_repaired-raw-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/fresh_repaired-raw-summary.json",
+    "sha256": "27956753050f0050a97978f323dc47a4d0e62bb3cca16bd02a321bf39fd4357a",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/fresh_repaired-raw-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/fresh_repaired-raw-v2-summary.json",
+    "sha256": "4902e9fc866c1a04f7c7acc4d478323aa61025a171c1c9e81f48236498bf932d",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/fresh_repaired-raw-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/fresh_repaired-raw-v2.json",
+    "sha256": "6bd872b6325a127b31b674352adcd352b969cfe433b53f19969de6953a27a728",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/fresh_repaired-raw-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/fresh_repaired-raw-v3-summary.json",
+    "sha256": "12336e977cb97c6d96c813b520ca004bbfa56f8883f9419a13f2dd9b8aee6fe3",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/fresh_repaired-raw-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/fresh_repaired-raw-v3.json",
+    "sha256": "2640c7850c40cb1f1cec3e08b2bc9f696e7a4e07c4177109f2b001e33462c267",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/fresh_repaired-raw.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/fresh_repaired-raw.json",
+    "sha256": "5bfc1b7b2ab1859e0469b446b5737db83bdb83610c1e2bb806355ad1abc419d0",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/plus-summary.json",
+    "sha256": "6dd752cddafb0f36413a188bb444409e912dbc050fe803273d0519c9638109f6",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/plus.json",
+    "sha256": "cf2c3285b56c7e60ce95073dcec18635faf0a40173ff16c184709fe187a39ed9",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/fresh_repaired-raw/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/fresh_repaired-raw/solutions.jsonl",
+    "sha256": "a4e23ada2bc5fa691818ab233a0b4de16bea3768ac3adca181a6b9fde05fdb58",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-final/plain_prompt-final-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-final/plain_prompt-final-summary.json",
+    "sha256": "8b2ae9e30368da4612d4eeef68bb160df496da295c2d0bf676601f8c1e4373b5",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-final/plain_prompt-final-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-final/plain_prompt-final-v2-summary.json",
+    "sha256": "4dbb6afd77ee18709c52d28b004d0222d3a5bb3906d133326073738826bbc4fe",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-final/plain_prompt-final-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-final/plain_prompt-final-v2.json",
+    "sha256": "21dcc9774f3823e8a0d9770c8af9b63bfaa9659994c0e2a1e4adc8da196803c2",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-final/plain_prompt-final-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-final/plain_prompt-final-v3-summary.json",
+    "sha256": "299b11bb793987630a9ef04963979008f2ad7d4767084b0b369668c0ebdca43e",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-final/plain_prompt-final-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-final/plain_prompt-final-v3.json",
+    "sha256": "f4043deab01c25c10579ee3ecb563163755ab716f38807a3d9d4820758a4c02e",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-final/plain_prompt-final.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-final/plain_prompt-final.json",
+    "sha256": "4dd0c07c3d8f51e9d2a9121ad91d921a82c3acca410afb3c3fc1e1cefd8631a1",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-raw/plain_prompt-raw-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-raw/plain_prompt-raw-summary.json",
+    "sha256": "1bd2a56adcd1d0ee38c3f05c7868a5a62b914c6fb7a25791e7cbd3182dba421f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-raw/plain_prompt-raw-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-raw/plain_prompt-raw-v2-summary.json",
+    "sha256": "8b7072967d810677046d0196f4530a98e4c8b9b7c4c556e7ca08ccbf2fe1b695",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-raw/plain_prompt-raw-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-raw/plain_prompt-raw-v2.json",
+    "sha256": "3a5c4d9812e966841a5cc23591144243e745bbf8fed3cf4bfb940b9e3800d985",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-raw/plain_prompt-raw-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-raw/plain_prompt-raw-v3-summary.json",
+    "sha256": "7cee653ed3b95d49f436474cf9f3c2b1b538099199ad2d54682a67ff5bf588fc",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-raw/plain_prompt-raw-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-raw/plain_prompt-raw-v3.json",
+    "sha256": "36eb1d258f13ca9516c52b32351b583065bb9b5e058336729d3ea75745808c76",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt-raw/plain_prompt-raw.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt-raw/plain_prompt-raw.json",
+    "sha256": "de026d18b51ed228bccf595e926cf5056ec3acd461246741e0f6d3194d2bf6df",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-final/plain_prompt_repeat-final-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-final/plain_prompt_repeat-final-summary.json",
+    "sha256": "21c0f47e5c2bda6fcf8fa0318d9551b04ce2d43a0e4453ecd56ac5e0565de64a",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-final/plain_prompt_repeat-final-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-final/plain_prompt_repeat-final-v2-summary.json",
+    "sha256": "0431112bcc057540feb506d5b6653c873d32cbd6e658a853e3207781318c5824",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-final/plain_prompt_repeat-final-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-final/plain_prompt_repeat-final-v2.json",
+    "sha256": "21dcc9774f3823e8a0d9770c8af9b63bfaa9659994c0e2a1e4adc8da196803c2",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-final/plain_prompt_repeat-final-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-final/plain_prompt_repeat-final-v3-summary.json",
+    "sha256": "c3829d7ca30b0d00a4eec28d08e8698e58715de6d0d10114eee56cb8d3b2be61",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-final/plain_prompt_repeat-final-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-final/plain_prompt_repeat-final-v3.json",
+    "sha256": "f4043deab01c25c10579ee3ecb563163755ab716f38807a3d9d4820758a4c02e",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-final/plain_prompt_repeat-final.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-final/plain_prompt_repeat-final.json",
+    "sha256": "4dd0c07c3d8f51e9d2a9121ad91d921a82c3acca410afb3c3fc1e1cefd8631a1",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-raw/plain_prompt_repeat-raw-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-raw/plain_prompt_repeat-raw-summary.json",
+    "sha256": "78ac3ccf55744ef845bf3fd66dfb04f2c1955eca8bc86a802570486e7b2ed521",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v2-summary.json",
+    "sha256": "409c6a01194ff55bb8264ad6d61cd412860ef66d090b9564768545b196cbe43f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v2.json",
+    "sha256": "3a5c4d9812e966841a5cc23591144243e745bbf8fed3cf4bfb940b9e3800d985",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v3-summary.json",
+    "sha256": "0917a585a7d85d640b3f189b66c400076a4dcba52712861e0a5d6ed3bc7e76dd",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-raw/plain_prompt_repeat-raw-v3.json",
+    "sha256": "36eb1d258f13ca9516c52b32351b583065bb9b5e058336729d3ea75745808c76",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/plain_prompt_repeat-raw/plain_prompt_repeat-raw.json": {
+    "source": "outputs/sarvam30b/raw/scores/plain_prompt_repeat-raw/plain_prompt_repeat-raw.json",
+    "sha256": "de026d18b51ed228bccf595e926cf5056ec3acd461246741e0f6d3194d2bf6df",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/base-summary.json",
+    "sha256": "278a6c48c9c805213e3db7a57444f442ccb71ace20c36b08123cb3d02ed3a810",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/base.json",
+    "sha256": "ef32aa913ba2521feb14eb13fb73fa571cc07a938997e5ef5fb235a69093056b",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/extraction-audit.json",
+    "sha256": "a33becb63f3dacc1efdb4f281a7924c428aae2a050641aa9ed258ea3a6846909",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/plus-summary.json",
+    "sha256": "5a94acedf31cc2a23c7c224ba27382700801dd48b8d28cb0fa43070a683eb994",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/plus.json",
+    "sha256": "ca653ec24c09d0adb44a55e05b9c206386b9cfc6aaeb899d44eddff6b116c2af",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/sham_control-final-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/sham_control-final-summary.json",
+    "sha256": "b032ed1bbe3008703d749e576210fbd8835d1c0de959bf1fb969a1fd5fead1b4",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/sham_control-final-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/sham_control-final-v2-summary.json",
+    "sha256": "f154918b6b99e971005fa76b8598cbdfaa39201ab696c1f2005871bb64bb8771",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/sham_control-final-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/sham_control-final-v2.json",
+    "sha256": "99dec541735ce08b6080c9c8a808db5faa5ad46d3bd58fe869d0659596dcba74",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/sham_control-final-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/sham_control-final-v3-summary.json",
+    "sha256": "afe417dd12de42e9c001da18aa921c0a90c84e3efb8142b92eafca045343463f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/sham_control-final-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/sham_control-final-v3.json",
+    "sha256": "c51ed9f17ca6699f8e9cf058147626e600123c043d2549e89f36bc634a0c8779",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/sham_control-final.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/sham_control-final.json",
+    "sha256": "4bc1d015732629051f705848c355a5619a0644baf30ea390e04669d8dd34f9c6",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-final/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-final/solutions.jsonl",
+    "sha256": "67723ee6c119dcc945cbaed80ed9bd2b9a65d522902dd8b197b5246ef7ede10c",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/base-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/base-summary.json",
+    "sha256": "14a9889664b54e4ae8a2dd10d6523102fe8b6b281c4ae1258d07b723e20d20cb",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/base.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/base.json",
+    "sha256": "7e2fdf0b0fdb50232ea2ae81158cd37b6bdb2bc74e32d7d3f86b83b259d336af",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/extraction-audit.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/extraction-audit.json",
+    "sha256": "b25598a06b666e48b223507d727722d4e20ad505bfba36d1b8593846e91b7676",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/plus-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/plus-summary.json",
+    "sha256": "fbf3ba03dfee1e04c132fe9d2069c7503972bd1daf2bb687339ddbb45f4d3503",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/plus.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/plus.json",
+    "sha256": "e2dd3c4121f419b352d4c63f9bb0170f8fd26ff8e6ef426e8e310785c2624ecc",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/sham_control-raw-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/sham_control-raw-summary.json",
+    "sha256": "a244614fbbd0920826bae0d27fae1456df4b29950777ca2efabb1c5dfe854309",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/sham_control-raw-v2-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/sham_control-raw-v2-summary.json",
+    "sha256": "7f0316767ce21ef381986fefe50e894131638b3de8b07d66bbabe98669295e8f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/sham_control-raw-v2.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/sham_control-raw-v2.json",
+    "sha256": "0ae508d258541b817d03fe4e2523ca853289f0cafa9942d8d0d5ab88668af96c",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/sham_control-raw-v3-summary.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/sham_control-raw-v3-summary.json",
+    "sha256": "8aca86ff9f67d05da3fbb9b25a7a791a98e2bc4c3ac8d3087ad3ad04e06f328f",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/sham_control-raw-v3.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/sham_control-raw-v3.json",
+    "sha256": "ef6f1096b3c9ce7981360cd13ddfccd32855299544d01008f69f4a080b221155",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/sham_control-raw.json": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/sham_control-raw.json",
+    "sha256": "2371dba26e67b521b49acd954ec4ea8e834dfd6ee8e2ed414b277ee923f08270",
+    "verbatim": true
+  },
+  "historical/sarvam-development/evaluation/sham_control-raw/solutions.jsonl": {
+    "source": "outputs/sarvam30b/raw/scores/sham_control-raw/solutions.jsonl",
+    "sha256": "972bb8b5761b1bf84c7481224af2a6dbe001fb848f0f8d72f459f25a6ff045c3",
+    "verbatim": true
+  },
+  "historical/sarvam-development/code-math-aggregate-results.json": {
+    "source": "outputs/sarvam30b/RESULTS.json",
+    "sha256": "4b551c09493157693abe90996ae4300c7eeb211e0f5b64d571a20738fbc8396d",
+    "verbatim": true
+  },
+  "historical/sarvam-development/gpqa-aggregate-results.json": {
+    "source": "outputs/sarvam30b-gpqa/RESULTS.json",
+    "sha256": "9631ab690c546892640cd29639e8f54b43ed60a8158ba534944d00dafdc9f7c7",
+    "verbatim": true
+  },
+  "historical/sarvam-development/gpqa-review-aggregate-results.json": {
+    "source": "outputs/sarvam30b-gpqa/DUAL-GRADING-RESULTS.json",
+    "sha256": "bc446458a53edaafd266604c6434dbf145e9b36d041148df85b9e68294d435e3",
+    "verbatim": true
+  },
+  "historical/sarvam-development/gpqa-review-per-item-metadata.json": {
+    "source": "outputs/sarvam30b-gpqa/manual-per-problem-scores.json",
+    "sha256": "5408f6f7c8c6929e240ac9f1b7c22a5e65196ced492336b493a29cb8d3b92c98",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/gpu_worker.py": {
+    "source": "work/sarvam30b/gpu_worker.py",
+    "sha256": "225058d1d07446f66436edcde9d1dce8f33736d0b480fa7fd28ab757e41483fc",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/budget_policy.py": {
+    "source": "work/sarvam30b/budget_policy.py",
+    "sha256": "092dacddb421e769b86829a24f387976fb782602dfda4a334efe7d7c24169ff5",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/harness.py": {
+    "source": "work/sarvam30b/harness.py",
+    "sha256": "1d3091c1c9f76e820efc2c4c84c010ac2d935ebee21170c375e39d5aa6cc3cc3",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/repair_worker.py": {
+    "source": "work/sarvam30b/repair_worker.py",
+    "sha256": "acad8b05838206c059d80cbe9c85785cb75df2feebcc870c6a134474b21007ef",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/repair_driver.py": {
+    "source": "work/sarvam30b/repair_driver.py",
+    "sha256": "e8b43441ad7952fed1d4a26b7f4749cf41b8b8f8d4a0f3728f5fab70d5b7beb7",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/plain_prompt_worker.py": {
+    "source": "work/sarvam30b/plain_prompt_worker.py",
+    "sha256": "ec84372321350d1ec64b0b2fd1c7d98903997fa5e4bb02cc98c38646667405c7",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/plain_prompt_driver.py": {
+    "source": "work/sarvam30b/plain_prompt_driver.py",
+    "sha256": "49241f94b53eb4980d8c64df3df537a59f080dc1b1ecce2593b9afdf700063ba",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/math_grade_v3.py": {
+    "source": "work/sarvam30b/math_grade_v3.py",
+    "sha256": "a21aa66f0ddfe5fe0428140490e6fd288d911d552f709d7febd977140ec2f4ab",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/audit_lineage.py": {
+    "source": "work/sarvam30b/audit_lineage.py",
+    "sha256": "b286cb7821200f90289ebea9d270ee9d33fb318dad9048ef4f8b385ff2214689",
+    "verbatim": true
+  },
+  "historical/sarvam-development/retained-development-source/compare_scores.py": {
+    "source": "work/sarvam30b/compare_scores.py",
+    "sha256": "8f8b636586a450b12ff7ea709483ef5d8afbc30a7212aefdaec5241a82f63b32",
+    "verbatim": true
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "status": "COMPLETE",
+  "completed_at_utc": "2026-11-04T11:27:54.987892+00:00",
+  "metrics": {
+    "humaneval_plus_raw": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 95,
+      "combined_repaired_correct": 146,
+      "baseline_percent": 57.926829268292686,
+      "combined_repaired_percent": 89.02439024390245,
+      "percentage_point_change": 31.097560975609756,
+      "gains": 53,
+      "losses": 2,
+      "net": 51,
+      "descriptive_exact_two_sided_mcnemar_p": 8.554268404736831e-14
+    },
+    "humaneval_base_raw": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 96,
+      "combined_repaired_correct": 155,
+      "baseline_percent": 58.53658536585366,
+      "combined_repaired_percent": 94.51219512195122,
+      "percentage_point_change": 35.97560975609756,
+      "gains": 59,
+      "losses": 0,
+      "net": 59,
+      "descriptive_exact_two_sided_mcnemar_p": 3.469446951953614e-18
+    },
+    "math500_raw_v3": {
+      "benchmark": "math500",
+      "n": 500,
+      "baseline_correct": 372,
+      "combined_repaired_correct": 435,
+      "baseline_percent": 74.4,
+      "combined_repaired_percent": 87.0,
+      "percentage_point_change": 12.6,
+      "gains": 84,
+      "losses": 21,
+      "net": 63,
+      "descriptive_exact_two_sided_mcnemar_p": 4.15704696083444e-10
+    },
+    "humaneval_plus_final": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 95,
+      "combined_repaired_correct": 146,
+      "baseline_percent": 57.926829268292686,
+      "combined_repaired_percent": 89.02439024390245,
+      "percentage_point_change": 31.097560975609756,
+      "gains": 53,
+      "losses": 2,
+      "net": 51,
+      "descriptive_exact_two_sided_mcnemar_p": 8.554268404736831e-14
+    },
+    "humaneval_base_final": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 96,
+      "combined_repaired_correct": 155,
+      "baseline_percent": 58.53658536585366,
+      "combined_repaired_percent": 94.51219512195122,
+      "percentage_point_change": 35.97560975609756,
+      "gains": 59,
+      "losses": 0,
+      "net": 59,
+      "descriptive_exact_two_sided_mcnemar_p": 3.469446951953614e-18
+    },
+    "math500_final_v3": {
+      "benchmark": "math500",
+      "n": 500,
+      "baseline_correct": 248,
+      "combined_repaired_correct": 428,
+      "baseline_percent": 49.6,
+      "combined_repaired_percent": 85.6,
+      "percentage_point_change": 36.0,
+      "gains": 183,
+      "losses": 3,
+      "net": 180,
+      "descriptive_exact_two_sided_mcnemar_p": 2.1872657444119354e-50
+    },
+    "math500_codex_resolved_value": {
+      "benchmark": "math500",
+      "n": 500,
+      "baseline_correct": 454,
+      "combined_repaired_correct": 460,
+      "baseline_percent": 90.8,
+      "combined_repaired_percent": 92.0,
+      "percentage_point_change": 1.2,
+      "gains": 17,
+      "losses": 11,
+      "net": 6,
+      "descriptive_exact_two_sided_mcnemar_p": 0.34492845088243484
+    },
+    "code_codex_no_defect": {
+      "benchmark": "humaneval_plus",
+      "n": 164,
+      "baseline_correct": 91,
+      "combined_repaired_correct": 143,
+      "baseline_percent": 55.48780487804878,
+      "combined_repaired_percent": 87.1951219512195,
+      "percentage_point_change": 31.70731707317073,
+      "gains": 53,
+      "losses": 1,
+      "net": 52,
+      "descriptive_exact_two_sided_mcnemar_p": 6.106226635438361e-15
+    },
+    "gpqa_official_raw": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 50,
+      "combined_repaired_correct": 109,
+      "baseline_percent": 25.252525252525253,
+      "combined_repaired_percent": 55.05050505050505,
+      "percentage_point_change": 29.7979797979798,
+      "gains": 62,
+      "losses": 3,
+      "net": 59,
+      "descriptive_exact_two_sided_mcnemar_p": 2.4842324378160363e-15
+    },
+    "gpqa_official_final": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 26,
+      "combined_repaired_correct": 104,
+      "baseline_percent": 13.131313131313131,
+      "combined_repaired_percent": 52.525252525252526,
+      "percentage_point_change": 39.39393939393939,
+      "gains": 79,
+      "losses": 1,
+      "net": 78,
+      "descriptive_exact_two_sided_mcnemar_p": 1.3400325923359048e-22
+    },
+    "gpqa_qualified_final": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 26,
+      "combined_repaired_correct": 104,
+      "baseline_percent": 13.131313131313131,
+      "combined_repaired_percent": 52.525252525252526,
+      "percentage_point_change": 39.39393939393939,
+      "gains": 79,
+      "losses": 1,
+      "net": 78,
+      "descriptive_exact_two_sided_mcnemar_p": 1.3400325923359048e-22
+    },
+    "gpqa_codex_resolved_choice": {
+      "benchmark": "gpqa_diamond",
+      "n": 198,
+      "baseline_correct": 69,
+      "combined_repaired_correct": 114,
+      "baseline_percent": 34.84848484848485,
+      "combined_repaired_percent": 57.57575757575758,
+      "percentage_point_change": 22.727272727272727,
+      "gains": 49,
+      "losses": 4,
+      "net": 45,
+      "descriptive_exact_two_sided_mcnemar_p": 7.053979622639872e-11
+    }
+  },
+  "source_artifacts": [
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-raw/base.json",
+      "sha256": "0a398870f4b8f950102ccc3e1f5f21c44e76c622910a334ae360cea0846fe928"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-raw/plus.json",
+      "sha256": "b4ae8a80be9decc511028827ab2ec1eab79770469121f9e5170f40dfb862ecda"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/baseline-raw-v3.json",
+      "sha256": "37ff67d7df3a05544be56fc546e0591f781bc91b9b906e762aceff4125091ebf"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-final/base.json",
+      "sha256": "524cd81b1b20f8135bd72f54ecbcb66337431c93fc35d2f38f1f3b14faf70134"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/baseline-final/plus.json",
+      "sha256": "4bca7d8f040ca93099679bd1393e3eae133f55e40ab230ab43824e8edf5d3493"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/baseline-final-v3.json",
+      "sha256": "eeab30190ee39f9c1e8f1a03b434163e48560bc21777fa7d641b132bd30cfda0"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-review/baseline-review-frozen.json",
+      "sha256": "a044b4ac088d5dc049d27b5197ac19c636f6de246d7c303988e8348bce2c845b"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-raw/base.json",
+      "sha256": "c0c274aeca0275fbe9070edbeeab981d68c04f95b80f43cf50e7dadf03b2f5a2"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-raw/plus.json",
+      "sha256": "4b3032286286e2a6a2f8482065a105ce98499f77a57b4480750e66f933e9e54a"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/combined_repaired-raw-v3.json",
+      "sha256": "2533d638c1ad3a8c75b9b738de483279e37089ab84fe6ca26cc5fe84f1056c4f"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-final/base.json",
+      "sha256": "a9a989b0fc694315771f8afb0f9a18803190dea181693497a57d0b815734b200"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/he164/scores/combined_repaired-final/plus.json",
+      "sha256": "bae3d80d608fff265137a6c82f95920956728bfd94a37553cdb52614ac8553a5"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-cpu/math500/scores/combined_repaired-final-v3.json",
+      "sha256": "09f071baba311d1e782443dc5a0843a1b03990b5ca58443df9e082248a3f3c80"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-review/combined_repaired-review-frozen.json",
+      "sha256": "9d17bcb9d857f685ed8bd8728f2c9b4630d0518443de8921238105d48582049d"
+    },
+    {
+      "path": "work/sarvam30b-frozen-replication/private-review/gpqa-per-problem-scores.json",
+      "sha256": "adda19cedec4fa0ee076a7087323dfdab8d627f6b625e0165ab3e4e86ea9d334"
+    },
+    {
+      "path": "outputs/sarvam30b-frozen-replication/GPU-COST.json",
+      "sha256": "260ae3f5ccad8b1a1fbccaf397d2db66a399d9641eec18be05dd3279b20f0734"
+    },
+    {
+      "path": "outputs/sarvam30b-frozen-replication/CPU-COST.json",
+      "sha256": "7c53d5664aacaa0d0d52f4bf1569380580e4e63e5de8f5aff751b6689ea16744"
+    }
+  ],
+  "notes": [
+    "Fresh generation after combined harness freeze on the same public benchmarks, not an unseen-task holdout.",
+    "Weights unchanged. Single completion per problem and arm. Code ceiling4096; math/GPQA ceiling8192.",
+    "Primary automatic: raw HumanEval base AND expanded, raw Math v3, GPQA official raw.",
+    "Identical frozen graders in both arms. Plain generic math instruction belongs to the combined repaired bundle.",
+    "Codex reviews are neither independent human grades nor a blinded panel. Code no-defect labels are static assessments, not execution pass@1.",
+    "Math semantic labels assess resolved final values, not complete mathematical proof correctness.",
+    "GPQA Codex labels extract chosen options without an expert key, frozen before key scoring; not expert scientific adjudication.",
+    "Manual comparisons do not override automatic benchmark results; all regressions retained."
+  ],
+  "compute_cost": {
+    "gpu_and_port_conservative_usd": 4.3926,
+    "cpu_and_port_conservative_usd": 0.0354,
+    "total_conservative_usd": 4.428,
+    "basis": "Elapsed allocation including startup and both full arms, rounded up by minute; estimate, not a Hugging Face invoice.",
+    "weight_training_usd": 0,
+    "gpu_stopped": true,
+    "cpu_stopped": true
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "status": "PASS",
+  "protocol_sha256": "b382530fbd7149e8fded6a5316dd2855f19eff505797fb957351c84ebdb42ee3",
+  "conditions": {
+    "baseline": {
+      "humaneval_plus": {
+        "n": 164,
+        "generation_sha256": "b06e8883555d1364d21874045761201501ccd4377832ef8eb3653f2fb0edd466",
+        "new_tokens": 444926,
+        "truncated": 66,
+        "policy_applied": 0
+      },
+      "math500": {
+        "n": 500,
+        "generation_sha256": "43f5ea1fca37398ce6ff12ed10d26e4100b0d7c52da821c70abcf17ca1234780",
+        "new_tokens": 2439384,
+        "truncated": 250,
+        "policy_applied": 0
+      },
+      "gpqa_diamond": {
+        "n": 198,
+        "generation_sha256": "be7bc1344bf3e07ad69cc890fdf45aa4ed0e874fa271f3c322895f8f7cfd4668",
+        "new_tokens": 1459811,
+        "truncated": 167,
+        "policy_applied": 0
+      }
+    },
+    "combined_repaired": {
+      "humaneval_plus": {
+        "n": 164,
+        "generation_sha256": "7864b4e807a5b9c222007cf310b6f1584b88649d68bf16605c6eb771c440dbdd",
+        "new_tokens": 401912,
+        "truncated": 3,
+        "policy_applied": 66
+      },
+      "math500": {
+        "n": 500,
+        "generation_sha256": "908296f7362a2c4c26bf3ab85593ea4716d9e58e7f505c18151744dd189c2387",
+        "new_tokens": 2287769,
+        "truncated": 38,
+        "policy_applied": 236
+      },
+      "gpqa_diamond": {
+        "n": 198,
+        "generation_sha256": "987c584bf2e2282296ea607fc809bc9d4488b1048ff5483c55773e260c1fe041",
+        "new_tokens": 1404956,
+        "truncated": 30,
+        "policy_applied": 169
+      }
+    }
+  },
+  "all_pairs": {
+    "humaneval_plus": {
+      "n": 164,
+      "same_prompt_hash_count": 164,
+      "same_completion_count": 0
+    },
+    "math500": {
+      "n": 500,
+      "same_prompt_hash_count": 0,
+      "same_completion_count": 0
+    },
+    "gpqa_diamond": {
+      "n": 198,
+      "same_prompt_hash_count": 198,
+      "same_completion_count": 0
+    }
+  }
+}

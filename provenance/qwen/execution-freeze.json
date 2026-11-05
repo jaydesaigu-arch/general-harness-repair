@@ -1,0 +1,14 @@
+{
+  "frozen_at_utc": "2026-11-04T12:18:55.442565+00:00",
+  "sha256": {
+    "gpu_controller.py": "fc9b235061a10b6ea5602069a5e312ec9bddb7b5e1ed03b3eb295810ecddcad5",
+    "cpu_controller.py": "99b90b0e401ce17683e387dd962419a417a9157f0d277e8684f7e6a1189c916d",
+    "cpu_bootstrap.py": "0fdf49df895252dc588f1f3c8d19638c45b9446c460a84189d8a03b8f8650ca5",
+    "score_cpu.py": "e63bb9a3750b1014ccaf1258d8fa5b33bda3cb62ba2c113baff0b1472c128040",
+    "protocol.json": "43b2403ae1b331ad485df8c43d115852d27331ffea6d6dad9fa3df245991e6af",
+    "worker.py": "14507bcd1b5d380dd86c9313f8c1bcd8462b5433b852ca31a8d4c7dc7759d0b7"
+  },
+  "no_scored_qwen_generation_yet": true,
+  "native_tokenizer_roundtrips_passed": 1724,
+  "qualified_pilot_controls": 54
+}

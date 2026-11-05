@@ -1,0 +1,20 @@
+{
+  "temperature": 0,
+  "top_p": 1,
+  "seed": 20261108,
+  "max_context": 12288,
+  "max_num_seqs": 48,
+  "max_num_batched_tokens": 4096,
+  "code_output_ceiling": 4096,
+  "math_and_gpqa_output_ceiling": 8192,
+  "reserve": 1024,
+  "stop_token_ids": [
+    1,
+    26
+  ],
+  "prefix_cache": false,
+  "eager": true,
+  "gpu_memory_utilization": 0.92,
+  "thinking": true,
+  "same_shuffled_question_order_both_arms": true
+}

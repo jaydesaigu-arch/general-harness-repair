@@ -1,0 +1,81 @@
+{
+  "status": "PASS",
+  "protocol_sha256": "43b2403ae1b331ad485df8c43d115852d27331ffea6d6dad9fa3df245991e6af",
+  "conditions": {
+    "baseline": {
+      "humaneval_plus": {
+        "n": 164,
+        "sha256": "28c8048ac6d9acb55856d95ee681b16c47d7c7750c7e5626fd998b9f0c5a7730",
+        "tokens": 192377,
+        "truncated": 16,
+        "policy_applied": 0
+      },
+      "math500": {
+        "n": 500,
+        "sha256": "06185a306d179d5e189212f44dbcc3ed7a6d985483b63841c7c609fc4d92064b",
+        "tokens": 750638,
+        "truncated": 23,
+        "policy_applied": 0
+      },
+      "gpqa_diamond": {
+        "n": 198,
+        "sha256": "9b22e02c25bd5231737c296474915504439f6cfe65f3f3e65e64bcecfe0ba546",
+        "tokens": 1018262,
+        "truncated": 86,
+        "policy_applied": 0
+      }
+    },
+    "combined_repaired": {
+      "humaneval_plus": {
+        "n": 164,
+        "sha256": "bc87c1a633502546bff0409db4b259055c9a785b6ab01f4fcde1920a056b0dec",
+        "tokens": 176010,
+        "truncated": 1,
+        "policy_applied": 20
+      },
+      "math500": {
+        "n": 500,
+        "sha256": "931280ee0d097f3abb8b7ce32bc763ed0d84c3b797117c1090f4e86087a4de91",
+        "tokens": 801015,
+        "truncated": 6,
+        "policy_applied": 34
+      },
+      "gpqa_diamond": {
+        "n": 198,
+        "sha256": "47d4d52e4cb170305d8c855599321cceafd19c564a4892a237da3aa66979aa6a",
+        "tokens": 975109,
+        "truncated": 3,
+        "policy_applied": 91
+      }
+    }
+  },
+  "pairs": {
+    "humaneval_plus": {
+      "n": 164,
+      "same_prompt_hash_count": 164
+    },
+    "math500": {
+      "n": 500,
+      "same_prompt_hash_count": 0
+    },
+    "gpqa_diamond": {
+      "n": 198,
+      "same_prompt_hash_count": 198
+    }
+  },
+  "deployed_gpu_source_files_verified": 7,
+  "deployed_cpu_sources_verified": [
+    "he164\\common.py",
+    "he164\\cpu_eval.py",
+    "he164\\patch_evalplus.py",
+    "he164\\root_positive.py",
+    "he164\\sanitize_dependencies_v2.py",
+    "math500\\audit_gold_parse.py",
+    "math500\\math_grade.py",
+    "math500\\math_grade_v2.py",
+    "math500\\math_grade_v3.py",
+    "sarvam30b\\cpu_bootstrap.py",
+    "sarvam30b\\harness.py",
+    "sarvam30b\\score_cpu.py"
+  ]
+}

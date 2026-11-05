@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper and preserve upstream benchmark/model attribution."
+type: article
+title: "A general harness repair approach to AI Model improvement"
+authors:
+  - family-names: "Desai"
+    given-names: "Jay"
+    affiliation: "Gujarat University"
+year: 2026
+date-released: 2026-11-05
+url: "https://github.com/jaydesaigu-arch/general-harness-repair"
+repository-code: "https://github.com/jaydesaigu-arch/general-harness-repair"
+keywords:
+  - language models
+  - inference harness
+  - evaluation
+  - reproducibility

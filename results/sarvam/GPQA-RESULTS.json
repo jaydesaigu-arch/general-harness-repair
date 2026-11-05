@@ -1,0 +1,72 @@
+{
+  "conditions": {
+    "baseline": {
+      "n": 198,
+      "metrics": {
+        "official_raw": {
+          "correct": 50,
+          "unresolved": 138
+        },
+        "official_final": {
+          "correct": 26,
+          "unresolved": 167
+        },
+        "qualified_final": {
+          "correct": 26,
+          "unresolved": 167
+        },
+        "codex_resolved_choice": {
+          "correct": 69,
+          "unresolved": 104
+        }
+      }
+    },
+    "combined_repaired": {
+      "n": 198,
+      "metrics": {
+        "official_raw": {
+          "correct": 109,
+          "unresolved": 20
+        },
+        "official_final": {
+          "correct": 104,
+          "unresolved": 25
+        },
+        "qualified_final": {
+          "correct": 104,
+          "unresolved": 25
+        },
+        "codex_resolved_choice": {
+          "correct": 114,
+          "unresolved": 8
+        }
+      }
+    }
+  },
+  "paired": {
+    "official_raw": {
+      "gains": 62,
+      "losses": 3,
+      "net": 59,
+      "descriptive_exact_two_sided_mcnemar_p": 2.4842324378160363e-15
+    },
+    "official_final": {
+      "gains": 79,
+      "losses": 1,
+      "net": 78,
+      "descriptive_exact_two_sided_mcnemar_p": 1.3400325923359048e-22
+    },
+    "qualified_final": {
+      "gains": 79,
+      "losses": 1,
+      "net": 78,
+      "descriptive_exact_two_sided_mcnemar_p": 1.3400325923359048e-22
+    },
+    "codex_resolved_choice": {
+      "gains": 49,
+      "losses": 4,
+      "net": 45,
+      "descriptive_exact_two_sided_mcnemar_p": 7.053979622639872e-11
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "plain_prompt_repeat-final",
+  "n": 500,
+  "truncated": 46,
+  "scores": {
+    "reference_first": 109,
+    "final_or_boxed": 264
+  }
+}

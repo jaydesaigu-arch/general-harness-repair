@@ -1,0 +1,9 @@
+{
+  "name": "sham_control-raw",
+  "n": 500,
+  "truncated": 234,
+  "scores": {
+    "reference_first": 32,
+    "final_or_boxed": 322
+  }
+}

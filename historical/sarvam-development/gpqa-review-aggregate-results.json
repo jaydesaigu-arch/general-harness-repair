@@ -1,0 +1,264 @@
+{
+  "status": "complete;792 source hashes and pre-score ledger verified",
+  "reviewer": "Codex; not an independent human or scientific expert panel",
+  "conditions": {
+    "baseline": {
+      "n": 198,
+      "manual_semantic_choice_correct": 77,
+      "manual_unresolved": 102,
+      "automatic": {
+        "official_raw": {
+          "correct": 50,
+          "manual_pass_auto_fail": 27,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 40
+        },
+        "official_final": {
+          "correct": 22,
+          "manual_pass_auto_fail": 55,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 70
+        },
+        "qualified_final": {
+          "correct": 22,
+          "manual_pass_auto_fail": 55,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 70
+        }
+      },
+      "truncated": 172
+    },
+    "budget_forced": {
+      "n": 198,
+      "manual_semantic_choice_correct": 114,
+      "manual_unresolved": 14,
+      "automatic": {
+        "official_raw": {
+          "correct": 109,
+          "manual_pass_auto_fail": 5,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 12
+        },
+        "official_final": {
+          "correct": 108,
+          "manual_pass_auto_fail": 6,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 13
+        },
+        "qualified_final": {
+          "correct": 109,
+          "manual_pass_auto_fail": 5,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 12
+        }
+      },
+      "truncated": 27
+    },
+    "sham_control": {
+      "n": 198,
+      "manual_semantic_choice_correct": 77,
+      "manual_unresolved": 101,
+      "automatic": {
+        "official_raw": {
+          "correct": 50,
+          "manual_pass_auto_fail": 27,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 41
+        },
+        "official_final": {
+          "correct": 22,
+          "manual_pass_auto_fail": 55,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 71
+        },
+        "qualified_final": {
+          "correct": 22,
+          "manual_pass_auto_fail": 55,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 71
+        }
+      },
+      "truncated": 172
+    },
+    "fresh_repaired": {
+      "n": 198,
+      "manual_semantic_choice_correct": 111,
+      "manual_unresolved": 15,
+      "automatic": {
+        "official_raw": {
+          "correct": 106,
+          "manual_pass_auto_fail": 5,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 9
+        },
+        "official_final": {
+          "correct": 104,
+          "manual_pass_auto_fail": 7,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 11
+        },
+        "qualified_final": {
+          "correct": 105,
+          "manual_pass_auto_fail": 6,
+          "manual_fail_auto_pass": 0,
+          "selected_choice_disagreements": 12
+        }
+      },
+      "truncated": 28
+    }
+  },
+  "manual_paired_comparisons": {
+    "budget_forced": {
+      "gains": [
+        "gpqa_diamond/008",
+        "gpqa_diamond/012",
+        "gpqa_diamond/014",
+        "gpqa_diamond/015",
+        "gpqa_diamond/018",
+        "gpqa_diamond/023",
+        "gpqa_diamond/026",
+        "gpqa_diamond/027",
+        "gpqa_diamond/030",
+        "gpqa_diamond/033",
+        "gpqa_diamond/042",
+        "gpqa_diamond/048",
+        "gpqa_diamond/060",
+        "gpqa_diamond/061",
+        "gpqa_diamond/064",
+        "gpqa_diamond/074",
+        "gpqa_diamond/077",
+        "gpqa_diamond/078",
+        "gpqa_diamond/080",
+        "gpqa_diamond/100",
+        "gpqa_diamond/101",
+        "gpqa_diamond/104",
+        "gpqa_diamond/108",
+        "gpqa_diamond/116",
+        "gpqa_diamond/120",
+        "gpqa_diamond/123",
+        "gpqa_diamond/127",
+        "gpqa_diamond/129",
+        "gpqa_diamond/140",
+        "gpqa_diamond/146",
+        "gpqa_diamond/157",
+        "gpqa_diamond/159",
+        "gpqa_diamond/160",
+        "gpqa_diamond/165",
+        "gpqa_diamond/168",
+        "gpqa_diamond/174",
+        "gpqa_diamond/188",
+        "gpqa_diamond/190"
+      ],
+      "losses": [
+        "gpqa_diamond/133"
+      ],
+      "net": 37,
+      "exact_two_sided_mcnemar_p": 1.4551915228366852e-10
+    },
+    "sham_control": {
+      "gains": [],
+      "losses": [],
+      "net": 0,
+      "exact_two_sided_mcnemar_p": 1
+    },
+    "fresh_repaired": {
+      "gains": [
+        "gpqa_diamond/001",
+        "gpqa_diamond/010",
+        "gpqa_diamond/014",
+        "gpqa_diamond/015",
+        "gpqa_diamond/018",
+        "gpqa_diamond/020",
+        "gpqa_diamond/023",
+        "gpqa_diamond/026",
+        "gpqa_diamond/027",
+        "gpqa_diamond/030",
+        "gpqa_diamond/032",
+        "gpqa_diamond/033",
+        "gpqa_diamond/042",
+        "gpqa_diamond/048",
+        "gpqa_diamond/060",
+        "gpqa_diamond/061",
+        "gpqa_diamond/064",
+        "gpqa_diamond/074",
+        "gpqa_diamond/077",
+        "gpqa_diamond/081",
+        "gpqa_diamond/100",
+        "gpqa_diamond/101",
+        "gpqa_diamond/104",
+        "gpqa_diamond/123",
+        "gpqa_diamond/125",
+        "gpqa_diamond/127",
+        "gpqa_diamond/129",
+        "gpqa_diamond/138",
+        "gpqa_diamond/146",
+        "gpqa_diamond/157",
+        "gpqa_diamond/160",
+        "gpqa_diamond/165",
+        "gpqa_diamond/168",
+        "gpqa_diamond/173",
+        "gpqa_diamond/178",
+        "gpqa_diamond/188",
+        "gpqa_diamond/190"
+      ],
+      "losses": [
+        "gpqa_diamond/109",
+        "gpqa_diamond/133",
+        "gpqa_diamond/194"
+      ],
+      "net": 34,
+      "exact_two_sided_mcnemar_p": 1.946500560734421e-08
+    },
+    "forced_vs_sham": {
+      "gains": [
+        "gpqa_diamond/008",
+        "gpqa_diamond/012",
+        "gpqa_diamond/014",
+        "gpqa_diamond/015",
+        "gpqa_diamond/018",
+        "gpqa_diamond/023",
+        "gpqa_diamond/026",
+        "gpqa_diamond/027",
+        "gpqa_diamond/030",
+        "gpqa_diamond/033",
+        "gpqa_diamond/042",
+        "gpqa_diamond/048",
+        "gpqa_diamond/060",
+        "gpqa_diamond/061",
+        "gpqa_diamond/064",
+        "gpqa_diamond/074",
+        "gpqa_diamond/077",
+        "gpqa_diamond/078",
+        "gpqa_diamond/080",
+        "gpqa_diamond/100",
+        "gpqa_diamond/101",
+        "gpqa_diamond/104",
+        "gpqa_diamond/108",
+        "gpqa_diamond/116",
+        "gpqa_diamond/120",
+        "gpqa_diamond/123",
+        "gpqa_diamond/127",
+        "gpqa_diamond/129",
+        "gpqa_diamond/140",
+        "gpqa_diamond/146",
+        "gpqa_diamond/157",
+        "gpqa_diamond/159",
+        "gpqa_diamond/160",
+        "gpqa_diamond/165",
+        "gpqa_diamond/168",
+        "gpqa_diamond/174",
+        "gpqa_diamond/188",
+        "gpqa_diamond/190"
+      ],
+      "losses": [
+        "gpqa_diamond/133"
+      ],
+      "net": 37,
+      "exact_two_sided_mcnemar_p": 1.4551915228366852e-10
+    }
+  },
+  "manual_scope": "Resolved choice extraction, including unambiguous conclusions inside unfinished reasoning. No independent scientific validation of expert key. Explicit final selected letter takes precedence over conflicting prose. Unresolved choices count incorrect.",
+  "choice_ledger_sha256": "9e0b17805ceb4ee10298d795358d23c62bc30dd36f003ac1bf25919c8d27639c",
+  "strict_duplicate_policy": "First string-equal expert label, matching upstream. Alternative duplicate-equivalence sensitivity computed separately.",
+  "automatic_originals_preserved": true
+}

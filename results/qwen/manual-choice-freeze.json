@@ -1,0 +1,7 @@
+{
+  "frozen_at_utc": "2026-11-04T19:25:56.137124+00:00",
+  "conditions": 2,
+  "n_per_condition": 198,
+  "private_choice_ledger_sha256": "4c3242a2a2e91aabcd0784724338f18c0beba66ab7dd2dd111d6738af83b9216",
+  "scope": "Resolved-choice review frozen before fresh expert-key scoring; Codex review, not independent human science adjudication."
+}

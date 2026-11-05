@@ -1,0 +1,9 @@
+{
+  "vllm": "0.15.0",
+  "torch": "2.9.1+cu128",
+  "transformers": "4.57.6",
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "bootstrap_seconds": 195.23730731010437,
+  "author_executor_sha256": "85b8664d99b16c5b8cf5e54a7393aa10e3a7a042743fed59f9aa4060cc17c720",
+  "weights_downloaded": 26
+}
